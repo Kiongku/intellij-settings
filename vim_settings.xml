@@ -6,7 +6,13 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1487961408354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1487961394082">
+      <file name="/Bash Script.txt.ft" timestamp="1487962119478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1487962115978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1487962114100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
@@ -19,7 +25,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="false" />
