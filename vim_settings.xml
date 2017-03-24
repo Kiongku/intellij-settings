@@ -12,6 +12,19 @@
       <file name="/JavaScript File.txt.ft" timestamp="1487962115978">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
+        <mark key="[" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" timestamp="1490330535576">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/csv/build.gradle" timestamp="1490330272431" />
       <file name="/Unnamed.txt.ft" timestamp="1489057302077">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,9 +37,25 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/gradle/wrapper/gradle-wrapper.properties" timestamp="1490329808406">
+        <mark key="[" line="5" column="69" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21waWxlKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYSIpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb21waWxlKCdvcmcuYXBhY2hlLmNvbW1vbnM6Y29tbW9ucy1jc3Y6MS40JykK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
