@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1490612922785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499261233389">
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="226" column="1" />
+      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499263684955">
+        <mark key="[" line="90" column="81" />
+        <mark key="]" line="90" column="116" />
+        <mark key="." line="90" column="116" />
+        <mark key="^" line="90" column="116" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
         <mark key="[" line="2" column="0" />
@@ -61,8 +61,8 @@
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEMsIEMrK30=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFdvcmsgd2l0aAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEMsIEMrK30=</text>
@@ -74,34 +74,34 @@
         <text encoding="base64">ICBjb21waWxlKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBcc2VjdGlvbntJbnRlcmVzdHN9CiAgICBcdGV4dGJme0NocmlzdGlhbml0eX0KICAgIFx0ZXh0YmZ7TXVzaWN9CiAgICBcdGV4dGJme1Bob3RvZ3JhcGh5fQogICAgXHRleHRiZntFLVNwb3J0c30KICAgIFx0ZXh0YmZ7R2FtZSBEZXZlbG9wbWVudH0KICAgIFx0ZXh0YmZ7TW9iaWxlIERldmVsb3BtZW50fQogICAgfgo=</text>
+        <text encoding="base64">ICAgIFdvcmsgd2l0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERlc2lnbiwgZGV2ZWxvcCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBcc2VjdGlvbntJbnRlcmVzdHN9CiAgICBcdGV4dGJme0NocmlzdGlhbml0eX0KICAgIFx0ZXh0YmZ7TXVzaWN9CiAgICBcdGV4dGJme1Bob3RvZ3JhcGh5fQogICAgXHRleHRiZntFLVNwb3J0c30KICAgIFx0ZXh0YmZ7R2FtZSBEZXZlbG9wbWVudH0KICAgIFx0ZXh0YmZ7TW9iaWxlIERldmVsb3BtZW50fQogICAgfgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcHJpbmdCb290VmVyc2lvbiA9ICcxLjUuMi5SRUxFQVNFJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXh0IHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzcHJpbmdCb290VmVyc2lvbiA9ICcxLjUuMi5SRUxFQVNFJwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CnBsdWdpbnMgewogIGlkICdqYXZhJwogIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzEuNS4yLlJFTEVBU0UnCn0K</text>
+        <text encoding="base64">ZXh0IHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4dCB7CiAgc3ByaW5nQm9vdFZlcnNpb24gPSAnMS41LjIuUkVMRUFTRScKfQo=</text>
+        <text encoding="base64">CnBsdWdpbnMgewogIGlkICdqYXZhJwogIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzEuNS4yLlJFTEVBU0UnCn0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -118,6 +118,7 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
