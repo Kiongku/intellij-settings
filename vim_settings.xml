@@ -3,20 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490612922785">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/gradle/idea.gradle" timestamp="1505931879791">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1505932388423">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499266631127">
-        <mark key="[" line="93" column="146" />
-        <mark key="]" line="93" column="161" />
-        <mark key="." line="93" column="161" />
-        <mark key="^" line="93" column="161" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
         <mark key="[" line="2" column="0" />
@@ -26,17 +14,8 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/Application.java" timestamp="1505933704637">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1487961408354">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Bash Script.txt.ft" timestamp="1487962119478">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript File.txt.ft" timestamp="1487962115978">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
-        <mark key="[" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/clinic-backend.gradle" timestamp="1506019290627">
         <mark key="[" line="13" column="2" />
@@ -50,9 +29,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
       </file>
@@ -62,16 +38,10 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/gradle/wrapper/gradle-wrapper.properties" timestamp="1505931584530">
-        <mark key="[" line="4" column="70" />
-      </file>
       <file name="/Unnamed.txt.ft" timestamp="1489057302077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Bash Script Module.txt.ft" timestamp="1489115180948">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1505976432419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1489115178096">
@@ -94,6 +64,39 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490612922785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/gradle/idea.gradle" timestamp="1505931879791">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499266631127">
+        <mark key="[" line="93" column="146" />
+        <mark key="]" line="93" column="161" />
+        <mark key="." line="93" column="161" />
+        <mark key="^" line="93" column="161" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1487961408354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1487962115978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
+        <mark key="[" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/gradle/wrapper/gradle-wrapper.properties" timestamp="1505931584530">
+        <mark key="[" line="4" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1505976432419">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1506019622798">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
