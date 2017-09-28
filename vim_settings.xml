@@ -44,11 +44,10 @@
       <file name="/Bash Script Module.txt.ft" timestamp="1489115180948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/User.java" timestamp="1506620813920">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/User.java" timestamp="1506623310216">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1489115178096">
         <mark key="[" line="0" column="0" />
@@ -92,6 +91,12 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserService.java" timestamp="1506623562198">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,6 +108,9 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserServiceImpl.java" timestamp="1506623583232">
+        <mark key="[" line="3" column="29" />
+      </file>
       <file name="/fragment.java" timestamp="1506019622798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,11 +119,11 @@
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>apt</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -124,31 +132,31 @@
         <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFNlY3VyZVN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
+        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAiIgo=</text>
+        <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMuY29tcGlsZSB7CiAgZXhjbHVkZSBncm91cDogJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdCcsIG1vZHVsZTogJ3NwcmluZy1ib290LXN0YXJ0ZXItbG9nZ2luZycKICBleGNsdWRlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JywgbW9kdWxlOiAnbG9nYmFjay1jbGFzc2ljJwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1sb2c0ajInCg==</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbnMuY29tcGlsZSB7CiAgZXhjbHVkZSBncm91cDogJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdCcsIG1vZHVsZTogJ3NwcmluZy1ib290LXN0YXJ0ZXItbG9nZ2luZycKICBleGNsdWRlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JywgbW9kdWxlOiAnbG9nYmFjay1jbGFzc2ljJwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1sb2c0ajInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
