@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1507044283621">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1505932388423">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,11 +20,11 @@
       <file name="/Bash Script.txt.ft" timestamp="1487962119478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/clinic-backend.gradle" timestamp="1506619684592">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/clinic-backend.gradle" timestamp="1507044125759">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" timestamp="1490454315792">
         <mark key="'" line="13" column="13" />
@@ -32,11 +35,11 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1506019348203">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1507045463304">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1489057302077">
         <mark key="[" line="0" column="0" />
@@ -52,11 +55,11 @@
       <file name="/HTML File.txt.ft" timestamp="1489115178096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1506619049323">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="15" column="56" />
-        <mark key="^" line="15" column="56" />
-        <mark key="." line="15" column="56" />
+      <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1507043655311">
+        <mark key="[" line="33" column="61" />
+        <mark key="]" line="16" column="56" />
+        <mark key="^" line="16" column="56" />
+        <mark key="." line="16" column="56" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
@@ -111,7 +114,7 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserServiceImpl.java" timestamp="1506623583232">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1506019622798">
+      <file name="/fragment.java" timestamp="1507044279094">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
