@@ -10,7 +10,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/MysqlDatabaseConfig.java" timestamp="1507724682076">
-        <mark key="[" line="6" column="0" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
         <mark key="[" line="2" column="0" />
@@ -23,11 +23,11 @@
       <file name="/Bash Script.txt.ft" timestamp="1487962119478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/clinic-backend.gradle" timestamp="1507048523122">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/clinic-backend.gradle" timestamp="1507729453081">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
@@ -52,11 +52,10 @@
       <file name="/HTML File.txt.ft" timestamp="1489115178096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1507043655311">
-        <mark key="[" line="33" column="61" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="16" column="56" />
+      <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1507729441470">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
@@ -128,11 +127,11 @@
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJyYXJpZXMuc3ByaW5nQm9vdAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -141,31 +140,31 @@
         <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNlY3VyZVN0Cg==</text>
+        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJyYXJpZXMuc3ByaW5nQm9vdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIGphdmF4SW5qZWN0OiAnMScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
+        <text encoding="base64">ICAgIHNyaW5nQm9vdCAgICAgICAgICAgICAgOiBbCiAgICAgICAgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdCcsCiAgICAgICAgImphdmF4LmluamVjdDpqYXZheC5pbmplY3Q6JHt2ZXJzaW9ucy5qYXZheEluamVjdH0iCiAgICBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
+        <text encoding="base64">ICAgIHNwcmluZ0Jvb3QgICAgICAgICAgICAgIDogWwogICAgICAgICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QnLAogICAgICAgICJqYXZheC5pbmplY3Q6amF2YXguaW5qZWN0OiR7dmVyc2lvbnMuamF2YXhJbmplY3R9IgogICAgXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFNlY3VyZVN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAiIgo=</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMuY29tcGlsZSB7CiAgZXhjbHVkZSBncm91cDogJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdCcsIG1vZHVsZTogJ3NwcmluZy1ib290LXN0YXJ0ZXItbG9nZ2luZycKICBleGNsdWRlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JywgbW9kdWxlOiAnbG9nYmFjay1jbGFzc2ljJwp9Cg==</text>
+        <text encoding="base64">ICBjb21waWxlT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1sb2c0ajInCg==</text>
+        <text encoding="base64">ICBhcHQgbGlicmFyaWVzLnNwcmluZ0Jvb3RDb25maWdQcm9jCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
