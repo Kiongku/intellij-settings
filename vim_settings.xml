@@ -90,6 +90,11 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/Development/projects/syninno-base/gradle/wrapper/gradle-wrapper.properties" timestamp="1507731324941">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserService.java" timestamp="1506623562198">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="17" column="33" />
@@ -127,11 +132,11 @@
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiBsaWJyYXJpZXMuc3ByaW5nQm9vdAo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
