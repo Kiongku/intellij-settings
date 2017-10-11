@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1507044283621">
+      <file name="/a.dummy" timestamp="1507724663402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1505932388423">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/MysqlDatabaseConfig.java" timestamp="1507724682076">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
         <mark key="[" line="2" column="0" />
@@ -25,12 +28,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" timestamp="1490454315792">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
@@ -111,8 +108,11 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/h2DatabaseConfig.java" timestamp="1507649321421">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/h2DatabaseConfig.java" timestamp="1507724654876">
         <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserServiceImpl.java" timestamp="1506623583232">
         <mark key="[" line="3" column="29" />
