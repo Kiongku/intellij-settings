@@ -115,6 +115,9 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic.dart" timestamp="1507826985947">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="40" />
@@ -126,6 +129,9 @@
         <mark key="]" line="93" column="161" />
         <mark key="." line="93" column="161" />
         <mark key="^" line="93" column="161" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic-app.html" timestamp="1507827148289">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
         <mark key="[" line="35" column="88" />
@@ -155,6 +161,9 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/web/main.dart" timestamp="1507827480330">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/users/controller/v1/UsersRestController.java" timestamp="1507777334332">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="10" column="28" />
@@ -164,10 +173,10 @@
       <file name="$USER_HOME$/Development/projects/sims/gradle/wrapper/gradle-wrapper.properties" timestamp="1505931584530">
         <mark key="[" line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1506099913019">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1507826024986">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/h2DatabaseConfig.java" timestamp="1507724654876">
         <mark key="[" line="1" column="0" />
@@ -181,6 +190,11 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/ClinicBackendApplication.java" timestamp="1507641859436">
         <mark key="[" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/web/index.html" timestamp="1507826914407">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1507642023770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,7 +204,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -202,32 +216,32 @@
         <text encoding="base64">YXBwbHkgZnJvbTogJ2dyYWRsZS9pZGVhLmdyYWRsZScKYXBwbHkgZnJvbTogJ2dyYWRsZS9kZXBlbmRlbmNpZXMuZ3JhZGxlJwoKYWxscHJvamVjdHMgewogIGdyb3VwICdjb20uc3luaW5ubycKCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW5DZW50cmFsKCkKICAgIGpjZW50ZXIoKQogIH0KfQoKc3VicHJvamVjdHMgewoKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBAUmVxdWVzdFJlCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>class ApiError implements Serializable {
   private S</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Kwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNsZjRqQXBpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
