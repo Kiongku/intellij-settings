@@ -130,11 +130,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ApiExceptionControllerAdvice.java" timestamp="1507787604719">
-        <mark key="[" line="41" column="96" />
-        <mark key="]" line="71" column="61" />
-        <mark key="." line="71" column="61" />
-        <mark key="^" line="71" column="61" />
+      <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ApiExceptionControllerAdvice.java" timestamp="1507920937902">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="69" column="61" />
       </file>
       <file name="/Bash Script Module.txt.ft" timestamp="1489115180948">
         <mark key="[" line="0" column="0" />
@@ -233,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWRhdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>github.ngyewch.dart'</text>
@@ -245,32 +245,31 @@
         <text encoding="base64">YXBwbHkgZnJvbTogJ2dyYWRsZS9pZGVhLmdyYWRsZScKYXBwbHkgZnJvbTogJ2dyYWRsZS9kZXBlbmRlbmNpZXMuZ3JhZGxlJwoKYWxscHJvamVjdHMgewogIGdyb3VwICdjb20uc3luaW5ubycKCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW5DZW50cmFsKCkKICAgIGpjZW50ZXIoKQogIH0KfQoKc3VicHJvamVjdHMgewoKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWRhdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PC9oZWFkPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAUmVxdWVzdFJlCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text>class ApiError implements Serializable {
-  private S</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
