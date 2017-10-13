@@ -11,8 +11,10 @@
       <file name="/a.dummy" timestamp="1507777342694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1505932388423">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1507893575937">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/MysqlDatabaseConfig.java" timestamp="1507724682076">
         <mark key="[" line="9" column="0" />
@@ -54,8 +56,8 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1507739408177">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1507893622868">
+        <mark key="[" line="5" column="8" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="22" column="0" />
@@ -203,61 +205,63 @@
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clinic_frontend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>clinic_frontend</text>
+        <text>github.ngyewch.dart'</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxnaXRodWJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogJ2dyYWRsZS9pZGVhLmdyYWRsZScKYXBwbHkgZnJvbTogJ2dyYWRsZS9kZXBlbmRlbmNpZXMuZ3JhZGxlJwoKYWxscHJvamVjdHMgewogIGdyb3VwICdjb20uc3luaW5ubycKCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW5DZW50cmFsKCkKICAgIGpjZW50ZXIoKQogIH0KfQoKc3VicHJvamVjdHMgewoKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
+        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFZhbGlkYXRpb25BcGlFcnJvciBidWlsZFZhbGlkYXRpb25BcGlFcnJvcihDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUsIGludCB2YWx1ZSkgewogIH0KCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBAUmVxdWVzdFJlCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>class ApiError implements Serializable {
   private S</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
+      <last-search encoding="base64">XDxnaXRodWJcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnaXRodWJcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDxnaXRodWJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
