@@ -232,11 +232,11 @@
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1507954105944">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1507955131048">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
@@ -274,7 +274,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgeyBwcm92aWRlOiBwcm92aWRlcnMgfQogICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -285,32 +285,32 @@
       <register name="0" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogJ2dyYWRsZS9pZGVhLmdyYWRsZScKYXBwbHkgZnJvbTogJ2dyYWRsZS9kZXBlbmRlbmNpZXMuZ3JhZGxlJwoKYWxscHJvamVjdHMgewogIGdyb3VwICdjb20uc3luaW5ubycKCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW5DZW50cmFsKCkKICAgIGpjZW50ZXIoKQogIH0KfQoKc3VicHJvamVjdHMgewoKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogIH0KfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgeyBwcm92aWRlOiBwcm92aWRlcnMgfQogICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFnZU5vdEZvdW5kQ29tcG9uZW50IH0gZnJvbSAnLi9wYWdlLW5vdC1mb3VuZC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFnZU5vdEZvdW5kQ29tcG9uZW50IH0gZnJvbSAnLi9wYWdlLW5vdC1mb3VuZC5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTogYAogICAgPGRpdiBzdHlsZT0iYWxpZ24tY29udGVudDogY2VudGVyIj4KICAgICAgPGltZyBzcmM9ImFzc2V0cy9pbWcvNDA0LmpwZyIgYWx0PSI0MDQgbm90IGZvdW5kIj4KICAgIDwvZGl2PgogIGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWRhdGlvbkV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTogYAogICAgPGRpdiBzdHlsZT0iYWxpZ24tY29udGVudDogY2VudGVyIj4KICAgICAgPGltZyBzcmM9ImFzc2V0cy9pbWcvNDA0LmpwZyIgYWx0PSI0MDQgbm90IGZvdW5kIj4KICAgIDwvZGl2PgogIGAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWRhdGlvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
+        <text encoding="base64">ZGFydCB7CiAgcmVsYXRpdmVTb3VyY2VEaXJlY3RvcnkgPSAnbGliL3NyYycKfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICA8c2NyaXB0IGRlZmVyPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
