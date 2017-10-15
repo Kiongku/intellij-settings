@@ -219,12 +219,6 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tslint.json" timestamp="1507918797082">
         <mark key="[" line="119" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/shared/shared.module.ts" timestamp="1507981007656">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="9" column="3" />
-      </file>
       <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499266631127">
         <mark key="[" line="93" column="146" />
         <mark key="]" line="93" column="161" />
@@ -270,8 +264,8 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1507925663562">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1508084475415">
+        <mark key="[" line="4" column="36" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
