@@ -46,8 +46,8 @@
       <file name="/Unnamed.txt.ft" timestamp="1489057302077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search-attendance.component.html" timestamp="1508066689016">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search-attendance.component.html" timestamp="1508169926870">
+        <mark key="[" line="5" column="46" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
@@ -72,6 +72,12 @@
         <mark key="]" line="8" column="90" />
         <mark key="." line="8" column="90" />
         <mark key="^" line="8" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.service.ts" timestamp="1508170944482">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login.component.ts" timestamp="1507921798866">
         <mark key="[" line="3" column="32" />
@@ -138,11 +144,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/Application.java" timestamp="1505933704637">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508005343483">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Bash Script.txt.ft" timestamp="1487962119478">
         <mark key="[" line="0" column="0" />
@@ -219,6 +220,12 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.model.ts" timestamp="1508170530572">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.module.ts" timestamp="1507998548386">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="17" column="1" />
@@ -227,6 +234,12 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tslint.json" timestamp="1507918797082">
         <mark key="[" line="119" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/shared/shared.module.ts" timestamp="1508160852517">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1499266631127">
         <mark key="[" line="93" column="146" />
@@ -252,11 +265,11 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508096409081">
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508169815796">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
@@ -291,6 +304,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.service.ts" timestamp="1508170437445">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserServiceImpl.java" timestamp="1506623583232">
         <mark key="[" line="3" column="29" />
       </file>
@@ -310,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.http.get()</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
@@ -322,31 +341,31 @@
         <text encoding="base64">YXBwbHkgZnJvbTogJ2dyYWRsZS9pZGVhLmdyYWRsZScKYXBwbHkgZnJvbTogJ2dyYWRsZS9kZXBlbmRlbmNpZXMuZ3JhZGxlJwoKYWxscHJvamVjdHMgewogIGdyb3VwICdjb20uc3luaW5ubycKCiAgcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW5DZW50cmFsKCkKICAgIGpjZW50ZXIoKQogIH0KfQoKc3VicHJvamVjdHMgewoKICB0YXNrcy53aXRoVHlwZShKYXZhQ29tcGlsZSkgewogICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGg6IEF1dGhlbnRpY2F0aW9uU2VydmljZSkgewogIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi9hdXRoZW50aWNhdGlvbi9hdXRoZW50aWNhdGlvbi5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcHJvdmlkZTogSFRUUF9JTlRFUkNFUFRPUlMsCiAgICAgIHVzZUNsYXNzOiBBcGlFbmRwb2ludEh0dHBJbnRlcmNlcHRvciwKICAgICAgbXVsdGk6IHRydWUKICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi9hdXRoZW50aWNhdGlvbi5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgIEh0dHBDbGllbnRNb2R1bGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQWxzbywgY29yZSBzdXBwb3J0aW5nIGZ1bmN0aW9uYWxpdGllcyBzdWNoIGFzIGF1dGhlbnRpY2F0aW9uLCBsb2dnaW5nIGFyZSB0byBiZSBpbXBsZW1lbnRlZCBpbiBjb3JlIG1vZHVsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnRNb2R1bGUK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
