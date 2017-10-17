@@ -283,11 +283,11 @@
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508210631050">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508261604618">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking-routing.module.ts" timestamp="1508257585558">
         <mark key="[" line="20" column="0" />
@@ -343,7 +343,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3Nlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -355,31 +355,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dC5oYW5kbGUocmVxLmNsb25lKHsKICAgICAgICAgIHVybDogYCR7ZW52aXJvbm1lbnQuYXBpVXJsfSR7dXJsfWAKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3Nlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbCiAgICBNYXRCdXR0b25Nb2R1bGUsCiAgICBNYXRCdXR0b25Ub2dnbGVNb2R1bGUKICBdLAo=</text>
+        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbCiAgXQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJvd3Nlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1hdEJ1dHRvbk1vZHVsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hdAo=</text>
+        <text encoding="base64">ICBpbXBvcnRzOiBbCiAgICBNYXRCdXR0b25Nb2R1bGUsCiAgICBNYXRCdXR0b25Ub2dnbGVNb2R1bGUKICBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hdAo=</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbCiAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIE1hdEJ1dHRvbk1vZHVsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWNsYXJhdGlvbnM6IFtdCg==</text>
+        <text encoding="base64">ICAgIE1hdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
