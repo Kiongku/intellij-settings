@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.model.ts" timestamp="1508263269978">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ApiError.java" timestamp="1507778510857">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -14,6 +20,11 @@
         <mark key="]" line="9" column="6" />
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.http-interceptor.ts" timestamp="1508264268900">
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1507893622868">
         <mark key="[" line="5" column="8" />
@@ -343,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
@@ -355,31 +366,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dC5oYW5kbGUocmVxLmNsb25lKHsKICAgICAgICAgIHVybDogYCR7ZW52aXJvbm1lbnQuYXBpVXJsfSR7dXJsfWAKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiBub3QgYSBjbGllbnQgZXJyb3IsIGNoZWNrIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3Nlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyLmVycm9yIGluc3RhbmNlb2YgRXJyb3IpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5lcnJvci5tZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cFJlcXVlc3QgfSBmcm9tICdzZWxlbml1bS13ZWJkcml2ZXIvaHR0cCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbCiAgICBNYXRCdXR0b25Nb2R1bGUsCiAgICBNYXRCdXR0b25Ub2dnbGVNb2R1bGUKICBdLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbCiAgXQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hdEJ1dHRvbk1vZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1hdAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
