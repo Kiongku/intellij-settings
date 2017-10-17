@@ -21,10 +21,11 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.http-interceptor.ts" timestamp="1508264268900">
-        <mark key="[" line="8" column="83" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.http-interceptor.ts" timestamp="1508266515980">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1507893622868">
         <mark key="[" line="5" column="8" />
@@ -294,11 +295,11 @@
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508261604618">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="18" column="16" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508266599163">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+        <mark key="^" line="34" column="64" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking-routing.module.ts" timestamp="1508257585558">
         <mark key="[" line="20" column="0" />
@@ -353,11 +354,11 @@
       <jump line="6" column="10" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>headers</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
