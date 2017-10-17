@@ -63,11 +63,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.component.ts" timestamp="1508243299734">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.component.ts" timestamp="1508249267012">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic.dart" timestamp="1507826985947">
         <mark key="[" line="0" column="0" />
@@ -157,11 +156,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.resolver.ts" timestamp="1508242516735">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="35" column="52" />
-        <mark key="^" line="35" column="52" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.resolver.ts" timestamp="1508249332479">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/ClinicBackendApplication.java" timestamp="1507641859436">
         <mark key="[" line="6" column="22" />
@@ -406,7 +405,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAscAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -418,31 +417,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dC5oYW5kbGUocmVxLmNsb25lKHsKICAgICAgICAgIHVybDogYCR7ZW52aXJvbm1lbnQuYXBpVXJsfSR7dXJsfWAKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAscAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb24ucmVwbGFjZVN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAscAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZ09uSW5pdCgpOiB2b2lkIHsKICB9CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vYnNlcnZhYmxlL29mJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpZFN0ciA9PSBudWxsKSB7CiAgICB9IGVsc2UgewogICAgfQo=</text>
+        <text encoding="base64">ICBuZ09uSW5pdCgpOiB2b2lkIHsKICB9CiAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vYnNlcnZhYmxlL29mJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
