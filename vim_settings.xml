@@ -36,6 +36,12 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search-attendance.component.html" timestamp="1508169926870">
         <mark key="[" line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.ts" timestamp="1508341047633">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1507729441470">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -101,6 +107,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.component.ts" timestamp="1508340974705">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -314,20 +325,23 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.module.ts" timestamp="1508257691758">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.module.ts" timestamp="1508340707689">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.resolver.ts" timestamp="1508249954733">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/styles.css" timestamp="1508259668683">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/attendance.component.html" timestamp="1507924579222">
         <mark key="[" line="0" column="0" />
@@ -348,11 +362,11 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508257290974">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508341022614">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -445,6 +459,9 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.html" timestamp="1508340659807">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
@@ -456,6 +473,12 @@
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.ts" timestamp="1508340897080">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/users/controller/v1/UsersRestController.java" timestamp="1507777334332">
         <mark key="[" line="8" column="2" />
@@ -488,7 +511,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
@@ -500,28 +523,28 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIC8vIGhhbmRsZSBvbmx5IHJlcXVlc3RzIGdvaW5nIHRvIGtub3duIGFwaSB1cmxzCiAgICAvLyBpZiAoL15cL2FwaVwvLy50ZXN0KHJlcS51cmwpKSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpCiAgICAvLyAgICAgLmNhdGNoKChlcnI6IEh0dHBFcnJvclJlc3BvbnNlKSA9PiB7CiAgICAvLyAgICAgICAvLyB0cnkgdG8gdHJhbnNmb3JtIHNlcnZlciBlcnJvcnMgb25seQogICAgLy8gICAgICAgaWYgKCEoZXJyLmVycm9yIGluc3RhbmNlb2YgRXJyb3IpKSB7CiAgICAvLyAgICAgICAgIGNvbnN0IGNvbnRlbnRUeXBlID0gcmVxLmhlYWRlcnMuZ2V0KCdDb250ZW50LVR5cGUnKTsKICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsKICAgIC8vICAgICAgICAgICBjb25zdCBhcGlFcnJvciA9IG5ldyBBcGlFcnJvck1vZGVsKCk7CiAgICAvLyAgICAgICAgICAgT2JqZWN0LmFzc2lnbihhcGlFcnJvciwgSlNPTi5wYXJzZShlcnIubWVzc2FnZSkpOwogICAgLy8gICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLnRocm93KGFwaUVycm9yKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgICAgfQogICAgLy8gICAgICAgLy8gaWYgZXJyb3IgY2Fubm90IGJlIGhhbmRsZWQsIHJldHVybiBlcnJvciBhcyBpcwogICAgLy8gICAgICAgcmV0dXJuIE9ic2VydmFibGUudGhyb3coZXJyKTsKICAgIC8vICAgICB9KTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpOwogICAgLy8gfQo=</text>
+        <text encoding="base64">PHA+CiAgYm9va2luZy1kZXRhaWxzIHdvcmtzIQo8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBpRXJyb3JNb2RlbCB9IGZyb20gJy4vYXBpLWVycm9yJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZmFjdG9yCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgIC8vIC8vIGhhbmRsZSBvbmx5IHJlcXVlc3RzIGdvaW5nIHRvIGtub3duIGFwaSB1cmxzCiAgICAvLyBpZiAoL15cL2FwaVwvLy50ZXN0KHJlcS51cmwpKSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpCiAgICAvLyAgICAgLmNhdGNoKChlcnI6IEh0dHBFcnJvclJlc3BvbnNlKSA9PiB7CiAgICAvLyAgICAgICAvLyB0cnkgdG8gdHJhbnNmb3JtIHNlcnZlciBlcnJvcnMgb25seQogICAgLy8gICAgICAgaWYgKCEoZXJyLmVycm9yIGluc3RhbmNlb2YgRXJyb3IpKSB7CiAgICAvLyAgICAgICAgIGNvbnN0IGNvbnRlbnRUeXBlID0gcmVxLmhlYWRlcnMuZ2V0KCdDb250ZW50LVR5cGUnKTsKICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsKICAgIC8vICAgICAgICAgICBjb25zdCBhcGlFcnJvciA9IG5ldyBBcGlFcnJvck1vZGVsKCk7CiAgICAvLyAgICAgICAgICAgT2JqZWN0LmFzc2lnbihhcGlFcnJvciwgSlNPTi5wYXJzZShlcnIubWVzc2FnZSkpOwogICAgLy8gICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLnRocm93KGFwaUVycm9yKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgICAgfQogICAgLy8gICAgICAgLy8gaWYgZXJyb3IgY2Fubm90IGJlIGhhbmRsZWQsIHJldHVybiBlcnJvciBhcyBpcwogICAgLy8gICAgICAgcmV0dXJuIE9ic2VydmFibGUudGhyb3coZXJyKTsKICAgIC8vICAgICB9KTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpOwogICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
