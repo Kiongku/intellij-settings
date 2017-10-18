@@ -65,11 +65,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1508303893156">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1508332534674">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.html" timestamp="1508268871441">
         <mark key="[" line="0" column="0" />
@@ -386,6 +386,11 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.ts" timestamp="1508332517317">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="35" />
@@ -473,44 +478,44 @@
       <jump line="6" column="10" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZmFjdG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>Model</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRodWJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dC5oYW5kbGUocmVxLmNsb25lKHsKICAgICAgICAgIHVybDogYCR7ZW52aXJvbm1lbnQuYXBpVXJsfSR7dXJsfWAKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZmFjdG9yCg==</text>
+        <text encoding="base64">ICAgIC8vIC8vIGhhbmRsZSBvbmx5IHJlcXVlc3RzIGdvaW5nIHRvIGtub3duIGFwaSB1cmxzCiAgICAvLyBpZiAoL15cL2FwaVwvLy50ZXN0KHJlcS51cmwpKSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpCiAgICAvLyAgICAgLmNhdGNoKChlcnI6IEh0dHBFcnJvclJlc3BvbnNlKSA9PiB7CiAgICAvLyAgICAgICAvLyB0cnkgdG8gdHJhbnNmb3JtIHNlcnZlciBlcnJvcnMgb25seQogICAgLy8gICAgICAgaWYgKCEoZXJyLmVycm9yIGluc3RhbmNlb2YgRXJyb3IpKSB7CiAgICAvLyAgICAgICAgIGNvbnN0IGNvbnRlbnRUeXBlID0gcmVxLmhlYWRlcnMuZ2V0KCdDb250ZW50LVR5cGUnKTsKICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsKICAgIC8vICAgICAgICAgICBjb25zdCBhcGlFcnJvciA9IG5ldyBBcGlFcnJvck1vZGVsKCk7CiAgICAvLyAgICAgICAgICAgT2JqZWN0LmFzc2lnbihhcGlFcnJvciwgSlNPTi5wYXJzZShlcnIubWVzc2FnZSkpOwogICAgLy8gICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLnRocm93KGFwaUVycm9yKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgICAgfQogICAgLy8gICAgICAgLy8gaWYgZXJyb3IgY2Fubm90IGJlIGhhbmRsZWQsIHJldHVybiBlcnJvciBhcyBpcwogICAgLy8gICAgICAgcmV0dXJuIE9ic2VydmFibGUudGhyb3coZXJyKTsKICAgIC8vICAgICB9KTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHJldHVybiBuZXh0LmhhbmRsZShyZXEpOwogICAgLy8gfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBpRXJyb3JNb2RlbCB9IGZyb20gJy4vYXBpLWVycm9yJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgIC8vIHJlZmFjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNoYXJlZE1vZHVsZSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICcnLCByZWRpcmVjdFRvOiAnL2xvZ2luJywgcGF0aE1hdGNoOiAnZnVsbCcgfSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnLi4vc2hhcmVkL3NoYXJlZC5tb2R1bGUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
+        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
