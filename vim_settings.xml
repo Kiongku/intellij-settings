@@ -194,6 +194,7 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tslint.json" timestamp="1507918797082">
         <mark key="[" line="119" column="11" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/dist/styles.bundle.js" timestamp="1508534378296" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory.component.html" timestamp="1508290845511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,6 +264,13 @@
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" timestamp="1508117896184">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="9" column="90" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
@@ -368,11 +376,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508531874725">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508534718006">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -510,16 +519,19 @@
     <jumps>
       <jump line="11" column="13" filename="$USER_HOME$/Development/projects/scrapyard/gradle_project/jpa/build.gradle" />
       <jump line="6" column="10" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" />
+      <jump line="16" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
+      <jump line="9" column="7" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
+      <jump line="10" column="9" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>&quot;font-awesome.min.css&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;font-awesome.min.css&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnaXRodWJcPg==</text>
+        <text>assets</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsK</text>
@@ -556,18 +568,23 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnaXRodWJcPg==</last-search>
+      <last-search>assets</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnaXRodWJcPg==</last-pattern>
+      <last-pattern>assets</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxnaXRodWJcPg==</entry>
+        <entry>font-awesome</entry>
+        <entry>font-a</entry>
+        <entry>font-aw</entry>
+        <entry>styleUr</entry>
+        <entry>assets</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
