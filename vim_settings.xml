@@ -48,6 +48,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/gradle/dependencies.gradle" timestamp="1507729441470">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="20" />
@@ -60,7 +65,7 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508577742602">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508579204125">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="21" column="37" />
         <mark key="." line="21" column="37" />
@@ -72,13 +77,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.service.ts" timestamp="1508243115389">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.service.ts" timestamp="1508580497319">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.component.html" timestamp="1508243168846">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.component.html" timestamp="1508579374208">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
@@ -120,18 +125,48 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/ClinicBackendApplication.java" timestamp="1507641859436">
         <mark key="[" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/web/index.html" timestamp="1507828977703">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/page-not-found.component.ts" timestamp="1507921773512">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" timestamp="1508565983947" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.component.ts" timestamp="1508340974705">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/Application.java" timestamp="1505933704637">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Bash Script.txt.ft" timestamp="1487962119478">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/syninno-base/build.gradle" timestamp="1507739410846">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ApiExceptionControllerAdvice.java" timestamp="1507920937902">
         <mark key="[" line="12" column="0" />
@@ -205,6 +240,16 @@
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1487962115978">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/syninno-base/gradle/wrapper/gradle-wrapper.properties" timestamp="1507731324941">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking-routing.module.ts" timestamp="1508257585558">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" timestamp="1508564310676" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.component.ts" timestamp="1508067604312">
@@ -307,6 +352,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
+        <mark key="[" line="35" column="88" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1487961408354">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,11 +372,16 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.component.html" timestamp="1508071048482">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.component.html" timestamp="1508579405785">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1507828238912">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -349,17 +404,21 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/attendance.component.html" timestamp="1507924579222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/web.gradle" timestamp="1507778246497">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/clinic-frontend.gradle" timestamp="1507893575937">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" timestamp="1508209696140">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="20" column="27" />
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508560110674">
-        <mark key="'" line="10" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -379,6 +438,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/User.java" timestamp="1506623310216">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.component.html" timestamp="1508067457750">
         <mark key="[" line="0" column="0" />
       </file>
@@ -387,6 +451,11 @@
         <mark key="]" line="19" column="6" />
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.ts" timestamp="1508332517317">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -403,7 +472,7 @@
       <file name="/Dummy.txt" timestamp="1508575052332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-routing.module.ts" timestamp="1508253036836">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-routing.module.ts" timestamp="1508579354804">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
@@ -448,11 +517,10 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508576794731">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-        <mark key="^" line="3" column="67" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508580482723">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
@@ -481,7 +549,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508577827896">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508579235198">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
@@ -513,53 +581,53 @@
       <jump line="3" column="29722" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEh0dHAK</text>
       </register>
       <register name="-" type="4">
-        <text>'';</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>#444</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZvbnRGYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEh0dHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYW5jZWwoKTogdm9pZCB7CiAgICB0aGlzLnVzZXJuYW1lID0gJyc7CiAgICB0aGlzLnBhc3N3b3JkID0gJyc7CiAgfQo=</text>
+        <text encoding="base64">ICAgIEh0dHBDbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybXNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9mb3Jtcyc7Cg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbCiAgICBIdHRwQ2xpZW50TW9kdWxlCiAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRNb2R1bGUgfSBmcm9tICdwcmltZW5nL3ByaW1lbmcnOwo=</text>
+        <text encoding="base64">ICAgIEh0dHBDbGllbnRQCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGNsaWNrKT0ibG9naW4oKSI+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgXQp9KQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1dHRvbk1vZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlLAo=</text>
+        <text encoding="base64">ICBjYW5jZWwoKTogdm9pZCB7CiAgICB0aGlzLnVzZXJuYW1lID0gJyc7CiAgICB0aGlzLnBhc3N3b3JkID0gJyc7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#444</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>#444</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -582,6 +650,8 @@
         <entry>form</entry>
         <entry>input</entry>
         <entry>#444</entry>
+        <entry>Http</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
