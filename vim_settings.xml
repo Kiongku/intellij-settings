@@ -296,6 +296,9 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic.dart" timestamp="1507826985947">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" timestamp="1508557921426">
+        <mark key="'" line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -522,6 +525,12 @@
       <jump line="16" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
       <jump line="9" column="7" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
       <jump line="10" column="9" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
+      <jump line="481" column="41" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="318" column="13" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="26" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="61" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="50" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="40" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -531,7 +540,7 @@
         <text>&quot;font-awesome.min.css&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>assets</text>
+        <text>ui-widget</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsK</text>
@@ -568,12 +577,12 @@
       </register>
     </registers>
     <search>
-      <last-search>assets</last-search>
+      <last-search>ui-widget</last-search>
       <last-offset />
-      <last-pattern>assets</last-pattern>
+      <last-pattern>ui-widget</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -585,6 +594,7 @@
         <entry>font-aw</entry>
         <entry>styleUr</entry>
         <entry>assets</entry>
+        <entry>ui-widget</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
