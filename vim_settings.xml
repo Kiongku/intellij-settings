@@ -60,11 +60,11 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508576550238">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="8" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508577742602">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+        <mark key="^" line="21" column="37" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508291693755">
         <mark key="[" line="9" column="0" />
@@ -481,11 +481,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508576460439">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508577827896">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
         <mark key="'" line="3" column="29722" />
@@ -514,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primeng</text>
+        <text>'';</text>
       </register>
       <register name="-" type="4">
-        <text>primeng</text>
+        <text>'';</text>
       </register>
       <register name="/" type="4">
         <text>#444</text>
@@ -526,31 +526,31 @@
         <text encoding="base64">JGZvbnRGYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybXNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9mb3Jtcyc7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRNb2R1bGUgfSBmcm9tICdwcmltZW5nL3ByaW1lbmcnOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGNsaWNrKT0ibG9naW4oKSI+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjYW5jZWwoKTogdm9pZCB7CiAgICB0aGlzLnVzZXJuYW1lID0gJyc7CiAgICB0aGlzLnBhc3N3b3JkID0gJyc7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9ybXNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9mb3Jtcyc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRNb2R1bGUgfSBmcm9tICdwcmltZW5nL3ByaW1lbmcnOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGNsaWNrKT0ibG9naW4oKSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJ1dHRvbk1vZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi92YXJpYWJsZXMnOwo=</text>
+        <text encoding="base64">ICAgIEJ1dHRvbk1vZHVsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi92YXJpYWJsZXMnOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
