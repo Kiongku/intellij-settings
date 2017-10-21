@@ -266,11 +266,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/auth.http-interceptor.ts" timestamp="1508096000117">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/auth.http-interceptor.ts" timestamp="1508594540739">
+        <mark key="[" line="12" column="90" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserServiceImpl.java" timestamp="1506623583232">
         <mark key="[" line="3" column="29" />
@@ -586,11 +586,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>AuthenticationService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>AuthenticationService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</text>
