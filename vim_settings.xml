@@ -265,13 +265,6 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" timestamp="1508117896184">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="9" column="90" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1487961406814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -379,12 +372,11 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508534718006">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508559472526">
         <mark key="'" line="10" column="9" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-        <mark key="^" line="23" column="21" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -534,55 +526,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;font-awesome.min.css&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;font-awesome.min.css&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ui-widget</text>
+        <text>box-sizing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICAgICAgLy8gaWYgY29udGVudCB0eXBlIGlzIGpzb24sIGNvbnZlcnQgdGhyb3VnaCBKU09OIHBhcnNlCiAgICAvLyAgICAgICAgIGlmIChudWxsICE9IGNvbnRlbnRUeXBlICYmIGNvbnRlbnRUeXBlLmluY2x1ZGVzKCdhcHBsaWNhdGlvbi9qc29uJykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7IAo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJvdXRwdXQ6ICJwcmltZW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJsYXp5IjogdHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3MiLAo=</text>
+        <text encoding="base64">ICAgICAgICB7IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJvb2tpbmdEZXRhaWxzLkNvbXBvbmVudENvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICJvdXRwdXQ6ICJwcmltZW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQm9va2luZ0RldGFpbHMgfSBmcm9tICcuL2RldGFpbHMvYm9va2luZy1kZXRhaWxzLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3MiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAic3R5bGVzLmNzcyIK</text>
+        <text encoding="base64">ICAgIEJvb2tpbmdEZXRhaWxzLkNvbXBvbmVudENvbXBvbmVudCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5ndWxhck1hdGVyaWFsTW9kdWxlIH0gZnJvbSAnLi9hbmd1bGFyLW1hdGVyaWFsLm1vZHVsZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQm9va2luZ0RldGFpbHMgfSBmcm9tICcuL2RldGFpbHMvYm9va2luZy1kZXRhaWxzLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmxleExheW91dE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2ZsZXgtbGF5b3V0JzsK</text>
+        <text encoding="base64">ICAgICAgICAic3R5bGVzLmNzcyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFuZ3VsYXJNYXRlcmlhbE1vZHVsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQW5ndWxhck1hdGVyaWFsTW9kdWxlIH0gZnJvbSAnLi9hbmd1bGFyLW1hdGVyaWFsLm1vZHVsZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ui-widget</last-search>
+      <last-search>box-sizing</last-search>
       <last-offset />
-      <last-pattern>ui-widget</last-pattern>
+      <last-pattern>box-sizing</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -595,6 +587,7 @@
         <entry>styleUr</entry>
         <entry>assets</entry>
         <entry>ui-widget</entry>
+        <entry>box-sizing</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
