@@ -71,17 +71,16 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508291693755">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508589658943">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="56" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.service.ts" timestamp="1508580497319">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.service.ts" timestamp="1508590334870">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="50" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.component.html" timestamp="1508579374208">
         <mark key="[" line="0" column="27" />
@@ -216,11 +215,10 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.module.ts" timestamp="1508260357564">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="11" column="27" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.module.ts" timestamp="1508589280277">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508575803820">
         <mark key="[" line="1" column="11" />
@@ -414,11 +412,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" timestamp="1508209696140">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" timestamp="1508588674574">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508560110674">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -472,9 +476,9 @@
       <file name="/Dummy.txt" timestamp="1508575052332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-routing.module.ts" timestamp="1508579354804">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="21" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-routing.module.ts" timestamp="1508587851941">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="28" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
@@ -517,10 +521,10 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508580482723">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508590295096">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
@@ -579,58 +583,62 @@
       <jump line="31" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="12" column="85" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" />
       <jump line="3" column="29722" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="22" column="16" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" />
+      <jump line="1" column="9" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" />
+      <jump line="20" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEh0dHAK</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGZvbnRGYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7Cg==</text>
+        <text encoding="base64">ICAgIEF0dGVuZGFuY2VEZXRhaWxzUmVzb2x2ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEh0dHAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbCiAgICBIdHRwQ2xpZW50TW9kdWxlCiAgXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEh0dHBDbGllbnRQCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgXQp9KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSHR0cE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEh0dHBNb2R1bGUsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBleHBvcnRzOiBbCiAgICBDb3JlTW9kdWxlCiAgXSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEh0dHBDbGllbnRNb2R1bGUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cENsaWVudE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvbW1vbi9odHRwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYW5jZWwoKTogdm9pZCB7CiAgICB0aGlzLnVzZXJuYW1lID0gJyc7CiAgICB0aGlzLnBhc3N3b3JkID0gJyc7CiAgfQo=</text>
+        <text encoding="base64">ICAgIEh0dHBDbGllbnRNb2R1bGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -652,6 +660,8 @@
         <entry>#444</entry>
         <entry>Http</entry>
         <entry>http</entry>
+        <entry>Router</entry>
+        <entry encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
