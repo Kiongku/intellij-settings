@@ -18,11 +18,11 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service-options.token.ts" timestamp="1508668289850">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="5" column="2" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service-options.token.ts" timestamp="1508695457898">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
+        <mark key="^" line="8" column="68" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.http-interceptor.ts" timestamp="1508266515980">
         <mark key="[" line="24" column="40" />
@@ -104,8 +104,8 @@
         <mark key="." line="19" column="88" />
         <mark key="^" line="19" column="88" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508671038514">
-        <mark key="[" line="37" column="16" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508695723911">
+        <mark key="[" line="10" column="14" />
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
@@ -529,11 +529,11 @@
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle/wrapper/gradle-wrapper.properties" timestamp="1490330032832">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508677391820">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508695764690">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/jpatest/build.gradle" timestamp="1490330131420">
         <mark key="[" line="0" column="0" />
@@ -601,11 +601,11 @@
       <jump line="51" column="3" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RvcmFnZVR5cGU6IHN0cmluZzsgLy8gZXhwZWN0ZWQgdmFsdWVzOiAnbG9jYWwnLCAnc2Vzc2lvbicK</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -614,31 +614,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0odGhpcy50b2tlbktleVN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RvcmFnZVR5cGU6IHN0cmluZzsgLy8gZXhwZWN0ZWQgdmFsdWVzOiAnbG9jYWwnLCAnc2Vzc2lvbicK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IgfSBmcm9tICcuL2h0dHAvYXBpLWVuZHBvaW50Lmh0dHAtaW50ZXJjZXB0b3InOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8ga2VlcCB0aGUgaHR0cCBpbnRlcmNlcHRvciBmb3IgQVBJIFVSTCByZXNvbHZlciBhdCB0aGUgYm90dG9tCiAgICAgIHsKICAgICAgICBwcm92aWRlOiBIVFRQX0lOVEVSQ0VQVE9SUywKICAgICAgICB1c2VDbGFzczogQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IsCiAgICAgICAgbXVsdGk6IHRydWUsCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnOiB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IgfSBmcm9tICcuL2h0dHAvYXBpLWVuZHBvaW50Lmh0dHAtaW50ZXJjZXB0b3InOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnd0TW9kdWxlIH0gZnJvbSAnQGF1dGgwL2FuZ3VsYXItand0JzsK</text>
+        <text encoding="base64">ICAgICAgLy8ga2VlcCB0aGUgaHR0cCBpbnRlcmNlcHRvciBmb3IgQVBJIFVSTCByZXNvbHZlciBhdCB0aGUgYm90dG9tCiAgICAgIHsKICAgICAgICBwcm92aWRlOiBIVFRQX0lOVEVSQ0VQVE9SUywKICAgICAgICB1c2VDbGFzczogQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IsCiAgICAgICAgbXVsdGk6IHRydWUsCiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
