@@ -235,6 +235,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508684337702">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tslint.json" timestamp="1507918797082">
         <mark key="[" line="119" column="11" />
       </file>
@@ -544,11 +550,10 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1508682919751">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1508684632787">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.service.ts" timestamp="1508170437445">
         <mark key="[" line="12" column="0" />
@@ -561,6 +566,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="21" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-error.ts" timestamp="1508683882171">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1507642023770">
         <mark key="[" line="0" column="0" />
@@ -593,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgYXV0aFJldHVybiA9IA==</text>
+        <text>subscribe</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -605,31 +613,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0odGhpcy50b2tlbktleVN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvT2JzZXJ2YWJsZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IgfSBmcm9tICcuL2h0dHAvYXBpLWVuZHBvaW50Lmh0dHAtaW50ZXJjZXB0b3InOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8ga2VlcCB0aGUgaHR0cCBpbnRlcmNlcHRvciBmb3IgQVBJIFVSTCByZXNvbHZlciBhdCB0aGUgYm90dG9tCiAgICAgIHsKICAgICAgICBwcm92aWRlOiBIVFRQX0lOVEVSQ0VQVE9SUywKICAgICAgICB1c2VDbGFzczogQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IsCiAgICAgICAgbXVsdGk6IHRydWUsCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnOiB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnd0TW9kdWxlIH0gZnJvbSAnQGF1dGgwL2FuZ3VsYXItand0JzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEF1dGhlbnRpY2F0aW9uU2VydmljZSwKICAgIHsKICAgICAgcHJvdmlkZTogSFRUUF9JTlRFUkNFUFRPUlMsCiAgICAgIHVzZUNsYXNzOiBBdXRoSHR0cEludGVyY2VwdG9yLAogICAgICBtdWx0aTogdHJ1ZQogICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IgfSBmcm9tICcuL2h0dHAvYXBpLWVuZHBvaW50Lmh0dHAtaW50ZXJjZXB0b3InOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aEh0dHBJbnRlcmNlcHRvciB9IGZyb20gJy4vYXV0aGVudGljYXRpb24vYXV0aC5odHRwLWludGVyY2VwdG9yJzsK</text>
+        <text encoding="base64">ICAgICAgLy8ga2VlcCB0aGUgaHR0cCBpbnRlcmNlcHRvciBmb3IgQVBJIFVSTCByZXNvbHZlciBhdCB0aGUgYm90dG9tCiAgICAgIHsKICAgICAgICBwcm92aWRlOiBIVFRQX0lOVEVSQ0VQVE9SUywKICAgICAgICB1c2VDbGFzczogQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IsCiAgICAgICAgbXVsdGk6IHRydWUsCiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlnOiB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0QXV0aG9yaXphdGlvblRva2VuKCk6IHN0cmluZyB7CiAgICByZXR1cm4gJ3Rlc3R0b2tlbic7CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSnd0TW9kdWxlIH0gZnJvbSAnQGF1dGgwL2FuZ3VsYXItand0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
