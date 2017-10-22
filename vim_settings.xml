@@ -104,11 +104,11 @@
         <mark key="." line="19" column="88" />
         <mark key="^" line="19" column="88" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508668886997">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="62" />
-        <mark key="." line="31" column="62" />
-        <mark key="^" line="31" column="62" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508669830538">
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.html" timestamp="1508268871441">
         <mark key="[" line="0" column="0" />
@@ -605,34 +605,34 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEF0dGVuZGFuY2VEZXRhaWxzUmVzb2x2ZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0odGhpcy50b2tlbktleVN0cik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2FsU3RvcmFnZS5zZXRJdGVtKHRoaXMudG9rZW5LZXlTdHIsIHRva2VuKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSh0aGlzLnRva2VuS2V5U3RyLCB0b2tlbik7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2FsU3RvcmFnZS5zZXRJdGVtKHRoaXMudG9rZW5LZXlTdHIsIHRva2VuKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSh0aGlzLnRva2VuS2V5U3RyLCB0b2tlbik7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2FsU3RvcmFnZS5nZXRJdGVtKHRoaXMudG9rZW5LZXlTdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2FsU3RvcmFnZS5nZXRJdGVtKHRoaXMudG9rZW5LZXlTdHIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBhdXRoID0gaW5qZWN0b3IuZ2V0Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
