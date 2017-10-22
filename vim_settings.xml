@@ -224,16 +224,20 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" timestamp="1508709426719">
+        <mark key="'" line="4" column="89" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.module.ts" timestamp="1508589280277">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508575803820">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508709721395">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
@@ -299,6 +303,13 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508574876045">
+        <mark key="'" line="12" column="85" />
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tsconfig.json" timestamp="1508591893935">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="18" />
@@ -359,6 +370,10 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic.dart" timestamp="1507826985947">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" timestamp="1508709696820">
+        <mark key="'" line="214" column="4" />
+        <mark key="n" line="207" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
@@ -581,6 +596,9 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
+        <mark key="'" line="3" column="29722" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-error.ts" timestamp="1508683882171">
         <mark key="[" line="0" column="0" />
       </file>
@@ -600,7 +618,6 @@
       <jump line="50" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="40" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="22" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
-      <jump line="27" column="18" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="31" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="12" column="85" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" />
       <jump line="3" column="29722" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
@@ -613,6 +630,21 @@
       <jump line="18" column="7" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
       <jump line="51" column="3" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
       <jump line="0" column="12" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" />
+      <jump line="2207" column="54" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="2217" column="24" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="2222" column="19" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="2236" column="43" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="2241" column="39" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="2242" column="39" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="4" column="89" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
+      <jump line="27" column="18" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="30" column="29" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="165" column="8" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="201" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="207" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="208" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="214" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
+      <jump line="10" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,7 +654,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>stateAct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0odGhpcy50b2tlbktleVN0cik7Cg==</text>
@@ -659,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>stateAct</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>stateAct</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -669,8 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnaXRodWJcPg==</entry>
-        <entry>font-awesome</entry>
         <entry>font-a</entry>
         <entry>font-aw</entry>
         <entry>styleUr</entry>
@@ -689,6 +719,8 @@
         <entry encoding="base64">XDxBdHRlbmRhbmNlRGV0YWlsc1Jlc29sdmVyXD4=</entry>
         <entry>tests</entry>
         <entry>test</entry>
+        <entry>button</entry>
+        <entry>stateAct</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
