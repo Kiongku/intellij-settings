@@ -307,8 +307,11 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/environments/environment.ts" timestamp="1508085571316">
-        <mark key="[" line="6" column="19" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/environments/environment.ts" timestamp="1508681721435">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/settings.gradle" timestamp="1490330566409">
         <mark key="[" line="2" column="13" />
@@ -336,9 +339,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/lib/sims-clinic.dart" timestamp="1507826985947">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" timestamp="1508564284261">
-        <mark key="'" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
@@ -544,11 +544,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1508677986261">
-        <mark key="[" line="1" column="50" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
-        <mark key="^" line="2" column="61" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication.service.ts" timestamp="1508681753319">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.service.ts" timestamp="1508170437445">
         <mark key="[" line="12" column="0" />
@@ -561,9 +561,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="21" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
-        <mark key="'" line="3" column="29722" />
       </file>
       <file name="/fragment.java" timestamp="1507642023770">
         <mark key="[" line="0" column="0" />
@@ -595,11 +592,11 @@
       <jump line="51" column="3" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBpRW5kcG9pbnRIdHRwSW50ZXJjZXB0b3IgfSBmcm9tICcuL2h0dHAvYXBpLWVuZHBvaW50Lmh0dHAtaW50ZXJjZXB0b3InOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
