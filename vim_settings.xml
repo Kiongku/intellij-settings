@@ -135,11 +135,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508731778152">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508736421587">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
         <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/Application.java" timestamp="1505933704637">
         <mark key="[" line="1" column="0" />
@@ -259,12 +259,12 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508730970249">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508736471626">
         <mark key="'" line="12" column="85" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="9" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/MysqlDatabaseConfig.java" timestamp="1507724682076">
         <mark key="[" line="9" column="0" />
@@ -557,10 +557,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text encoding="base64">bm9kZS1zYXNzIC13ciAtLW91dHB1dC1zdHlsZSBjb21wcmVzc2VkIHNyYy9hcHAvc2Fzcy90aGVtZXMvID4gc3JjL2Fzc2V0cy9zdHlsZXMvdGhlbWVzLyIs</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">bm9kZS1zYXNzIC13ciAtLW91dHB1dC1zdHlsZSBjb21wcmVzc2VkIHNyYy9hcHAvc2Fzcy90aGVtZXMvID4gc3JjL2Fzc2V0cy9zdHlsZXMvdGhlbWVzLyIs</text>
       </register>
       <register name="/" type="4">
         <text>stateAct</text>
