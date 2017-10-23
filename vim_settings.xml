@@ -135,6 +135,12 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508731778152">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/Application.java" timestamp="1505933704637">
         <mark key="[" line="1" column="0" />
       </file>
@@ -253,12 +259,12 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508574876045">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508730970249">
         <mark key="'" line="12" column="85" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/config/MysqlDatabaseConfig.java" timestamp="1507724682076">
         <mark key="[" line="9" column="0" />
@@ -270,11 +276,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/index.html" timestamp="1508574504052">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="104" />
-        <mark key="^" line="9" column="104" />
-        <mark key="." line="9" column="104" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/index.html" timestamp="1508731350361">
+        <mark key="[" line="9" column="110" />
+        <mark key="]" line="9" column="110" />
+        <mark key="^" line="9" column="105" />
+        <mark key="." line="9" column="110" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/environments/environment.ts" timestamp="1508681721435">
         <mark key="[" line="7" column="44" />
@@ -373,18 +379,6 @@
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/attendance.component.html" timestamp="1507924579222">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.module.ts" timestamp="1508588674574">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/.angular-cli.json" timestamp="1508596509607">
-        <mark key="'" line="51" column="3" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -562,11 +556,11 @@
       <jump line="10" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gQ3NzVW5rbm93blRhcmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>stateAct</text>
