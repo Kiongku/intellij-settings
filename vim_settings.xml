@@ -74,10 +74,11 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508849539423">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508851713210">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508703597505">
         <mark key="[" line="37" column="4" />
@@ -603,11 +604,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508850431419">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
-        <mark key="^" line="8" column="40" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508852795854">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+        <mark key="^" line="24" column="70" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
         <mark key="'" line="3" column="29722" />
@@ -658,13 +660,14 @@
       <jump line="208" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="214" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="10" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" />
+      <jump line="24" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>First</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJhdGVkXD4=</text>
