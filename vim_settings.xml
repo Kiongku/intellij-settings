@@ -604,12 +604,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508853628124">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="24" column="71" />
-        <mark key="]" line="24" column="70" />
-        <mark key="." line="24" column="70" />
-        <mark key="^" line="24" column="70" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508854877049">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
         <mark key="'" line="3" column="29722" />
@@ -664,10 +664,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>HTMLFormElement</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>HTMLFormElement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJhdGVkXD4=</text>
