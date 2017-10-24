@@ -604,10 +604,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508862361292">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" timestamp="1508864514462">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+        <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508575420642">
         <mark key="'" line="3" column="29722" />
@@ -661,11 +662,11 @@
       <jump line="24" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2luRm9ybS5kaXNhYmxlZCA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>disabled</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>disabled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJhdGVkXD4=</text>
