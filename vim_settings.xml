@@ -122,11 +122,10 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/_all-typography.scss" timestamp="1508937936789">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/_all-typography.scss" timestamp="1508943373407">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/service/UserService.java" timestamp="1506623562198">
         <mark key="[" line="10" column="0" />
@@ -156,6 +155,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" timestamp="1508944875643">
+        <mark key="'" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.component.ts" timestamp="1508340974705">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
@@ -173,11 +175,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508939898455">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="55" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508944759421">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/scrapyard/gradle_project/build.gradle" timestamp="1490436049557">
         <mark key="[" line="2" column="0" />
@@ -212,11 +214,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="69" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_theme.scss" timestamp="1508728713647">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="36" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_theme.scss" timestamp="1508943805121">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+        <mark key="." line="2" column="60" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/auth/auth-token.service.ts" timestamp="1508739325584">
         <mark key="[" line="6" column="0" />
@@ -271,10 +273,20 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" timestamp="1508709426719">
+        <mark key="'" line="4" column="89" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.module.ts" timestamp="1508589280277">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508709721395">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
@@ -339,6 +351,13 @@
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508942941625">
+        <mark key="'" line="12" column="85" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/auth/auth-result.ts" timestamp="1508738709209">
         <mark key="[" line="0" column="27" />
@@ -620,11 +639,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/_fonts-utils.scss" timestamp="1508940684759">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/_fonts-utils.scss" timestamp="1508944072742">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular-italic.scss" timestamp="1508941140360">
         <mark key="[" line="0" column="0" />
@@ -638,11 +657,20 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" timestamp="1508944882985">
+        <mark key="'" line="2378" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-error.ts" timestamp="1508683882171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1507642023770">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/font-awesome/_font-awesome.scss" timestamp="1508945371421">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -685,65 +713,78 @@
       <jump line="214" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="10" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" />
       <jump line="24" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" />
+      <jump line="2773" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" />
+      <jump line="18" column="22" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="7" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" />
+      <jump line="7" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" />
+      <jump line="2318" column="18" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2330" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2337" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2342" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2349" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2354" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2361" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2366" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2373" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
+      <jump line="2378" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNyYzogdXJsKCcjeyRmb250LWZ1bGwtcGF0aH0nKQo=</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9zY3NzL2ZvbnQtYXdlc29tZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJhdGVkXD4=</text>
+        <text>font-face</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNyYzogdXJsKCcjeyRmb250LWZ1bGwtcGF0aH0tI3skdHlwZX0udHRmJykgZm9ybWF0KCd0cnVldHlwZScpOwo=</text>
+        <text encoding="base64">ICAgIHNyYzogdXJsKCcjeyRmb250LWZ1bGwtcGF0aH0tI3skdHlwZX0uZW90Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNyYzogdXJsKCcjeyRmb250LWZ1bGwtcGF0aH0nKQo=</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9zY3NzL2ZvbnQtYXdlc29tZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5waXBlKHJlbmFtZShmdW5jdGlvbiAocGF0KSkpCg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9zY3NzL2ZvbnQtYXdlc29tZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdzYXNzOnRoZW1lczptaW4nLCBmdW5jdGlvbigpIHsKICByZXR1cm4gZ3VscC5zcmMoJ3NyYycpCn0pOwoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBleHRlbmQgJWdyaWQtc3R5bGVzOyAK</text>
+        <text encoding="base64">ICAgIHNyYzogdXJsKCcjeyRmb250LWZ1bGwtcGF0aH0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1peGluIGJhc2UtbGF5b3V0KCkgewoKfQoK</text>
+        <text encoding="base64">ICAgIC5waXBlKHJlbmFtZShmdW5jdGlvbiAocGF0KSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2luRm9ybS5kaXNhYmxlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">Z3VscC50YXNrKCdzYXNzOnRoZW1lczptaW4nLCBmdW5jdGlvbigpIHsKICByZXR1cm4gZ3VscC5zcmMoJ3NyYycpCn0pOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGEgPSBsb2dpbkZvcm0uCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGEgIT09IG51bGwgPyAoYSBhcyBIVE1MSW5wdXRFbGVtZW50KS52YWx1ZSA6ICdudWxsJyk7Cg==</text>
+        <text encoding="base64">ICAgIEBleHRlbmQgJWdyaWQtc3R5bGVzOyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJhdGVkXD4=</last-search>
+      <last-search>font-face</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJhdGVkXD4=</last-pattern>
+      <last-pattern>font-face</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>font-aw</entry>
-        <entry>styleUr</entry>
-        <entry>assets</entry>
         <entry>ui-widget</entry>
         <entry>box-sizing</entry>
         <entry>$fontFamily</entry>
@@ -761,6 +802,9 @@
         <entry>button</entry>
         <entry>stateAct</entry>
         <entry encoding="base64">XDxjdXJhdGVkXD4=</entry>
+        <entry>message</entry>
+        <entry>roboto</entry>
+        <entry>font-face</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
