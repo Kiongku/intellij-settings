@@ -152,11 +152,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508956014462">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/gulpfile.js" timestamp="1508957095234">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/grid/_grid-layout.scss" timestamp="1508940372670">
         <mark key="[" line="13" column="3" />
@@ -632,7 +632,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -644,31 +644,31 @@
         <text encoding="base64">ICAgIGF1dG9wcmVmaXhlcigpLAogICAgcG9zdGNzc1NvcnRpbmcoKSwKICAgIHBvc3Rjc3NNZXJnZVJ1bGVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGU6ICJydWxlIgo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogInJ1bGUiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBsZXQgcG9zdGNzc1BsdWdpbnMgPSBbCiAgICBhdXRvcHJlZml4ZXIoKSwKICAgIHBvc3Rjc3NTb3J0aW5nKCksCiAgICBwb3N0Y3NzTWVyZ2VSdWxlcygpLAogICAgY3NzbmFubygpCiAgXTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgcG9zdGNzc1BsdWdpbnMgPSBbCiAgICBhdXRvcHJlZml4ZXIoKSwKICAgIHBvc3Rjc3NTb3J0aW5nKCksCiAgICBwb3N0Y3NzTWVyZ2VSdWxlcygpCiAgXTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHR5cGU6ICJydWxlIgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGV0IGNzc25hbm8gPSByZXF1aXJlKCdjc3NuYW5vJyk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBsZXQgcG9zdGNzc1BsdWdpbnMgPSBbCiAgICBhdXRvcHJlZml4ZXIoKSwKICAgIHBvc3Rjc3NTb3J0aW5nKCksCiAgICBwb3N0Y3NzTWVyZ2VSdWxlcygpLAogICAgY3NzbmFubygpCiAgXTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0U3R5bGU6ICdjb21wcmVzc2VkJwo=</text>
+        <text encoding="base64">ICBsZXQgcG9zdGNzc1BsdWdpbnMgPSBbCiAgICBhdXRvcHJlZml4ZXIoKSwKICAgIHBvc3Rjc3NTb3J0aW5nKCksCiAgICBwb3N0Y3NzTWVyZ2VSdWxlcygpCiAgXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNzc25hbm8oKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHJlbmFtZSA9IHJlcXVpcmUoJ2d1bHAtcmVuYW1lJyk7Cg==</text>
+        <text encoding="base64">bGV0IGNzc25hbm8gPSByZXF1aXJlKCdjc3NuYW5vJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
