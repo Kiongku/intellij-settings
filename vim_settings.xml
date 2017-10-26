@@ -10,6 +10,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-attendance.component.ts" timestamp="1509015536791">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.model.ts" timestamp="1508263269978">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="7" column="1" />
@@ -152,9 +158,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" timestamp="1508944875643">
-        <mark key="'" line="7" column="1" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.component.ts" timestamp="1508340974705">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
@@ -266,6 +269,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508709721395">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="5" column="1" />
@@ -282,8 +292,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" timestamp="1508947469804">
-        <mark key="'" line="1486" column="54" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-attendance.component.html" timestamp="1509015597506">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.component.ts" timestamp="1508067604312">
         <mark key="[" line="0" column="0" />
@@ -315,17 +328,29 @@
         <mark key="^" line="15" column="70" />
         <mark key="." line="15" column="70" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.html" timestamp="1509014817786">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/dist/index.html" timestamp="1508531270232">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1508998053973">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/package.json" timestamp="1509001147337">
         <mark key="'" line="12" column="85" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.ts" timestamp="1509015480558">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular.scss" timestamp="1508941112491">
         <mark key="[" line="0" column="0" />
@@ -333,7 +358,7 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="65" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tsconfig.json" timestamp="1508591893935">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tsconfig.json" timestamp="1509005736915">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
@@ -341,12 +366,12 @@
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_theming.scss" timestamp="1508950030213">
         <mark key="'" line="52" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" timestamp="1508703203311">
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" timestamp="1509014777939">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/index.html" timestamp="1508731350361">
         <mark key="[" line="9" column="110" />
@@ -402,12 +427,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" timestamp="1508947662579">
-        <mark key="'" line="318" column="16" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="n" line="207" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
@@ -717,44 +736,44 @@
       <jump line="3" column="2" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>how</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>how</text>
       </register>
       <register name="/" type="4">
         <text>transition</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG9wcmVmaXhlcigpLAogICAgcG9zdGNzc1NvcnRpbmcoKSwKICAgIHBvc3Rjc3NNZXJnZVJ1bGVzKCkK</text>
+        <text encoding="base64">ICA8YnV0dG9uIHBCdXR0b24KICAgICAgICAgIChjbGljayk9InNob3dDaGlsZCgpIgogICAgICAgICAgbGFiZWw9IlNob3ciPgogIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGZhLWZvbnQtcGF0aDogJyN7JGZvbnQtcGF0aH0vZm9udC1hd2Vzb21lJzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiY3NzbmFubyI6IHt9Cg==</text>
+        <text encoding="base64">PHA+CiAgc2VhcmNoLWNoaWxkIHdvcmtzIQo8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGRlbCA9IHJlcXVpcmUoJ2RlbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGZhLWZvbnQtcGF0aDogJyN7JGZvbnQtcGF0aH0vZm9udC1hd2Vzb21lJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9zY3NzL2ZvbnQtYXdlc29tZSc7Cg==</text>
+        <text encoding="base64">ICAiY3NzbmFubyI6IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICBmb250LXN0eWxlOiBpdGFsaWM7CiAgICB9Cg==</text>
+        <text encoding="base64">bGV0IGRlbCA9IHJlcXVpcmUoJ2RlbCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IHBvc3Rjc3NTb3J0aW5nID0gcmVxdWlyZSgncG9zdGNzcy1zb3J0aW5nJyk7CmxldCBwb3N0Y3NzTWVyZ2VSdWxlcyA9IHJlcXVpcmUoJ3Bvc3Rjc3MtbWVyZ2UtcnVsZXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9zY3NzL2ZvbnQtYXdlc29tZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
