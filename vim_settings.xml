@@ -520,11 +520,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-theme.scss" timestamp="1508950136416">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-theme.scss" timestamp="1508982894272">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/com/syninno/com/sims/clinic/users/User.java" timestamp="1506623310216">
         <mark key="[" line="19" column="0" />
@@ -726,7 +725,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IHBvc3Rjc3NTb3J0aW5nID0gcmVxdWlyZSgncG9zdGNzcy1zb3J0aW5nJyk7CmxldCBwb3N0Y3NzTWVyZ2VSdWxlcyA9IHJlcXVpcmUoJ3Bvc3Rjc3MtbWVyZ2UtcnVsZXMnKTsK</text>
+        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICBmb250LXN0eWxlOiBpdGFsaWM7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -738,31 +737,31 @@
         <text encoding="base64">ICAgIGF1dG9wcmVmaXhlcigpLAogICAgcG9zdGNzc1NvcnRpbmcoKSwKICAgIHBvc3Rjc3NNZXJnZVJ1bGVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHBvc3Rjc3NTb3J0aW5nID0gcmVxdWlyZSgncG9zdGNzcy1zb3J0aW5nJyk7CmxldCBwb3N0Y3NzTWVyZ2VSdWxlcyA9IHJlcXVpcmUoJ3Bvc3Rjc3MtbWVyZ2UtcnVsZXMnKTsK</text>
+        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICBmb250LXN0eWxlOiBpdGFsaWM7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHBvc3Rjc3NTb3J0aW5nID0gcmVxdWlyZSgncG9zdGNzcy1zb3J0aW5nJyk7CmxldCBwb3N0Y3NzTWVyZ2VSdWxlcyA9IHJlcXVpcmUoJ3Bvc3Rjc3MtbWVyZ2UtcnVsZXMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHBvc3Rjc3NNZXJnZVJ1bGVzQ29uZmlnID0gewogICdvcmRlcic6IFsKICAgICdkZWNsYXJhdGlvbnMnLAogICAgJ2F0LXJ1bGVzJywKICAgICdydWxlcycKICBdLAogICdwcm9wZXJ0aWVzLW9yZGVyJzogJ2FscGhhYmV0aWNhbCcsCiAgJ3Vuc3BlY2lmaWVkLXByb3BlcnRpZXMtcG9zaXRpb24nOiAnYm90dG9tJwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3N0Y3NzTWVyZ2VSdWxlcygpCg==</text>
+        <text encoding="base64">bGV0IHBvc3Rjc3NNZXJnZVJ1bGVzQ29uZmlnID0gewogICdvcmRlcic6IFsKICAgICdkZWNsYXJhdGlvbnMnLAogICAgJ2F0LXJ1bGVzJywKICAgICdydWxlcycKICBdLAogICdwcm9wZXJ0aWVzLW9yZGVyJzogJ2FscGhhYmV0aWNhbCcsCiAgJ3Vuc3BlY2lmaWVkLXByb3BlcnRpZXMtcG9zaXRpb24nOiAnYm90dG9tJwp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb3N0Y3NzU29ydGluZyhwb3N0Y3NzTWVyZ2VSdWxlc0NvbmZpZyksCg==</text>
+        <text encoding="base64">ICBwb3N0Y3NzTWVyZ2VSdWxlcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwb3N0Y3NzU29ydGluZyhwb3N0Y3NzTWVyZ2VSdWxlc0NvbmZpZyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogInJ1bGUiCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgdHlwZTogInJ1bGUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
