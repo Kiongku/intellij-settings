@@ -105,11 +105,10 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1508334669182">
-        <mark key="[" line="19" column="83" />
-        <mark key="]" line="19" column="88" />
-        <mark key="." line="19" column="88" />
-        <mark key="^" line="19" column="88" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1509156764887">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508698456236">
         <mark key="[" line="10" column="14" />
@@ -571,6 +570,11 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-routing.module.ts" timestamp="1508703258526">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="49" />
@@ -739,10 +743,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuZG8oaSA9PiBjb25zb2xlLmxvZyhpKSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aHJvdyBlcnJvciB0byBiZSBoYW5kbGVkIGJ5IGNvbnN1bWVycwo=</text>
       </register>
       <register name="-" type="4">
-        <text>private cd: ChangeDetectorRef</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>showData</text>
@@ -751,31 +755,31 @@
         <text encoding="base64">ICA8YnV0dG9uIHBCdXR0b24KICAgICAgICAgIChjbGljayk9InNob3dDaGlsZCgpIgogICAgICAgICAgbGFiZWw9IlNob3ciPgogIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZG8oaSA9PiBjb25zb2xlLmxvZyhpKSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aHJvdyBlcnJvciB0byBiZSBoYW5kbGVkIGJ5IGNvbnN1bWVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuZG8oaSA9PiBjb25zb2xlLmxvZyhpKSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZW52aXJvbm1lbnQgfSBmcm9tICcuLi8uLi8uLi9lbnZpcm9ubWVudHMvZW52aXJvbm1lbnQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2QuZGV0ZWN0Q2hhbmdlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZG8oaSA9PiBjb25zb2xlLmxvZyhpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAuZG8oaSA9PiBjb25zb2xlLmxvZyhpKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHRoaXMuY2QuZGV0ZWN0Q2hhbmdlcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASW5wdXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBjaGlsZERhdGE6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuY2QuZGV0ZWN0Q2hhbmdlcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8aW5wdXQgcElucHV0VGV4dAogICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICBuYW1lPSJjaGlsZERhdGEiCiAgICAgICAgIFsobmdNb2RlbCldPSJjaGlsZERhdGEiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKGNoYW5nZSk9Im9uQ2hhbmdlKCRldmVudCkiLz4K</text>
+        <text encoding="base64">ICBASW5wdXQoKSBjaGlsZERhdGE6IHN0cmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
