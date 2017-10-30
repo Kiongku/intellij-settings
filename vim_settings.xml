@@ -105,10 +105,10 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1509156764887">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/http-error-handler.http-interceptor.ts" timestamp="1509337318111">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-token.service.ts" timestamp="1508698456236">
         <mark key="[" line="10" column="14" />
@@ -742,11 +742,11 @@
       <jump line="11" column="28" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aHJvdyBlcnJvciB0byBiZSBoYW5kbGVkIGJ5IGNvbnN1bWVycwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>showData</text>
