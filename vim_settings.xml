@@ -619,11 +619,12 @@
         <mark key="." line="5" column="61" />
         <mark key="^" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1517418960844">
-        <mark key="[" line="95" column="5" />
-        <mark key="]" line="52" column="277" />
-        <mark key="." line="52" column="277" />
-        <mark key="^" line="52" column="277" />
+      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1517420173137">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="230" column="37" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory.module.ts" timestamp="1508290857644">
         <mark key="[" line="7" column="3" />
@@ -772,55 +773,59 @@
       <jump line="11" column="28" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.ts" />
       <jump line="5" column="18" filename="$USER_HOME$/Development/projects/sims/gradle/integrationTest.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/projects/sims/.gitignore" />
+      <jump line="5" column="68" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" />
+      <jump line="0" column="1" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" />
+      <jump line="1" column="1" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" />
+      <jump line="10" column="1" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci5pZGVhLwoqLmltbAo=</text>
+        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7YXJ0aWNsZX0K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>IDEA</text>
+        <text>documentclass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci5pZGVhLwoqLmltbAo=</text>
+        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7YXJ0aWNsZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0Lwo=</text>
+        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7YXJ0aWNsZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIEludGVsbGlqIElERUEK</text>
+        <text encoding="base64">ICAgIFxlbnRyeQogICAge0tub3dsZWRnZWFibGV9CiAgICB7UEhQfQogICAge30KICAgIHt9CiAgICBcZW50cnkKICAgIHtLbm93bGVkZ2VhYmxlfQogICAge0NcIyAuTkVUfQogICAge30KICAgIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci5pZGVhLwoqLmltbAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">b3V0Lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbnRlbGxpSgo=</text>
+        <text encoding="base64">IyMjIEludGVsbGlqIElERUEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmV0Lmx0Z3QuYXB0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmV0Lmx0Z3QuYXB0Jwo=</text>
+        <text encoding="base64">b3V0Lwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbmV0Lmx0Z3QuYXB0Jwo=</text>
+        <text encoding="base64">IyBJbnRlbGxpSgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IDEA</last-search>
+      <last-search>documentclass</last-search>
       <last-offset />
-      <last-pattern>IDEA</last-pattern>
+      <last-pattern>documentclass</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -828,7 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stateAct</entry>
         <entry encoding="base64">XDxjdXJhdGVkXD4=</entry>
         <entry>message</entry>
         <entry>roboto</entry>
@@ -848,6 +852,7 @@
         <entry>Intellij</entry>
         <entry>Idea</entry>
         <entry>IDEA</entry>
+        <entry>documentclass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
