@@ -39,6 +39,11 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/kotlin/evetools/Core.kt" timestamp="1519325684700">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.http-interceptor.ts" timestamp="1508266515980">
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="38" />
@@ -47,6 +52,12 @@
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/java/Core.java" timestamp="1519323994401">
         <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/.gitignore" timestamp="1519325283443">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
@@ -72,7 +83,7 @@
         <mark key="." line="31" column="81" />
         <mark key="^" line="31" column="81" />
       </file>
-      <file name="/mockProjectViewFile" timestamp="1519323709851">
+      <file name="/mockProjectViewFile" timestamp="1519325905986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
@@ -173,6 +184,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/BUILD" timestamp="1519326876332">
+        <mark key="[" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/annotationProcessor.gradle" timestamp="1512014346099">
         <mark key="[" line="0" column="0" />
@@ -390,6 +404,14 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/kotlin/evetools/BUILD" timestamp="1519325643287">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/app/WORKSPACE" timestamp="1519327280152">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" timestamp="1509014777939">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="13" column="56" />
@@ -463,6 +485,12 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/WORKSPACE" timestamp="1519326453744">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login.component.ts" timestamp="1507921798866">
         <mark key="[" line="3" column="32" />
@@ -800,11 +828,11 @@
       <jump line="146" column="34" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.cls" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogIHByaW50bG4oImV2ZSB0b29scyBvbmxpbmUiKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
@@ -813,31 +841,31 @@
         <text encoding="base64">ICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogIHByaW50bG4oImV2ZSB0b29scyBvbmxpbmUiKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBcYmVnaW57ZW50cnlsaXN0fQo=</text>
+        <text encoding="base64">ICAgIGphdmFfZGVwcyA9IFsiOnNvbWVfb3RoZXJfamF2YV9saWJyYXJ5X3J1bGUiLCAiQGFub3RoZXJfbWF2ZW5famFyLy9qYXIiXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBcZW5ke2VudHJ5bGlzdH0K</text>
+        <text encoding="base64">ICAgIGRlcHMgPSBbIjpzb21lX290aGVyX2tvdGxpbl9saWJyYXJ5X3J1bGUiXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFxuZXdwYWdlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ29yZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBcbmV3cGFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEludmVzdGlnYXRlZCBmZWFzaWJpbGl0eSBhbmQgcHJvdmlkZWQgcmVjb21tZW5kYXRpb25zIG9uIHBvdGVudGlhbCBpbnRyb2R1Y3Rpb24gb2YgT1NHSSBhbmQgTm9kZUpTIGluIG91ciBJVCBzeXN0ZW1zLlxcCg==</text>
+        <text encoding="base64">ICBcYmVnaW57ZW50cnlsaXN0fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7YXJ0aWNsZX0K</text>
+        <text encoding="base64">ICBcZW5ke2VudHJ5bGlzdH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7YXJ0aWNsZX0K</text>
+        <text encoding="base64">ICAgIFxuZXdwYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="http" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
