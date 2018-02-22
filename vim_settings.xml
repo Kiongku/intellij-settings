@@ -45,6 +45,9 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/java/Core.java" timestamp="1519323994401">
+        <mark key="[" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -69,7 +72,7 @@
         <mark key="." line="31" column="81" />
         <mark key="^" line="31" column="81" />
       </file>
-      <file name="/mockProjectViewFile" timestamp="1519323466874">
+      <file name="/mockProjectViewFile" timestamp="1519323709851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
@@ -217,6 +220,7 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/.gitignore_global" timestamp="1519323890446" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
