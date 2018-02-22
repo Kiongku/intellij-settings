@@ -69,6 +69,9 @@
         <mark key="." line="31" column="81" />
         <mark key="^" line="31" column="81" />
       </file>
+      <file name="/mockProjectViewFile" timestamp="1519322560712">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="20" />
@@ -310,6 +313,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/WORKSPACE" timestamp="1519321543644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-attendance.component.html" timestamp="1509038144244">
         <mark key="[" line="34" column="21" />
