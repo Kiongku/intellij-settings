@@ -59,10 +59,11 @@
         <mark key="^" line="30" column="14" />
         <mark key="." line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519331111916">
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519332670421">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
@@ -306,6 +307,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/kotlin/evetools/core/Core.kt" timestamp="1519332662590">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.model.ts" timestamp="1508170530572">
         <mark key="[" line="2" column="23" />
@@ -647,11 +654,11 @@
       <file name="/Dummy.txt" timestamp="1519330071698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519329555661">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519332359811">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
@@ -840,12 +847,8 @@
       <jump line="5" column="40" filename="$USER_HOME$/Development/projects/eve-tools/core/BUILD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>it_repository(
-    name = &quot;io_bazel_rules_kotlin&quot;,
-    remote = &quot;https://github.com/bazelbuild/rules_kotlin.git&quot;,
-    commit = &quot;55ee02b&quot;, # update as needed
-)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNyY3MgPSBnbG9iKFsic3JjL21haW4vKiovKi5rdCJdKSwK</text>
       </register>
       <register name="-" type="4">
         <text>kotlin_library</text>
@@ -856,39 +859,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>it_repository(
-    name = &quot;io_bazel_rules_kotlin&quot;,
-    remote = &quot;https://github.com/bazelbuild/rules_kotlin.git&quot;,
-    commit = &quot;55ee02b&quot;, # update as needed
-)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNyY3MgPSBnbG9iKFsic3JjL21haW4vKiovKi5rdCJdKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcHMgPSAiIgo=</text>
+        <text encoding="base64">ICAgIGRlcHMgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogIHByaW50bG4oImV2ZSB0b29scyBvbmxpbmUiKQp9Cg==</text>
+        <text encoding="base64">ICAgIGRlcHMgPSBbIkBldmV0b29sc19jb3JlLy86ZXZldG9vbHNfY29yZV9saWIiXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGphdmFfZGVwcyA9IFsiOnNvbWVfb3RoZXJfamF2YV9saWJyYXJ5X3J1bGUiLCAiQGFub3RoZXJfbWF2ZW5famFyLy9qYXIiXSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcHMgPSBbIjpzb21lX290aGVyX2tvdGxpbl9saWJyYXJ5X3J1bGUiXSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQ29yZSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBcYmVnaW57ZW50cnlsaXN0fQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmdW4gbWFpbihhcmdzOiBBcnJheTxTdHJpbmc+KSB7CiAgICBDb3JlKCJwaWxvdCIpLmluaXRpYWxpemUoKQogIH0KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogIENvcmUoInBpbG90IikuaW5pdGlhbGl6ZSgpCn0K</text>
+      </register>
+      <register name="9" type="4">
+        <text>kt_jvm_binary(
+    name = &quot;evetools_app&quot;,
+    main_class = &quot;evetools.App&quot;,
+    srcs = glob([&quot;src/main/**/*.kt&quot;]),
+    deps = [&quot;@evetools_core//:evetools_core_lib&quot;]
+)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -927,6 +931,7 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
