@@ -654,11 +654,11 @@
       <file name="/Dummy.txt" timestamp="1519330071698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519332359811">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519333566167">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
@@ -892,7 +892,7 @@
 )</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -930,8 +930,8 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
