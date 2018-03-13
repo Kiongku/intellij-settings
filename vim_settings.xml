@@ -247,7 +247,11 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/.gitignore_global" timestamp="1519323890446" />
+      <file name="$USER_HOME$/Development/projects/kotlin-gradle/gradle/wrapper/gradle-wrapper.properties" timestamp="1520944157640">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -850,11 +854,11 @@
       <jump line="5" column="40" filename="$USER_HOME$/Development/projects/eve-tools/core/BUILD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNyY3MgPSBnbG9iKFsic3JjL21haW4vKiovKi5rdCJdKSwK</text>
+      <register name="&quot;" type="4">
+        <text>bin</text>
       </register>
       <register name="-" type="4">
-        <text>kotlin_library</text>
+        <text>bin</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
