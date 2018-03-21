@@ -95,6 +95,9 @@
       <file name="/mockProjectViewFile" timestamp="1519325905986">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/build.gradle.kts" timestamp="1521640823303">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="20" />
@@ -457,11 +460,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/kotlin-gradle/build.gradle.kts" timestamp="1521028532355">
-        <mark key="[" line="34" column="48" />
-        <mark key="]" line="40" column="43" />
-        <mark key="^" line="40" column="43" />
-        <mark key="." line="40" column="43" />
+      <file name="$USER_HOME$/Development/projects/kotlin-gradle/build.gradle.kts" timestamp="1521641092546">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-medium-italic.scss" timestamp="1508941057970">
         <mark key="[" line="0" column="0" />
@@ -679,6 +682,13 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/src/main/kotlin/Versions.kt" timestamp="1521640964199">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory-routing.module.ts" timestamp="1508335420674">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="2" column="0" />
@@ -858,6 +868,7 @@
       <jump line="10" column="1" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" />
       <jump line="146" column="34" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.cls" />
       <jump line="5" column="40" filename="$USER_HOME$/Development/projects/eve-tools/core/BUILD" />
+      <jump line="2" column="36" filename="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/src/main/kotlin/Versions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -867,7 +878,7 @@
         <text>bin</text>
       </register>
       <register name="/" type="4">
-        <text>entry</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgo=</text>
@@ -900,21 +911,20 @@
         <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogIENvcmUoInBpbG90IikuaW5pdGlhbGl6ZSgpCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>entry</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>entry</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>message</entry>
         <entry>roboto</entry>
         <entry>font-face</entry>
         <entry>ui-widget</entry>
@@ -934,12 +944,14 @@
         <entry>IDEA</entry>
         <entry>documentclass</entry>
         <entry>entry</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
