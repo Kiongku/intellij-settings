@@ -255,6 +255,9 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1523625173681">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -435,7 +438,6 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/lib/gradle-kotlin-dsl-0.15.6.jar!/org/gradle/kotlin/dsl/ExtraPropertiesExtensions.kt" timestamp="1521642785679" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" timestamp="1509014777939">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="13" column="56" />
@@ -624,6 +626,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1523625797572">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-theme.scss" timestamp="1508982894272">
         <mark key="[" line="15" column="0" />
