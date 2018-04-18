@@ -255,10 +255,10 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1523985885202">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1524037405180">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
         <mark key="[" line="0" column="0" />
@@ -568,10 +568,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1523985603440">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524037460587">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -603,10 +604,11 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524023152744">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524032740415">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/web.gradle" timestamp="1507778246497">
         <mark key="[" line="5" column="14" />
@@ -642,11 +644,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1524023060286">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1524032692241">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-theme.scss" timestamp="1508982894272">
         <mark key="[" line="15" column="0" />
@@ -807,7 +809,7 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/settings.gradle.kts" timestamp="1523984711616">
-        <mark key="[" line="2" column="0" />
+        <mark key="[" line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -902,43 +904,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text encoding="base64">IHZlcnNpb24gVmVyc2lvbnMuS09UTElO</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbiIvPgo=</text>
+        <text encoding="base64">ICBrb3RsaW4oImp2bSIpIHZlcnNpb24gVmVyc2lvbnMuS09UTElOCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgp9Cgo=</text>
+        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBrb3RsaW4oImthcHQiKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5kZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb21waWxlIgo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgCn0K</text>
+        <text encoding="base64">ICBrb3RsaW4oImthcHQiKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgogIGtvdGxpbigia2FwdCIpIHZlcnNpb24gVmVyc2lvbnMuS09UTElOCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgTUFQU1RSVUNUID0gIiIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5kZXBlbmRlbmNpZXMK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -977,8 +979,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
