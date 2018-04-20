@@ -435,6 +435,12 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/resources/application-dev.properties" timestamp="1524244950942">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/kotlin/evetools/BUILD" timestamp="1519325643287">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -568,11 +574,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524037460587">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524244996243">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -604,11 +610,10 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524032740415">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524244365724">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/web.gradle" timestamp="1507778246497">
         <mark key="[" line="5" column="14" />
@@ -900,11 +905,11 @@
       <jump line="2" column="36" filename="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/src/main/kotlin/Versions.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>configureSpringBoot</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZlcnNpb24gVmVyc2lvbnMuS09UTElO</text>
+        <text>configureSpringBoot</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -913,31 +918,31 @@
         <text encoding="base64">ICBrb3RsaW4oImp2bSIpIHZlcnNpb24gVmVyc2lvbnMuS09UTElOCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9mdW4gUHJvamVjdC5jb25maWd1cmVTcHJpbmdCb290KCkgewovLyAgZGVwZW5kZW5jaWVzIHsKLy8gIH0KLy99Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgp9Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBrb3RsaW4oImthcHQiKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgp9Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5kZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">ICBrb3RsaW4oImthcHQiKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
