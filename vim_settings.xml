@@ -260,10 +260,10 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1524245838890">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1524588881871">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
         <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
@@ -436,6 +436,11 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="65" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/gradle/wrapper/gradle-wrapper.properties" timestamp="1524588981124">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/tsconfig.json" timestamp="1509005736915">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="18" />
@@ -580,8 +585,8 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524249825555">
-        <mark key="[" line="13" column="19" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524589447899">
+        <mark key="[" line="15" column="1" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
@@ -616,11 +621,11 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524247545224">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="74" />
-        <mark key="." line="31" column="74" />
-        <mark key="^" line="31" column="74" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524589413208">
+        <mark key="[" line="82" column="13" />
+        <mark key="]" line="82" column="16" />
+        <mark key="." line="82" column="16" />
+        <mark key="^" line="82" column="16" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/web.gradle" timestamp="1507778246497">
         <mark key="[" line="5" column="14" />
@@ -823,8 +828,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/settings.gradle.kts" timestamp="1523984711616">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/settings.gradle.kts" timestamp="1524589524026">
+        <mark key="[" line="9" column="35" />
       </file>
     </filemarks>
     <jumps>
