@@ -585,9 +585,9 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524589447899">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="13" column="16" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524595750455">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
@@ -764,6 +764,11 @@
         <mark key="^" line="189" column="18" />
         <mark key="." line="189" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524595790473">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508695764690">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -921,7 +926,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICBhcGkK</text>
       </register>
       <register name="-" type="4">
         <text>mvc</text>
@@ -930,34 +935,34 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpbXBsZW1lbnRhdGlvbiIoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLW12YyIpCg==</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKQogIGtvdGxpbigia2FwdCIpCiAga290bGluKCJwbHVnaW4uc3ByaW5nIikKICBrb3RsaW4oInBsdWdpbi5qcGEiKQogIGlkKCJvcmcuamV0YnJhaW5zLmRva2thIikKICBpZCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290IikKICBpZCgiaW8uc3ByaW5nLmRlcGVuZGVuY3ktbWFuYWdlbWVudCIpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICBhcGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5nZXQK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgPSB7CgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUua290bGluLmRzbC5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aVZWb25zIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5nZXQoImltcGxlbWVudGF0aW9uIikuZXhjbHVkZSB7CiAgICBncm91cCgpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aVZWb25zIHsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5nZXQoImltcGxlbWVudGF0aW9uIikuZXhjbHVkZSB7CiAgICBncm91cCgpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
