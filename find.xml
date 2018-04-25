@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex'" />
-    <option name="defaultScopeName" value="File '~/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex'" />
-    <option name="SEARCH_SCOPE" value="File '~/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex'" />
+    <option name="customScope" value="Project 'authsquare'" />
+    <option name="defaultScopeName" value="Project 'authsquare'" />
+    <option name="SEARCH_SCOPE" value="Project 'authsquare'" />
   </component>
 </application>
