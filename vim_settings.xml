@@ -510,6 +510,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiExceptionHandler.kt" timestamp="1524623924160">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/settings.gradle" timestamp="1505932643341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -732,6 +738,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524623844840">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory-routing.module.ts" timestamp="1508335420674">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="2" column="0" />
@@ -764,10 +776,10 @@
         <mark key="^" line="189" column="18" />
         <mark key="." line="189" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524619907338">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524623971613">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508695764690">
         <mark key="[" line="15" column="7" />
