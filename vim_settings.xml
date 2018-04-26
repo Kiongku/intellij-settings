@@ -8,13 +8,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/_typography.scss" timestamp="1508949946117">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="50" />
-        <mark key="^" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/bazel-app/.bazelrc" timestamp="1519380354299">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,13 +167,6 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/_base.scss" timestamp="1508949467462">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/integrationTest/java/com/syninno/sims/clinic/users/service/UserServiceImplIntegrationTest.java" timestamp="1511961808173">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -201,13 +187,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/eve-tools/core/BUILD" timestamp="1519329951032">
-        <mark key="'" line="5" column="40" />
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="5" column="40" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/annotationProcessor.gradle" timestamp="1512014346099">
         <mark key="[" line="0" column="0" />
@@ -346,13 +325,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" timestamp="1508709721395">
-        <mark key="'" line="10" column="25" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="5" column="1" />
@@ -423,13 +395,6 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.ts" timestamp="1509037961071">
-        <mark key="'" line="11" column="28" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="10" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular.scss" timestamp="1508941112491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="65" />
@@ -460,13 +425,6 @@
       <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/build.gradle.kts" timestamp="1524669381741">
         <mark key="[" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.can-load.ts" timestamp="1509014777939">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/index.html" timestamp="1508731350361">
         <mark key="[" line="9" column="110" />
         <mark key="]" line="9" column="110" />
@@ -479,11 +437,11 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/WebServiceException.kt" timestamp="1524677343653">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="9" column="2" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/WebServiceException.kt" timestamp="1524766971905">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-typography.scss" timestamp="1508949436520">
         <mark key="[" line="0" column="0" />
@@ -503,24 +461,17 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/api-endpoint.http-interceptor.ts" timestamp="1508117896184">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="9" column="90" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/layout/_all-layout.scss" timestamp="1508938768552">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiExceptionHandler.kt" timestamp="1524623924160">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiExceptionHandler.kt" timestamp="1524767402567">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="22" column="72" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/settings.gradle" timestamp="1505932643341">
         <mark key="[" line="0" column="0" />
@@ -540,11 +491,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiError.kt" timestamp="1524763660416">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="42" column="19" />
-        <mark key="^" line="42" column="19" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiError.kt" timestamp="1524766883399">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="/fragment.kt" timestamp="1524766938613">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
@@ -655,11 +611,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" timestamp="1524763845290">
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" timestamp="1524766926001">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
         <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
@@ -750,18 +706,11 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/src/main/kotlin/Versions.kt" timestamp="1521640964199">
-        <mark key="'" line="2" column="36" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524677296139">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="24" column="51" />
-        <mark key="^" line="24" column="51" />
-        <mark key="." line="24" column="51" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524766986963">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory-routing.module.ts" timestamp="1508335420674">
         <mark key="[" line="13" column="2" />
@@ -775,25 +724,11 @@
         <mark key="." line="5" column="61" />
         <mark key="^" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.tex" timestamp="1517422669946">
-        <mark key="'" line="8" column="1" />
-        <mark key="[" line="198" column="11" />
-        <mark key="]" line="198" column="15" />
-        <mark key="." line="198" column="15" />
-        <mark key="^" line="198" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory.module.ts" timestamp="1508290857644">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.cls" timestamp="1517422029755">
-        <mark key="'" line="146" column="34" />
-        <mark key="[" line="189" column="18" />
-        <mark key="]" line="189" column="18" />
-        <mark key="^" line="189" column="18" />
-        <mark key="." line="189" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524762332169">
         <mark key="[" line="21" column="62" />
@@ -850,13 +785,6 @@
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/sims/.gitignore" timestamp="1512014640441">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="138" column="28" />
-        <mark key="]" line="139" column="5" />
-        <mark key="." line="139" column="5" />
-        <mark key="^" line="139" column="5" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/font-awesome/_font-awesome.scss" timestamp="1508993480047">
         <mark key="[" line="4" column="0" />
@@ -960,10 +888,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>Throwable</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Throwable</text>
       </register>
       <register name="/" type="4">
         <text>ApiError</text>
@@ -972,34 +900,34 @@
         <text encoding="base64">ICogQHBhcmFtIHN0YXR1cyB0aGUgaHR0cCBzdGF0dXMgb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwYXJhbSBjYXVzZSB0aGUgW1Rocm93YWJsZV0gZXhjZXB0aW9uIG9mIHRoZSBbQXBpRXJyb3JdLgogKiBAcGFyYW0gcGF0aCB0aGUgZXJyb3IgcGF0aCAoZm9yIGUuZyBodHRwIHVybCkgb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwYXJhbSBtZXNzYWdlIHRoZSBlcnJvciBtZXNzYWdlIG9mIHRoZSBbQXBpRXJyb3JdLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXQogICAgICovCiAgICBjb25zdHJ1Y3RvcigpIDogdGhpcyhudWxsLCBudWxsKQoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWVzc2FnZSB0aGUgW1dlYlNlcnZpY2VFeGNlcHRpb25dIG1lc3NhZ2UuCiAgICAgKi8KICAgIGNvbnN0cnVjdG9yKG1lc3NhZ2U6IFN0cmluZykgOiB0aGlzKG1lc3NhZ2UsIG51bGwpCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXS4KICAgICAqLwogICAgY29uc3RydWN0b3IoKSA6IHRoaXMobnVsbCwgbnVsbCkKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0uCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgdGhlIFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSBtZXNzYWdlLgogICAgICovCiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBTdHJpbmcpIDogdGhpcyhtZXNzYWdlLCBudWxsKQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4K</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoOiBTdHJpbmc/LAo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCiAgICB2YWwgY2F1c2U6IFRocm93YWJsZT8sCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSgKICAgICJjb3JlOndlYnNlcnZpY2UiCikK</text>
+        <text encoding="base64">ICAgIHZhbCBwYXRoOiBTdHJpbmc/LAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1039,9 +967,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4lcy9BcGlFcnJvci9WYWxpZGF0aW9uQXBpRXJyb3I=</entry>
         <entry encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
