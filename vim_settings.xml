@@ -540,11 +540,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiError.kt" timestamp="1524708280164">
-        <mark key="[" line="35" column="65" />
-        <mark key="]" line="30" column="6" />
-        <mark key="." line="30" column="6" />
-        <mark key="^" line="30" column="6" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiError.kt" timestamp="1524763660416">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
@@ -655,8 +655,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" timestamp="1524677513391">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" timestamp="1524763845290">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
@@ -791,7 +795,7 @@
         <mark key="^" line="189" column="18" />
         <mark key="." line="189" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524761541675">
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524762332169">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -952,63 +956,63 @@
       <jump line="146" column="34" filename="$USER_HOME$/Development/Personal/Curriculum Vitae/yiuwaikeung-cv.cls" />
       <jump line="5" column="40" filename="$USER_HOME$/Development/projects/eve-tools/core/BUILD" />
       <jump line="2" column="36" filename="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/src/main/kotlin/Versions.kt" />
+      <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZSgKICAgICJjb3JlOndlYnNlcnZpY2UiCikK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>property</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>ApiError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cyB0aGUgaHR0cCBzdGF0dXMgb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwYXJhbSBtZXNzYWdlIHRoZSBlcnJvciBtZXNzYWdlIG9mIHRoZSBbQXBpRXJyb3JdLgogKiBAcGFyYW0gcGF0aCB0aGUgZXJyb3IgcGF0aCAoZm9yIGUuZyBodHRwIHVybCkgb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cyB0aGUgaHR0cCBzdGF0dXMgb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwYXJhbSBjYXVzZSB0aGUgW1Rocm93YWJsZV0gZXhjZXB0aW9uIG9mIHRoZSBbQXBpRXJyb3JdLgogKiBAcGFyYW0gcGF0aCB0aGUgZXJyb3IgcGF0aCAoZm9yIGUuZyBodHRwIHVybCkgb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwYXJhbSBtZXNzYWdlIHRoZSBlcnJvciBtZXNzYWdlIG9mIHRoZSBbQXBpRXJyb3JdLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZSgKICAgICJjb3JlOndlYnNlcnZpY2UiCikK</text>
+        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCIiKQo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHMK</text>
+        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCIiKQo=</text>
+        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24oa290bGluKCJzdGRsaWItamRrOCIpKQovLyAgICBpbXBsZW1lbnRhdGlvbihrb3RsaW4oInJlZmxlY3QiKSkK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIHZhbCBwYXRoOiBTdHJpbmc/LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCiAgICB2YWwgY2F1c2U6IFRocm93YWJsZT8sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS50YXNrcy5Lb3RsaW5Db21waWxlCg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSgKICAgICJjb3JlOndlYnNlcnZpY2UiCikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>ApiError</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>ApiError</last-pattern>
+      <last-replace>ValidationApiError</last-replace>
+      <last-substitute>ApiError</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>roboto</entry>
         <entry>font-face</entry>
         <entry>ui-widget</entry>
         <entry>font</entry>
@@ -1028,6 +1032,7 @@
         <entry>documentclass</entry>
         <entry>entry</entry>
         <entry>'</entry>
+        <entry>ApiError</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -1035,6 +1040,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4lcy9BcGlFcnJvci9WYWxpZGF0aW9uQXBpRXJyb3I=</entry>
+        <entry encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
