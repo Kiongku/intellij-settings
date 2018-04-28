@@ -279,10 +279,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524934836787">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524936616267">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface.scss" timestamp="1508941202170">
         <mark key="[" line="0" column="0" />
@@ -473,11 +474,10 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/KotlinScratch/build.gradle.kts" timestamp="1524933300316">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="6" column="32" />
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/build.gradle.kts" timestamp="1524935927176">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ApiExceptionHandler.kt" timestamp="1524845737032">
         <mark key="[" line="15" column="61" />
@@ -565,6 +565,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/java/com/monkeycodefactory/kotlin/JavaKotlin.java" timestamp="1524935363412">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/pubspec.yaml" timestamp="1507828238912">
         <mark key="[" line="0" column="6" />
@@ -914,10 +920,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVyRXhhbXBlSwo=</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLnR5cGUK</text>
       </register>
       <register name="-" type="4">
-        <text>kotlinModule</text>
+        <text>printDummyVal</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -926,31 +932,31 @@
         <text encoding="base64">cGx1Z2luTWFuYWdlbWVudCB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCiAgICAgICAgZ29vZ2xlKCkKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVyRXhhbXBlSwo=</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLnR5cGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGR1bW15LnAK</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gUmVjZWl2ZXJEdW1teSgiYiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmxhbmcubW9kZWwudXRpbC5FbGVtZW50RmlsdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlS3QgewoKfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIktvdGxpbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlIHsKfQoK</text>
+        <text encoding="base64">ICAgIHZhbCBkdW1teSA9IFJlY2VpdmVyRHVtbXkoIkEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR1bW15LnByaW50RHVtbXlWYWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGtvdGxpbl92ZXJzaW9uOiBTdHJpbmcgYnkgZXh0cmEKa290bGluX3ZlcnNpb24gPSAiMS4yLjQxIgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIlJlY2VpdmVyIGR1bW15IHdpdGggdmFsdWUgJHZhbHVlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8KLy90YXNrcy53aXRoVHlwZTxLb3RsaW5Db21waWxlPiB7Ci8vICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy99Ci8vCg==</text>
+        <text encoding="base64">ICAgIEtvdGxpblR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXkuYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
