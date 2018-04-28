@@ -279,11 +279,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524936616267">
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524937449301">
         <mark key="[" line="9" column="30" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface.scss" timestamp="1508941202170">
         <mark key="[" line="0" column="0" />
@@ -920,7 +919,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLnR5cGUK</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLgo=</text>
       </register>
       <register name="-" type="4">
         <text>printDummyVal</text>
@@ -932,31 +931,31 @@
         <text encoding="base64">cGx1Z2luTWFuYWdlbWVudCB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCiAgICAgICAgZ29vZ2xlKCkKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLnR5cGUK</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gUmVjZWl2ZXJEdW1teSgiYiIpCg==</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXk6OmNsYXNzLnR5cGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmxhbmcubW9kZWwudXRpbC5FbGVtZW50RmlsdGVyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gUmVjZWl2ZXJEdW1teSgiYiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIktvdGxpbiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmxhbmcubW9kZWwudXRpbC5FbGVtZW50RmlsdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkdW1teSA9IFJlY2VpdmVyRHVtbXkoIkEiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIktvdGxpbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGR1bW15LnByaW50RHVtbXlWYWwoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkdW1teSA9IFJlY2VpdmVyRHVtbXkoIkEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlJlY2VpdmVyIGR1bW15IHdpdGggdmFsdWUgJHZhbHVlIikK</text>
+        <text encoding="base64">ICAgIGR1bW15LnByaW50RHVtbXlWYWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEtvdGxpblR5cGUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIlJlY2VpdmVyIGR1bW15IHdpdGggdmFsdWUgJHZhbHVlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVyRHVtbXkuYwo=</text>
+        <text encoding="base64">ICAgIEtvdGxpblR5cGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
