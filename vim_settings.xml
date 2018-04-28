@@ -239,8 +239,8 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1524674402100">
-        <mark key="[" line="34" column="43" />
+      <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1524882554548">
+        <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="24" />
         <mark key="." line="41" column="24" />
         <mark key="^" line="34" column="46" />
@@ -559,11 +559,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524795027779">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524883087298">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -595,9 +595,9 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524759793763">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="68" column="1" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524883084022">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="2" />
         <mark key="." line="68" column="1" />
         <mark key="^" line="82" column="16" />
       </file>
@@ -730,7 +730,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524762332169">
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524882925063">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -888,43 +888,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5hbGwgewogICAgZXhjbHVkZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290Iiwic3ByaW5nLWJvb3Qtc3RhcnRlci1sb2dnaW5nIikKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Throwable</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ApiError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhdHVzOiAke2Vycm9yLnN0YXR1c30iKQogICAgICAgIGxvZy5pbmZvKCJNZXNzYWdlOiAke2Vycm9yLm1lc3NhZ2V9IikKICAgICAgICBsb2cuaW5mbygiUGF0aDogJHtlcnJvci5wYXRofSIpCiAgICAgICAgbG9nLmRlYnVnKCJSb290IGNhdXNlIG1lc3NhZ2U6ICR7ZXJyb3Iucm9vdENhdXNlTWVzc2FnZX0iKQogICAgICAgIGxvZy5kZWJ1ZygiU3RhY2t0cmFjZTogJHtlcnJvci5zdGFja1RyYWNlfSIpCiAgICAgICAgcmV0dXJuIGVycm9yCg==</text>
+        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5hbGwgewogICAgZXhjbHVkZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290Iiwic3ByaW5nLWJvb3Qtc3RhcnRlci1sb2dnaW5nIikKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXQogICAgICovCiAgICBjb25zdHJ1Y3RvcigpIDogdGhpcyhudWxsLCBudWxsKQoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWVzc2FnZSB0aGUgW1dlYlNlcnZpY2VFeGNlcHRpb25dIG1lc3NhZ2UuCiAgICAgKi8KICAgIGNvbnN0cnVjdG9yKG1lc3NhZ2U6IFN0cmluZykgOiB0aGlzKG1lc3NhZ2UsIG51bGwpCn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXS4KICAgICAqLwogICAgY29uc3RydWN0b3IoKSA6IHRoaXMobnVsbCwgbnVsbCkKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0uCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgdGhlIFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSBtZXNzYWdlLgogICAgICovCiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBTdHJpbmcpIDogdGhpcyhtZXNzYWdlLCBudWxsKQp9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXQogICAgICovCiAgICBjb25zdHJ1Y3RvcigpIDogdGhpcyhudWxsLCBudWxsKQoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWVzc2FnZSB0aGUgW1dlYlNlcnZpY2VFeGNlcHRpb25dIG1lc3NhZ2UuCiAgICAgKi8KICAgIGNvbnN0cnVjdG9yKG1lc3NhZ2U6IFN0cmluZykgOiB0aGlzKG1lc3NhZ2UsIG51bGwpCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXS4KICAgICAqLwogICAgY29uc3RydWN0b3IoKSA6IHRoaXMobnVsbCwgbnVsbCkKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0uCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgdGhlIFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSBtZXNzYWdlLgogICAgICovCiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBTdHJpbmcpIDogdGhpcyhtZXNzYWdlLCBudWxsKQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4K</text>
+        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
