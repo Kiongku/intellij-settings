@@ -279,7 +279,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524934129317">
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverExample.kt" timestamp="1524934836787">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -914,7 +914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGR1bW15LnAK</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRXhhbXBlSwo=</text>
       </register>
       <register name="-" type="4">
         <text>kotlinModule</text>
@@ -926,31 +926,31 @@
         <text encoding="base64">cGx1Z2luTWFuYWdlbWVudCB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCiAgICAgICAgZ29vZ2xlKCkKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGR1bW15LnAK</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVyRXhhbXBlSwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR1bW15LnAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlS3QgewoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlIHsKfQoK</text>
+        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlS3QgewoKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVjZWl2ZXJFeGFtcGxlIHsKfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGtvdGxpbl92ZXJzaW9uOiBTdHJpbmcgYnkgZXh0cmEKa290bGluX3ZlcnNpb24gPSAiMS4yLjQxIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8KLy90YXNrcy53aXRoVHlwZTxLb3RsaW5Db21waWxlPiB7Ci8vICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy99Ci8vCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIGtvdGxpbl92ZXJzaW9uOiBTdHJpbmcgYnkgZXh0cmEKa290bGluX3ZlcnNpb24gPSAiMS4yLjQxIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8KLy90YXNrcy53aXRoVHlwZTxLb3RsaW5Db21waWxlPiB7Ci8vICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy99Ci8vCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5pdCB7CiAgICBrb3RsaW5fdmVyc2lvbiA9ICIxLjIuNDEiCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
