@@ -559,11 +559,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524883087298">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1524883306484">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="26" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -595,9 +595,9 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524883084022">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="2" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1524883173985">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="91" />
         <mark key="." line="68" column="1" />
         <mark key="^" line="82" column="16" />
       </file>
@@ -730,10 +730,10 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524882925063">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1524883193567">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/core.module.ts" timestamp="1508695764690">
         <mark key="[" line="15" column="7" />
@@ -792,10 +792,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/settings.gradle.kts" timestamp="1524759031992">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/settings.gradle.kts" timestamp="1524883589320">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -888,52 +888,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5hbGwgewogICAgZXhjbHVkZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290Iiwic3ByaW5nLWJvb3Qtc3RhcnRlci1sb2dnaW5nIikKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ApiError</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25maWd1cmF0aW9ucy5hbGwgewogICAgZXhjbHVkZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290Iiwic3ByaW5nLWJvb3Qtc3RhcnRlci1sb2dnaW5nIikKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaW1wbGVtZW50YXRpb24iKCJvcmcuYXBhY2hlLmNvbW1vbnM6Y29tbW9ucy1sYW5nMzoke1ZlcnNpb25zLkFQQUNIRV9DT01NT05TX0xBTkd9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXQogICAgICovCiAgICBjb25zdHJ1Y3RvcigpIDogdGhpcyhudWxsLCBudWxsKQoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWVzc2FnZSB0aGUgW1dlYlNlcnZpY2VFeGNlcHRpb25dIG1lc3NhZ2UuCiAgICAgKi8KICAgIGNvbnN0cnVjdG9yKG1lc3NhZ2U6IFN0cmluZykgOiB0aGlzKG1lc3NhZ2UsIG51bGwpCn0K</text>
+        <text encoding="base64">Ly9rb3RsaW5Qcm9qZWN0KHRydWUpCi8vc3ByaW5nQm9vdFByb2plY3QoKQovL3NwcmluZ0Jvb3RXZWIoZmFsc2UpCi8vc3ByaW5nQm9vdEpwYSh0cnVlKQovL3NwcmluZ0Jvb3RTZWN1cml0eSgpCi8vc3ByaW5nQm9vdEphc3lwdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXS4KICAgICAqLwogICAgY29uc3RydWN0b3IoKSA6IHRoaXMobnVsbCwgbnVsbCkKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0uCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgdGhlIFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSBtZXNzYWdlLgogICAgICovCiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBTdHJpbmcpIDogdGhpcyhtZXNzYWdlLCBudWxsKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXQogICAgICovCiAgICBjb25zdHJ1Y3RvcigpIDogdGhpcyhudWxsLCBudWxsKQoKICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtXZWJTZXJ2aWNlRXhjZXB0aW9uXS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWVzc2FnZSB0aGUgW1dlYlNlcnZpY2VFeGNlcHRpb25dIG1lc3NhZ2UuCiAgICAgKi8KICAgIGNvbnN0cnVjdG9yKG1lc3NhZ2U6IFN0cmluZykgOiB0aGlzKG1lc3NhZ2UsIG51bGwpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBwYXRoIHRoZSBlcnJvciBwYXRoIChmb3IgZS5nIGh0dHAgdXJsKSBvZiB0aGUgW0FwaUVycm9yXS4KICogQHByb3BlcnR5IGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCiAqIEBwcm9wZXJ0eSBzdGFja1RyYWNlIHRoZSBzdGFja3RyYWNlIG9mIHRoZSBbQXBpRXJyb3JdLgogKgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXS4KICAgICAqLwogICAgY29uc3RydWN0b3IoKSA6IHRoaXMobnVsbCwgbnVsbCkKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBbUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbl0uCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgdGhlIFtSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uXSBtZXNzYWdlLgogICAgICovCiAgICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBTdHJpbmcpIDogdGhpcyhtZXNzYWdlLCBudWxsKQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhdXNlIHRoZSBbVGhyb3dhYmxlXSBleGNlcHRpb24gb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgdGhlIGVycm9yIG1lc3NhZ2Ugb2YgdGhlIFtBcGlFcnJvcl0uCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHN0YXR1cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ApiError</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>ApiError</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>ValidationApiError</last-replace>
       <last-substitute>ApiError</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +941,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font-face</entry>
         <entry>ui-widget</entry>
         <entry>font</entry>
         <entry>font-family</entry>
@@ -961,6 +960,7 @@
         <entry>entry</entry>
         <entry>'</entry>
         <entry>ApiError</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
