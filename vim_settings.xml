@@ -637,13 +637,6 @@
       <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverDummy.kt" timestamp="1524933385034">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" timestamp="1524766926001">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="3" column="41" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.ts" timestamp="1508258751569">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="17" />
@@ -772,6 +765,7 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/src/core-api/org/gradle/api/Project.java" timestamp="1525007933204" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.ts" timestamp="1508340897080">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="31" />
