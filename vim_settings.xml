@@ -175,8 +175,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/User.kt" timestamp="1525370996387">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/User.kt" timestamp="1525447671436">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/wrapper/gradle-wrapper.properties" timestamp="1511939093679">
         <mark key="[" line="4" column="68" />
@@ -222,6 +225,12 @@
         <mark key="]" line="2" column="60" />
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/UserEntity.kt" timestamp="1525447926567">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -628,8 +637,8 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1525088266476">
-        <mark key="[" line="76" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1525433632611">
+        <mark key="[" line="88" column="0" />
         <mark key="]" line="76" column="78" />
         <mark key="." line="76" column="0" />
       </file>
@@ -681,8 +690,8 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1525026479206">
-        <mark key="[" line="6" column="41" />
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1525433682346">
+        <mark key="[" line="5" column="37" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="7" />
