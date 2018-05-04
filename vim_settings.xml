@@ -203,6 +203,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/repository/UserRepository.kt" timestamp="1525477560898">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/annotationProcessor.gradle" timestamp="1512014346099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="3" />
@@ -228,9 +234,9 @@
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/UserEntity.kt" timestamp="1525447926567">
         <mark key="[" line="12" column="22" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -939,8 +945,8 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="-" type="4">
         <text>class</text>
