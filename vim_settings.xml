@@ -175,11 +175,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/User.kt" timestamp="1525447671436">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/User.kt" timestamp="1525595342170">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/wrapper/gradle-wrapper.properties" timestamp="1511939093679">
         <mark key="[" line="4" column="68" />
@@ -232,10 +232,11 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/UserEntity.kt" timestamp="1525592048590">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/UserEntity.kt" timestamp="1525595616105">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+        <mark key="^" line="62" column="32" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -537,6 +538,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/UserRepository.kt" timestamp="1525594554370">
+        <mark key="[" line="7" column="48" />
       </file>
       <file name="/fragment.kt" timestamp="1524766938613">
         <mark key="[" line="0" column="0" />
@@ -841,7 +845,7 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1525148712495">
+      <file name="/fragment.java" timestamp="1525594024893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/font-awesome/_font-awesome.scss" timestamp="1508993480047">
