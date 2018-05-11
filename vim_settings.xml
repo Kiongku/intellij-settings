@@ -226,6 +226,12 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/resources/log4j2.json" timestamp="1526061109604">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-light.scss" timestamp="1508940865066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="60" />
@@ -610,11 +616,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526039924770">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526060938198">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -748,7 +754,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519330071698">
+      <file name="/Dummy.txt" timestamp="1526060833647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519333566167">
@@ -949,43 +955,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwYWNrYWdlcyI6ICJvcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGoudGVzdCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>RoutingTest</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx1Z2luTWFuYWdlbWVudCB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCiAgICAgICAgZ29vZ2xlKCkKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganZtQXJncy5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwYWNrYWdlcyI6ICJvcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGoudGVzdCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIFByb2plY3QubWFwc3RydWN0KCkgewogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAiaW1wbGVtZW50YXRpb24iKCJvcmcubWFwc3RydWN0Om1hcHN0cnVjdC1qZGs4OiR7VmVyc2lvbnMuTUFQU1RSVUNUfSIpCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAganZtQXJncy5hZGQoaXQuYWJzb2x1dGVQYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBGZXRjaChGZXRjaE1vZGUuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKGYgRmV0Y2hUeXBlLkxBWlkpCg==</text>
+        <text encoding="base64">ZnVuIFByb2plY3QubWFwc3RydWN0KCkgewogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAiaW1wbGVtZW50YXRpb24iKCJvcmcubWFwc3RydWN0Om1hcHN0cnVjdC1qZGs4OiR7VmVyc2lvbnMuTUFQU1RSVUNUfSIpCiAgICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obGVuZ3RoID0gNjApCg==</text>
+        <text encoding="base64">ICAgIEBGZXRjaChGZXRjaE1vZGUuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKGYgRmV0Y2hUeXBlLkxBWlkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obGVuZ3RoID0gNjApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5OnNwcmluZy1zZWN1cml0eS1jb3JlIikK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
