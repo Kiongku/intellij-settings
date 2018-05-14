@@ -646,11 +646,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526271848805">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526272632261">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -806,10 +806,10 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/gradle/spring-aspectj.gradle.kts" timestamp="1526271623591">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/projects/authsquare/gradle/spring-aspectj.gradle.kts" timestamp="1526272590894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524766986963">
         <mark key="[" line="11" column="11" />
@@ -997,10 +997,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkoZnJvbSA9ICIuLi8uLi9ncmFkbGUvc3ByaW5nLWFzcGVjdGouZ3JhZGxlLmt0cyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jvmArgs</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -1009,31 +1009,31 @@
         <text encoding="base64">ICAgIGlkKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkoZnJvbSA9ICIuLi8uLi9ncmFkbGUvc3ByaW5nLWFzcGVjdGouZ3JhZGxlLmt0cyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy90YXNrcyB7Ci8vICAgIHdpdGhUeXBlPFRlc3Q+IHsKLy8gICAgICAgIGRvRmlyc3QgewovLyAgICAgICAgICAgIHZhbCBtb2QgPSBqdm1BcmdzLnRvTXV0YWJsZUxpc3QoKQovLyAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgbW9kLmFkZCgiLWphdmFhZ2VudDoke2l0LmFic29sdXRlUGF0aH0iKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBqdm1BcmdzID0gbW9kCi8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgd2l0aFR5cGU8Qm9vdFJ1bj4gewovLyAgICAgICAgZG9GaXJzdCB7Ci8vICAgICAgICAgICAgdmFsIG1vZCA9IGp2bUFyZ3MudG9NdXRhYmxlTGlzdCgpCi8vICAgICAgICAgICAgcnVudGltZUFnZW50LmZvckVhY2ggewovLyAgICAgICAgICAgICAgICBtb2QuYWRkKCItamF2YWFnZW50OiR7aXQuYWJzb2x1dGVQYXRofSIpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIGp2bUFyZ3MgPSBtb2QKLy8gICAgICAgIH0KLy8gICAgfQovL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ci8vICAgIHJ1bnRpbWVBZ2VudCgib3JnLnNwcmluZ2ZyYW1ld29yazpzcHJpbmctaW5zdHJ1bWVudCIpCi8vICAgIHJ1bnRpbWVBZ2VudCgib3JnLmFzcGVjdGo6YXNwZWN0andlYXZlciIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly92YWwgcnVudGltZUFnZW50OiBDb25maWd1cmF0aW9uID0gY29uZmlndXJhdGlvbnMuY3JlYXRlKCJydW50aW1lQWdlbnQiKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290IikKfVYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly90YXNrcy5hbGwgewovLyAgICB3aGVuICh0aGlzKSB7Ci8vICAgICAgICBpcyBCb290UnVuIC0+IHsKLy8gICAgICAgICAgICBkb0ZpcnN0IHsKLy8gICAgICAgICAgICAgICAgdmFsIG1vZCA9IGp2bUFyZ3MudG9NdXRhYmxlTGlzdCgpCi8vICAgICAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgICAgIG1vZC5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBqdm1BcmdzID0gbW9kCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZyb20oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9hcHBseShmcm9tID0gIi4uLy4uL2dyYWRsZS9zcHJpbmctYXNwZWN0ai5ncmFkbGUua3RzIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZC5hZGQoKQo=</text>
+        <text encoding="base64">YXBwbHkoZnJvbSA9ICIuLi8uLi9ncmFkbGUvc3ByaW5nLWFzcGVjdGouZ3JhZGxlLmt0cyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
