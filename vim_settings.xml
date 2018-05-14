@@ -646,7 +646,7 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526272632261">
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526314114924">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -688,8 +688,8 @@
         <mark key="." line="59" column="74" />
         <mark key="^" line="59" column="74" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/SsoDatabaseConfiguration.kt" timestamp="1526266654184">
-        <mark key="[" line="43" column="7" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/SsoDatabaseConfiguration.kt" timestamp="1526314176674">
+        <mark key="[" line="35" column="28" />
         <mark key="]" line="43" column="44" />
         <mark key="^" line="43" column="44" />
         <mark key="." line="43" column="44" />
