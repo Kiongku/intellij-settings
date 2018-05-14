@@ -288,8 +288,11 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/resources/application-dev.properties" timestamp="1526096768500">
-        <mark key="[" line="1" column="34" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/resources/application-dev.properties" timestamp="1526266496146">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1526090907985">
         <mark key="[" line="27" column="0" />
@@ -415,6 +418,9 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/resources/META-INF/aop.xml" timestamp="1526267977719">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme.scss" timestamp="1508562709812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -439,11 +445,11 @@
         <mark key="^" line="15" column="70" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/AuthDatabaseConfiguration.kt" timestamp="1526100459227">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/AuthDatabaseConfiguration.kt" timestamp="1526266631215">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="16" />
+        <mark key="^" line="49" column="43" />
+        <mark key="." line="49" column="43" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.html" timestamp="1509037944282">
         <mark key="[" line="7" column="0" />
@@ -640,11 +646,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526096975426">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="17" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="17" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526267812162">
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -682,11 +688,11 @@
         <mark key="." line="59" column="74" />
         <mark key="^" line="59" column="74" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/SsoDatabaseConfiguration.kt" timestamp="1526100566570">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="57" />
-        <mark key="^" line="39" column="57" />
-        <mark key="." line="39" column="57" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/configuration/SsoDatabaseConfiguration.kt" timestamp="1526266654184">
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+        <mark key="." line="43" column="44" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/web.gradle" timestamp="1507778246497">
         <mark key="[" line="5" column="14" />
@@ -785,7 +791,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526060833647">
+      <file name="/Dummy.txt" timestamp="1526267053245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519333566167">
@@ -985,44 +991,44 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFjdGl2YXRpb24uRGF0YVNvdXJjZQo=</text>
+      <register name="&quot;" type="4">
+        <text>jvmArgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBKcGFQcm9wZXJ0aWVzIA==</text>
+        <text>jvmArgs</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAiaW1wbGVtZW50YXRpb24iKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1qdGEtYXRvbWlrb3MiKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVudGltZUFnZW50LmZvckVhY2ggewogICAgICAgICAgICAgICAganZtQXJncy5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFjdGl2YXRpb24uRGF0YVNvdXJjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZC5hZGQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGxhdGZvcm1NYW5hZ2VyID0gU3ByaW5nSnRhUGxhdGZvcm0odHJhbnNhY3Rpb25NYW5hZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBtb2RpZmllZEp2bUFyZ3MgPSBqdm1BcmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdG9taWtvcy5pY2F0Y2guanRhLlRyYW5zYWN0aW9uTWFuYWdlckltcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdm1BcmdzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbk1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCItamF2YWFnZW50OiR7aXQuYWJzb2x1dGVQYXRofSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhbnNhY3Rpb25NYW5hZ2VyID0gVHJhbnNhY3Rpb25NYW5hZ2VySW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIkJvb3QgUlVOIFRFU1QgZmlyc3QiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoVHlwZTxXcmFwcGVyPiB7CgogICAgICAgIH0KCg==</text>
+        <text encoding="base64">dGFza3MgewogICAgd2l0aFR5cGU8VGVzdD4gewogICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKICAgICAgICAgICAganZtQXJncy5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKICAgICAgICB9CiAgICB9Cn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgd2l0aFR5cGU8V3JhcHBlcj4gewogICAgICAgICAgICBncmFkbGVWZXJzaW9uID0gIjQuNiIKICAgICAgICAgICAgZGlzdHJpYnV0aW9uVHlwZSA9IFdyYXBwZXIuRGlzdHJpYnV0aW9uVHlwZS5BTEwKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICB3aXRoVHlwZTxCb290UnVuPiB7CiAgICAgICAgZG9GaXJzdCB7CiAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGp2bUFyZ3MuYWRkKCItamF2YWFnZW50OiR7aXQuYWJzb2x1dGVQYXRofSIpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpbmNsdWRlSnRhKSB7CiAgICAgICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAgICAgImltcGxlbWVudGF0aW9uIigib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItanRhLWF0b21pa29zIikKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoKICogQHBhcmFtIGluY2x1ZGVKdGEgaW5jbHVkZSBKVEEgdHJhbnNhY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
