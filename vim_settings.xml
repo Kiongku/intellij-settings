@@ -646,11 +646,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526268892032">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="39" column="3" />
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/build.gradle.kts" timestamp="1526271848805">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.html" timestamp="1508341256908">
         <mark key="[" line="0" column="4" />
@@ -805,6 +805,11 @@
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/gradle/spring-aspectj.gradle.kts" timestamp="1526271623591">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524766986963">
         <mark key="[" line="11" column="11" />
@@ -992,7 +997,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkoZnJvbSA9ICIuLi8uLi9ncmFkbGUvc3ByaW5nLWFzcGVjdGouZ3JhZGxlLmt0cyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>jvmArgs</text>
@@ -1001,34 +1006,34 @@
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb0ZpcnN0IHsKICAgICAgICAgICAgdmFsIG1vZCA9IGp2bUFyZ3MudG9NdXRhYmxlTGlzdCgpCiAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIG1vZC5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKICAgICAgICAgICAgfQogICAgICAgICAgICBqdm1BcmdzID0gbW9kCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlkKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkoZnJvbSA9ICIuLi8uLi9ncmFkbGUvc3ByaW5nLWFzcGVjdGouZ3JhZGxlLmt0cyIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly90YXNrcy5hbGwgewovLyAgICB3aGVuICh0aGlzKSB7Ci8vICAgICAgICBpcyBCb290UnVuIC0+IHsKLy8gICAgICAgICAgICBkb0ZpcnN0IHsKLy8gICAgICAgICAgICAgICAgdmFsIG1vZCA9IGp2bUFyZ3MudG9NdXRhYmxlTGlzdCgpCi8vICAgICAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgICAgIG1vZC5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBqdm1BcmdzID0gbW9kCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLyAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZC5hZGQoKQo=</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBtb2RpZmllZEp2bUFyZ3MgPSBqdm1BcmdzCg==</text>
+        <text encoding="base64">Ly90YXNrcy5hbGwgewovLyAgICB3aGVuICh0aGlzKSB7Ci8vICAgICAgICBpcyBCb290UnVuIC0+IHsKLy8gICAgICAgICAgICBkb0ZpcnN0IHsKLy8gICAgICAgICAgICAgICAgdmFsIG1vZCA9IGp2bUFyZ3MudG9NdXRhYmxlTGlzdCgpCi8vICAgICAgICAgICAgICAgIHJ1bnRpbWVBZ2VudC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgICAgIG1vZC5hZGQoIi1qYXZhYWdlbnQ6JHtpdC5hYnNvbHV0ZVBhdGh9IikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBqdm1BcmdzID0gbW9kCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLyAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdm1BcmdzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCItamF2YWFnZW50OiR7aXQuYWJzb2x1dGVQYXRofSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZC5hZGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
