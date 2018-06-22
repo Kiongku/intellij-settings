@@ -61,8 +61,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529657320357">
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529693003265">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
@@ -302,8 +304,11 @@
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle.properties" timestamp="1529659121790">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle.properties" timestamp="1529691965640">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1528874704156">
         <mark key="[" line="28" column="31" />
@@ -812,7 +817,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526267053245">
+      <file name="/Dummy.txt" timestamp="1529691361371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519333566167">
@@ -1018,43 +1023,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamVidHJhaW5zLmRva2thIikgdmVyc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bin</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQo=</text>
+        <text encoding="base64">ICAgIGdyYWRsZVZlcnNpb24gPSAiNC44IgogICAgZGlzdHJpYnV0aW9uVHlwZSA9IFdyYXBwZXIuRGlzdHJpYnV0aW9uVHlwZS5BTEwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkKCJvcmcuamVidHJhaW5zLmRva2thIikgdmVyc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvamVjdC5hcHAK</text>
+        <text encoding="base64">dGFzazxXcmFwcGVyPigid3JhcHBlciIpIHsKICAgIGdyYWRsZVZlcnNpb24gPSAiNC44IgogICAgZGlzdHJpYnV0aW9uVHlwZSA9IFdyYXBwZXIuRGlzdHJpYnV0aW9uVHlwZS5BTEwKfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBibmRWZXJzaW9uOiBTdHJpbmcgYnkgcHJvamVjdAo=</text>
+        <text encoding="base64">Ly90YXNrPFdyYXBwZXI+KCJ3cmFwcGVyIikgewovLyAgICBncmFkbGVWZXJzaW9uID0gIjQuOCIKLy8gICAgZGlzdHJpYnV0aW9uVHlwZSA9IFdyYXBwZXIuRGlzdHJpYnV0aW9uVHlwZS5BTEwKLy9WCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGJuZFZlcnNpb24gPSAiNC4wLjAiCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGJuZFZlcnNpb246IFN0cmluZyBieSByb290UHJvamVjdAo=</text>
+        <text encoding="base64">d3JhcHBlcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmFsIGJuZFZlcnNpb246IFN0cmluZyBieSBwcm9qZWN0Cgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiMjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjIw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiMjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjIw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
