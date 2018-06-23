@@ -61,11 +61,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529720194557">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="44" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529722136761">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
@@ -103,9 +102,10 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1529720606042">
-        <mark key="[" line="3" column="35" />
-        <mark key="^" line="3" column="10" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1529722900650">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
@@ -352,6 +352,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/src/main/kotlin/TestVersions.kt" timestamp="1529722882616">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface.scss" timestamp="1508941202170">
         <mark key="[" line="0" column="0" />
@@ -604,6 +610,7 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/build/classes/kotlin/main/com/codemonkeyfactory/account/Versions.class" timestamp="1529721248533" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -1036,11 +1043,11 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>com.codemonkeyfactory.account.gradle.</text>
       </register>
       <register name="-" type="4">
-        <text>Dependencies.KOTLIN_JVM</text>
+        <text>com.codemonkeyfactory.account.gradle.</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -1052,28 +1059,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50LlZlcnNpb25zCg==</text>
+        <text encoding="base64">Ly90YXNrcyB7Ci8vICAgIHZhbCBoZWxsbyBieSBjcmVhdGluZyB7Ci8vICAgICAgICBwcmludGxuKFZlcnNpb25zLktPVExJTl9WRVJTSU9OKQovLyAgICB9Ci8vfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlcGVuZGVuY2llcy5LT1RMSU5fS0FQVAo=</text>
+        <text encoding="base64">CmltcG9ydCBjb20uY29kZW1vbmtleWZhY3RvcnkuYWNjb3VudC5WZXJzaW9ucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBLT1RMSU5fS0FQVCA9IGtvdGxpbigia2FwdCIpIHZlcnNpb24gVmVyc2lvbnMuS09UTElOX1ZFUlNJT04K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBLT1RMSU5fSlZNID0gKCJqdm0iKSB2ZXJzaW9uIFZlcnNpb25zLktPVExJTl9WRVJTSU9OCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50LlZlcnNpb25zCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjb20uY29kZW1vbmtleWZhY3RvcnkuYWNjb3VudC5WZXJzaW9ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBncmFkbGVWZXJzaW9uOiBTdHJpbmcgYnkgcHJvamVjdC5leHRyYQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oVmVyc2lvbnMuR1JBRExFX1ZFUlNJT04pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGphdmEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
