@@ -819,10 +819,11 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529777844290">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="35" />
-        <mark key="." line="39" column="35" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529778580708">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="41" column="70" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -1052,10 +1053,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>project.extra[&quot;bndCn</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>project.extra[&quot;bndCn</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
