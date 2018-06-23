@@ -699,6 +699,9 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/build.gradle.kts" timestamp="1529718668643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/gradle/integrationTest.gradle" timestamp="1511950709349">
         <mark key="[" line="30" column="9" />
         <mark key="]" line="30" column="10" />
