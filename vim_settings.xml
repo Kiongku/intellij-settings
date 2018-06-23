@@ -729,6 +729,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/src/main/kotlin/com/codemonkeyfactory/account/gradle/Dependencies.kt" timestamp="1529744970794">
+        <mark key="[" line="4" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/projects/KotlinScratch/settings.gradle" timestamp="1524932294399">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="7" column="1" />
@@ -810,11 +813,11 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529662369739">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529745077599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="12" column="92" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -1043,8 +1046,8 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.codemonkeyfactory.account.gradle.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>com.codemonkeyfactory.account.gradle.</text>
@@ -1059,28 +1062,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly90YXNrcyB7Ci8vICAgIHZhbCBoZWxsbyBieSBjcmVhdGluZyB7Ci8vICAgICAgICBwcmludGxuKFZlcnNpb25zLktPVExJTl9WRVJTSU9OKQovLyAgICB9Ci8vfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50LmdyYWRsZS5WZXJzaW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uY29kZW1vbmtleWZhY3RvcnkuYWNjb3VudC5WZXJzaW9ucwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50LmdyYWRsZS5WZXJzaW9ucwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5hY2NvdW50LlZlcnNpb25zCgo=</text>
+        <text encoding="base64">ICAgIHZhbCBibmRWZXJzaW9uID0gIjQuMC4wIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb20uY29kZW1vbmtleWZhY3RvcnkuYWNjb3VudC5WZXJzaW9ucwo=</text>
+        <text encoding="base64">Ly90YXNrcyB7Ci8vICAgIHZhbCBoZWxsbyBieSBjcmVhdGluZyB7Ci8vICAgICAgICBwcmludGxuKFZlcnNpb25zLktPVExJTl9WRVJTSU9OKQovLyAgICB9Ci8vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oVmVyc2lvbnMuR1JBRExFX1ZFUlNJT04pCg==</text>
+        <text encoding="base64">CmltcG9ydCBjb20uY29kZW1vbmtleWZhY3RvcnkuYWNjb3VudC5WZXJzaW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGphdmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
