@@ -310,11 +310,11 @@
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle.properties" timestamp="1529826179090">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle.properties" timestamp="1529865826154">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/build.gradle.kts" timestamp="1528874704156">
         <mark key="[" line="28" column="31" />
@@ -820,11 +820,11 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529827613408">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529866044225">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -1053,53 +1053,53 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>configurations.class</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>configurations.class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwjXD4=</text>
+        <text encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFsIGJuZF9jbmY6IFN0cmluZyBieSBwcm9wZXJ0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRsbihibmRfY25mKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm5kUGx1Z2luCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYm5kUGx1Z2luIGJ5IGV4dHJhIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwbHkoZnJvbSA9ICJncmFkbGUvYm5kLmdyYWRsZS5rdHMiKQo=</text>
+        <text encoding="base64">IyBkZWZhdWx0IGdyYWRsZSB0YXNrIHRvIGJ1aWxkCmJuZF9kZWZhdWx0X3Rhc2s9YnVpbGQKIyB0aGlzIHNldHRpbmcgc2hvdWxkIGJlIGZhbHNlLCBpdCBvbmx5IG5lZWRzIHRvIGJlIHRydWUgaW4gcmFyZSBjYXNlcwpibmRfcHJlY29tcGlsZV9yZWZyZXNoPWZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIGRlZmF1bHRQcm9qZWN0TmFtZQo=</text>
+        <text encoding="base64">Ly8gSW5pdGlhbGl6ZSB0aGUgYm5kIHdvcmtzcGFjZQpAU3VwcHJlc3MoIlByb3BlcnR5TmFtZSIpCnZhbCBibmRfY25mOiBTdHJpbmcgYnkgc2V0dGluZ3MKCi8vV29ya3NwYWNlLnNldERyaXZlcihDb25zdGFudHMuQk5ERFJJVkVSX0dSQURMRSkKLy9Xb3Jrc3BhY2UuYWRkR2VzdGFsdChDb25zdGFudHMuR0VTVEFMVF9CQVRDSCwgbnVsbCkKLy92YWwgd29ya3NwYWNlOiBXb3Jrc3BhY2U/ID0gV29ya3NwYWNlKHJvb3REaXIsIGJuZF9jbmYpCi8vaWYgKHdvcmtzcGFjZSA9PSBudWxsKSB7Ci8vICAgIHRocm93IEdyYWRsZUV4Y2VwdGlvbigiVW5hYmxlIHRvIGxvYWQgd29ya3NwYWNlICRyb290RGlyLyRibmRfY25mIikKLy99Ci8vCi8vLy8gQWRkIGNuZiBwcm9qZWN0IHRvIHRoZSBncmFwaAovL2luY2x1ZGUoYm5kX2NuZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBibmRfY25mOiBTdHJpbmcgYnkgcm9vdFByb2plY3QucHJvcGVydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcGx5KGZyb20gPSAiZ3JhZGxlL2JuZC5ncmFkbGUua3RzIikK</text>
+        <text encoding="base64">cHJpbnRsbihibmRfY25mKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBibmRDb25mOiBTdHJpbmcgYnkgcm9vdFByb2plY3QuZXh0cmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIGJuZENvbmY6IFN0cmluZyBieSBwcm9qZWN0LmV4dHJhCg==</text>
+        <text encoding="base64">YXBwbHkoZnJvbSA9ICJncmFkbGUvYm5kLmdyYWRsZS5rdHMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwjXD4=</last-search>
+      <last-search encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwjXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</last-pattern>
       <last-replace>ValidationApiError</last-replace>
       <last-substitute>ApiError</last-substitute>
       <last-dir>-1</last-dir>
@@ -1107,7 +1107,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font</entry>
         <entry>font-family</entry>
         <entry>widget</entry>
         <entry>font-fa</entry>
@@ -1127,6 +1126,7 @@
         <entry>ApiError</entry>
         <entry>assert</entry>
         <entry encoding="base64">XDwjXD4=</entry>
+        <entry encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
