@@ -67,10 +67,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529722136761">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529868002922">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/build.gradle" timestamp="1511948468099">
         <mark key="[" line="41" column="0" />
@@ -611,6 +611,9 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle" timestamp="1529867419577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="1" column="42" />
@@ -820,11 +823,10 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529866044225">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529867921076">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -1053,11 +1055,11 @@
       <jump line="5" column="9" filename="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/api/ValidationApiError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>configurations.class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGphcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>configurations.class</text>
+        <text>configurations.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</text>
@@ -1066,31 +1068,31 @@
         <text encoding="base64">dmFsIGJuZF9jbmY6IFN0cmluZyBieSBwcm9wZXJ0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGphcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm5kUGx1Z2luCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYm5kUGx1Z2luLmZpbGVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYm5kUGx1Z2luIGJ5IGV4dHJhIHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImEiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBkZWZhdWx0IGdyYWRsZSB0YXNrIHRvIGJ1aWxkCmJuZF9kZWZhdWx0X3Rhc2s9YnVpbGQKIyB0aGlzIHNldHRpbmcgc2hvdWxkIGJlIGZhbHNlLCBpdCBvbmx5IG5lZWRzIHRvIGJlIHRydWUgaW4gcmFyZSBjYXNlcwpibmRfcHJlY29tcGlsZV9yZWZyZXNoPWZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gSW5pdGlhbGl6ZSB0aGUgYm5kIHdvcmtzcGFjZQpAU3VwcHJlc3MoIlByb3BlcnR5TmFtZSIpCnZhbCBibmRfY25mOiBTdHJpbmcgYnkgc2V0dGluZ3MKCi8vV29ya3NwYWNlLnNldERyaXZlcihDb25zdGFudHMuQk5ERFJJVkVSX0dSQURMRSkKLy9Xb3Jrc3BhY2UuYWRkR2VzdGFsdChDb25zdGFudHMuR0VTVEFMVF9CQVRDSCwgbnVsbCkKLy92YWwgd29ya3NwYWNlOiBXb3Jrc3BhY2U/ID0gV29ya3NwYWNlKHJvb3REaXIsIGJuZF9jbmYpCi8vaWYgKHdvcmtzcGFjZSA9PSBudWxsKSB7Ci8vICAgIHRocm93IEdyYWRsZUV4Y2VwdGlvbigiVW5hYmxlIHRvIGxvYWQgd29ya3NwYWNlICRyb290RGlyLyRibmRfY25mIikKLy99Ci8vCi8vLy8gQWRkIGNuZiBwcm9qZWN0IHRvIHRoZSBncmFwaAovL2luY2x1ZGUoYm5kX2NuZikK</text>
+        <text encoding="base64">ICAgIGdyYWRsZS5yb290UHJvamVjdCB7CiAgICAgICAgcGx1Z2lucyB7CiAgICAgICAgICAgIGlkKCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnRsbihibmRfY25mKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm5kUGx1Z2luCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYm5kUGx1Z2luIGJ5IGV4dHJhIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkoZnJvbSA9ICJncmFkbGUvYm5kLmdyYWRsZS5rdHMiKQo=</text>
+        <text encoding="base64">IyBkZWZhdWx0IGdyYWRsZSB0YXNrIHRvIGJ1aWxkCmJuZF9kZWZhdWx0X3Rhc2s9YnVpbGQKIyB0aGlzIHNldHRpbmcgc2hvdWxkIGJlIGZhbHNlLCBpdCBvbmx5IG5lZWRzIHRvIGJlIHRydWUgaW4gcmFyZSBjYXNlcwpibmRfcHJlY29tcGlsZV9yZWZyZXNoPWZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
