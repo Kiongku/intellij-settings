@@ -67,11 +67,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529952644295">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/setup.gradle.kts" timestamp="1529980112449">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/build.gradle.kts" timestamp="1529908957819">
         <mark key="[" line="6" column="78" />
@@ -118,10 +117,10 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1529920085377">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1529980713313">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
@@ -430,7 +429,7 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/src/com/codemonkeyfactory/account/api/package-info.java" timestamp="1529911739283">
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/src/com/codemonkeyfactory/account/api/package-info.java" timestamp="1529980336803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -859,11 +858,10 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529969936374">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="20" column="20" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529979886981">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -882,7 +880,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529977362796">
+      <file name="/Dummy.txt" timestamp="1529979548756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/BUILD" timestamp="1519333566167">
@@ -1106,11 +1104,11 @@
       <jump line="1003" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.gradle/4.0.0/6d3b9e3ffcd0f6abff22ba9f07372edbd3a7a9af/biz.aQute.bnd.gradle-4.0.0-sources.jar!/aQute/bnd/build/Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PEJuZFdvcmtzcGFjZVBsdWdpbj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEJuZFdvcmtzcGFjZVBsdWdpbj4=</text>
+        <text encoding="base64">PEJuZFBsdWdpbj4oYm5kUGx1Z2luQ2xhc3NwYXRoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>depends</text>
@@ -1119,31 +1117,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJodHRwLnByb3h5UG9ydCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZHNjcmlwdCB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBjbGFzc3BhdGgoYm5kUGx1Z2luKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIHByaW50bG4obmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogRGVwZW5kcyBvbiBibmRfKiBjb25maWd1cmF0aW9uIHByb3BlcnRpZXMgaW4gZ3JhZGxlLnByb3BlcnRpZXMuCg==</text>
+        <text encoding="base64">ICAgIHBsdWdpbnMuYXBwbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKGtleSkK</text>
+        <text encoding="base64">QFZlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4odXNlcm5hbWUpCiAgICAgICAgICAgICAgICBwcmludGxuKHBhc3N3b3JkKQovLyAgICAgICAgICAgICAgICB2YWwgcHJvdG9jb2wgPSBodHRwU3lzdGVtUHJvcGVydGllc1t1cHBlckNhc2VLZXldCi8vICAgICAgICAgICAgICAgIHZhbCAodmFsMSwgdmFsMikgPSB2YWx1ZS5zcGxpdCgiQCIsIGxpbWl0ID0gMikKLy8gICAgICAgICAgICAgICAgcHJpbnRsbih2YWwxKQovLyAgICAgICAgICAgICAgICBwcmludGxuKHZhbDIpCi8vICAgICAgICAgICAgICAgIHZhbCAodmFsMSwgdmFsMikgPSB2YWx1ZS5zcGxpdCgiQCIsIGxpbWl0ID0gMikKLy8gICAgICAgICAgICAgICAgdmFsICh2YWwzLCB2YWw0KSA9IHZhbDEuc3BsaXQoIi8vIiwgbGltaXQgPSAyKQovLyAgICAgICAgICAgICAgICB2YWwgKHVzZXJuYW1lLCBwYXNzd29yZCkgPSB2YWw0LnNwbGl0KCI6IiwgbGltaXQgPSAxKQoKLy8gICAgICAgICAgICAgICAgcHJpbnRsbigidGVzdDogJHt1cmwuaG9zdH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4odXJsLmF1dGhvcml0eSkK</text>
+        <text encoding="base64">ICAgIHZhbCBjb25maWd1cmVQcmBgYG94eSBieSBjcmVhdGluZyB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4odXJsLnVzZXJJbmZvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4odXJsKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmwgPSBqYXZhLm5ldC5VUkwodmFsdWUpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgZ3JvdXAgPSAiYnVpbGQgc2V0dXAiCiAgICAgICAgdmFsIGh0dHBTeXN0ZW1Qcm9wZXJ0aWVzID0gbWFwT2YoCiAgICAgICAgICAgICJIVFRQX1BST1hZIiB0byAiaHR0cCIsCiAgICAgICAgICAgICJIVFRQU19QUk9YWSIgdG8gImh0dHBzIgogICAgICAgICkKICAgICAgICB2YWwgZGVmYXVsdFBvcnQgPSBtYXBPZigKICAgICAgICAgICAgIkhUVFBfUFJPWFkiIHRvICI4MCIsCiAgICAgICAgICAgICJIVFRQU19QUk9YWSIgdG8gIjQ0MyIKICAgICAgICApCiAgICAgICAgU3lzdGVtLmdldGVudigpLmZvckVhY2ggeyAoa2V5OiBTdHJpbmcsIHZhbHVlOiBTdHJpbmcpIC0+CiAgICAgICAgICAgIHZhbCB1cHBlckNhc2VLZXkgPSBrZXkudG9VcHBlckNhc2UoKQogICAgICAgICAgICBpZiAodXBwZXJDYXNlS2V5IGluIGh0dHBTeXN0ZW1Qcm9wZXJ0aWVzKSB7CiAgICAgICAgICAgICAgICB2YWwgaHR0cFN5c3RlbVByb3BlcnR5VmFsdWUgPSBodHRwU3lzdGVtUHJvcGVydGllc1t1cHBlckNhc2VLZXldCiAgICAgICAgICAgICAgICB2YWwgdXJsID0gamF2YS5uZXQuVVJMKHZhbHVlKQogICAgICAgICAgICAgICAgdmFsICh1c2VybmFtZSwgcGFzc3dvcmQpID0gdXJsLnVzZXJJbmZvLnNwbGl0KCI6IiwgbGltaXQgPSAyKQogICAgICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCIkaHR0cFN5c3RlbVByb3BlcnR5VmFsdWUucHJveHlIb3N0IiwgdXJsLmhvc3QpCiAgICAgICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIiRodHRwU3lzdGVtUHJvcGVydHlWYWx1ZS5wcm94eVBvcnQiLCBpZiAodXJsLnBvcnQgPT0gLTEpIGRlZmF1bHRQb3J0W3VwcGVyQ2FzZUtleV0gZWxzZSB1cmwucG9ydC50b1N0cmluZygpKQogICAgICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCIkaHR0cFN5c3RlbVByb3BlcnR5VmFsdWUucHJveHlVc2VyIiwgdXNlcm5hbWUpCiAgICAgICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIiRodHRwU3lzdGVtUHJvcGVydHlWYWx1ZS5wcm94eVBhc3N3b3JkIiwgcGFzc3dvcmQpCgogICAgICAgICAgICAgICAgcHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImh0dHAucHJveHlIb3N0IikpCiAgICAgICAgICAgICAgICBwcmludGxuKFN5c3RlbS5nZXRQcm9wZXJ0eSgiaHR0cC5wcm94eVBvcnQiKSkKICAgICAgICAgICAgICAgIHByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJodHRwLnByb3h5VXNlciIpKQogICAgICAgICAgICAgICAgcHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImh0dHAucHJveHlQYXNzd29yZCIpKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIGdldEJ5TmFtZSgiYnVpbGQiKS5kZXBlbmRzT24oY29uZmlndXJlUHJveHkp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
