@@ -117,10 +117,11 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1530030543427">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1530055081501">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
@@ -1120,28 +1121,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGphdmFleGVjKCkgewogICAgICAgIHNvdXJjZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHBsdWdpbnMgewogICAgICAgIGBqYXZhYAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4oYGphdmFgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amF2YS5zb3VyY2UK</text>
+        <text encoding="base64">ICAgIGBqYXZhYCBhcHBseSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4oSmF2YVBsdWdpbjo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">CiAgICBrb3RsaW4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVNldGpqagogICAgICAgIGdldEJ5TgogICAgfQoK</text>
+        <text encoding="base64">ICAgIGphdmEgewogICAgICAgIHNvdQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGphdmEuc291cgo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoVHlwZTxKYXZhQ29tcGlsZT4gewogICAgICAgICAgICBqYXZhZXhlYyB7CgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4oS290bGluSnZtUGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
