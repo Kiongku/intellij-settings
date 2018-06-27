@@ -907,10 +907,10 @@
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1529979886981">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle.kts" timestamp="1530121518555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/booking.component.html" timestamp="1508258654846">
         <mark key="[" line="2" column="20" />
@@ -1169,28 +1169,54 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBrYXB0U291cmNlU2V0cyA9IGphdmEuc291cmNlU2V0c1sibWFpbiJdLndpdGhDb252ZW50aW9uKEthcHRTb3UpCg==</text>
+        <text encoding="base64">YXBwbHkocGx1Z2luID0gImJpei5hUXV0ZS5ibmQud29ya3NwYWNlIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oa290bGluU291cmNlU2V0cy5vdXRwdXREaXIpCg==</text>
+      <register name="3" type="4">
+        <text>import aQute.bnd.build.Workspace
+import aQute.bnd.gradle.BndPlugin
+import aQute.bnd.gradle.BndWorkspacePlugin
+import aQute.bnd.osgi.Constants
+
+/*
+ * Master Gradle initialization script
+ */
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath(&quot;biz.aQute.bnd:biz.aQute.bnd.gradle:${com.codemonkeyfactory.account.gradle.Versions.BND}&quot;)
+    }
+    // Add bnd gradle plugin to buildscript classpath of rootProject
+    val bndPlugin = files(configurations[&quot;classpath&quot;].files)
+    gradle.rootProject {
+        buildscript {
+            dependencies {
+                classpath(bndPlugin)
+            }
+        }
+    }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZVMK</text>
+        <text encoding="base64">ICAgIHZhbCBrYXB0U291cmNlU2V0cyA9IGphdmEuc291cmNlU2V0c1sibWFpbiJdLndpdGhDb252ZW50aW9uKEthcHRTb3UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmthcHQzLmJhc2UuamF2YWMuS2FwdEphdmFDb21waWxlcgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oa290bGluU291cmNlU2V0cy5vdXRwdXREaXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmthcHQzLmJhc2UuS2FwdC5rYXB0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLnBvbGljeS5wcml2YXRldXRpbC5Mb2NhbGl6YXRpb25NZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZVMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmthcHQzLmJhc2UuamF2YWMuS2FwdEphdmFDb21waWxlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
