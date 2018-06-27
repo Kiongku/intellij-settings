@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'authsquare'" />
-    <option name="defaultScopeName" value="Project 'authsquare'" />
-    <option name="SEARCH_SCOPE" value="Project 'authsquare'" />
+    <option name="customScope" value="File '.../build.gradle.kts [com.codemonkeyfactory.account]'" />
+    <option name="defaultScopeName" value="File '.../build.gradle.kts [com.codemonkeyfactory.account]'" />
+    <option name="SEARCH_SCOPE" value="File '.../build.gradle.kts [com.codemonkeyfactory.account]'" />
   </component>
 </application>
