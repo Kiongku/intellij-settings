@@ -6,10 +6,11 @@
       <file name="$USER_HOME$/Development/projects/neo-project/account-api/bnd.bnd" timestamp="1530149130724">
         <mark key="[" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/bnd.bnd" timestamp="1530149206101">
+      <file name="$USER_HOME$/Development/projects/neo-project/account/bnd.bnd" timestamp="1530172214203">
         <mark key="[" line="1" column="49" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/java/Core.java" timestamp="1519323994401">
         <mark key="[" line="0" column="22" />
