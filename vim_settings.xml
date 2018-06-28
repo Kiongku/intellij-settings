@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/Development/projects/neo-project/account-api/bnd.bnd" timestamp="1530149130724">
         <mark key="[" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/bnd.bnd" timestamp="1530172214203">
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="4" column="59" />
-        <mark key="." line="4" column="59" />
-        <mark key="^" line="4" column="59" />
+      <file name="$USER_HOME$/Development/projects/neo-project/account/bnd.bnd" timestamp="1530203782512">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/java/Core.java" timestamp="1519323994401">
         <mark key="[" line="0" column="22" />
@@ -1220,8 +1220,8 @@
       <jump line="42" column="47" filename="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/cnf/ext/enroute-distro.bnd" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I0V4cG9ydC1QYWNrYWdlOiBjb20uY29kZW1vbmtleWZhY3RvcnkubmVvcHJvamVjdC5hY2NvdW50LmFwaTsgcHJvdmlkZTo9dHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>Hello</text>
@@ -1233,28 +1233,28 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIGFjY291bnQgcHJvdmlkZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">I0V4cG9ydC1QYWNrYWdlOiBjb20uY29kZW1vbmtleWZhY3RvcnkubmVvcHJvamVjdC5hY2NvdW50LmFwaTsgcHJvdmlkZTo9dHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIG9zZ2lGcmFtZXdvcmtWZXJzaW9uOiBTdHJpbmcgYnkgcm9vdFByb2plY3QuZXh0cmEK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5vc2dpOm9zZ2kuZnJhbWV3b3JrOiRvc2dpRnJhbWV3b3JrVmVyc2lvbiIpCg==</text>
+        <text encoding="base64">dmFsIG9zZ2lGcmFtZXdvcmtWZXJzaW9uOiBTdHJpbmcgYnkgcm9vdFByb2plY3QuZXh0cmEK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5vc2dpOm9zZ2kuZnJhbWV3b3JrOiRvc2dpRnJhbWV3b3JrVmVyc2lvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5vc2dpOm9zZ2kuZnJhbWV3b3JrOiRvc2dpRnJhbWV3b3JrVmVyc2lvbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY29kZW1vbmtleWZhY3RvcnkuZ3JhZGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihuYW1lKQo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uY29kZW1vbmtleWZhY3RvcnkuZ3JhZGxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhcmNoaXZlTmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihuYW1lKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihhcmNoaXZlTmFtZSkK</text>
