@@ -14,6 +14,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/java/Core.java" timestamp="1519323994401">
+        <mark key="[" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519332670421">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="24" />
@@ -32,6 +35,9 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/kotlin-gradle/buildSrc/build.gradle.kts" timestamp="1521640823303">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="20" />
@@ -48,6 +54,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/AuthSquareCoreVersions.kt" timestamp="1525149843867">
+        <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-light-italic.scss" timestamp="1508940941734">
         <mark key="[" line="0" column="0" />
@@ -209,11 +218,6 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/buildSrc/src/main/kotlin/string-utils.kt" timestamp="1530177683228">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/users/service/UserServiceImpl.java" timestamp="1511951566124">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="7" column="7" />
@@ -330,6 +334,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/buildSrc/build.gradle.kts" timestamp="1530176640190">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -358,11 +365,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/gradle/string-utils.gradle.kts" timestamp="1530176691005">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.resolver.ts" timestamp="1508249954733">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -385,6 +387,9 @@
         <mark key="[" line="5" column="14" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/src/main/kotlin/com/codemonkeyfactory/account/gradle/Dependencies.kt" timestamp="1529984839701">
+        <mark key="[" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Development/projects/KotlinScratch/settings.gradle" timestamp="1524932294399">
         <mark key="[" line="2" column="0" />
@@ -439,6 +444,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529979548756">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
@@ -505,6 +513,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/eve-tools/app/bazel-app/.bazelrc" timestamp="1519380354299">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/bnd.gradle.kts" timestamp="1529776626730">
         <mark key="[" line="14" column="0" />
@@ -582,6 +593,12 @@
         <mark key="." line="31" column="81" />
         <mark key="^" line="31" column="81" />
       </file>
+      <file name="/mockProjectViewFile" timestamp="1519325905986">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/build.gradle.kts.gradle" timestamp="1529908434894">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.html" timestamp="1508861936648">
         <mark key="[" line="1" column="48" />
         <mark key="]" line="1" column="55" />
@@ -632,6 +649,9 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/account-impl/build.gradle.kts" timestamp="1530288490259">
+        <mark key="[" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -690,11 +710,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/buildSrc/src/main/kotlin/com/codemonkeyfactory/gradle/StringUtils.kt" timestamp="1530176806138">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface.scss" timestamp="1508941202170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="42" />
@@ -712,13 +727,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/build.gradle.kts" timestamp="1530237226256">
-        <mark key="'" line="11" column="48" />
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/account/build.gradle.kts" timestamp="1530237226256" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.model.ts" timestamp="1508170530572">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -736,6 +745,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/src/com/codemonkeyfactory/account/api/AccountService.kt" timestamp="1529910754516">
+        <mark key="[" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/wrapper/gradle-wrapper.properties" timestamp="1507731324941">
         <mark key="[" line="0" column="69" />
         <mark key="]" line="0" column="69" />
@@ -745,6 +757,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/resources/META-INF/aop.xml" timestamp="1526267977719">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/_all-components.scss" timestamp="1508949234090">
         <mark key="[" line="0" column="0" />
@@ -785,6 +800,9 @@
         <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/build.gradle.kts" timestamp="1524794632261">
+        <mark key="[" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/environments/environment.ts" timestamp="1508681721435">
         <mark key="[" line="7" column="44" />
@@ -850,10 +868,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/UserRepository.kt" timestamp="1525594554370">
+        <mark key="[" line="7" column="48" />
+      </file>
       <file name="/fragment.kt" timestamp="1524766938613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/settings.gradle" timestamp="1529867419577">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
@@ -935,6 +959,9 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/buildSrc/build.gradle.kts" timestamp="1529718668643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1526090579102">
         <mark key="[" line="52" column="1" />
         <mark key="]" line="59" column="74" />
@@ -945,6 +972,9 @@
         <mark key="[" line="35" column="69" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/KotlinScratch/src/main/kotlin/com/monkeycodefactory/kotlin/ReceiverDummy.kt" timestamp="1524933385034">
+        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory.component.ts" timestamp="1508290851510">
         <mark key="[" line="0" column="0" />
@@ -957,6 +987,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.api/src/com/codemonkeyfactory/account/api/JavaAccounService.java" timestamp="1530060964855">
+        <mark key="[" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/account/src/main/kotlin/com/codemonkeyfactory/neoproject/account/AccountService.kt" timestamp="1530147499252">
         <mark key="[" line="4" column="8" />
@@ -1064,6 +1097,9 @@
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/resources/application.properties" timestamp="1524249864902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.service.ts" timestamp="1508170437445">
         <mark key="[" line="12" column="0" />
