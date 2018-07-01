@@ -147,7 +147,6 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/build/libs/account.jar!/com/codemonkeyfactory/neoproject/account/provider/Activator.class" timestamp="1530202885186" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-light.scss" timestamp="1508940865066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="60" />
@@ -715,7 +714,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/build.gradle.kts" timestamp="1530237226256" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance-details.model.ts" timestamp="1508170530572">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -824,7 +822,6 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/build/libs/account.jar!/com/codemonkeyfactory/neoproject/account/provider/AccountServiceDefaultProvider.class" timestamp="1530202899106" />
       <file name="$USER_HOME$/Development/projects/KotlinScratch/build.gradle.kts" timestamp="1524935927176">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -961,10 +958,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/src/main/kotlin/com/codemonkeyfactory/neoproject/account/AccountService.kt" timestamp="1530410828080">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/account/src/main/kotlin/com/codemonkeyfactory/neoproject/account/AccountService.kt" timestamp="1530462266776">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1526090691741">
         <mark key="[" line="3" column="33" />
@@ -1185,7 +1182,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEFwaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAiYWNjb3VudHMiCg==</text>
       </register>
       <register name="-" type="4">
         <text>feeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
@@ -1197,31 +1194,31 @@
         <text encoding="base64">IyBNYW51YWxseSBhZGQga290bGluIGltcG9ydCBzdGF0ZW1lbnRzLCByZWZlciB0byByb290IHByb2plY3QgYnVpbGQgc2NyaXB0IGZvciByZWFzb24uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEFwaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAiYWNjb3VudHMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWUK</text>
+        <text encoding="base64">QEFwaSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBydW50aW1lKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tb3NnaS1idW5kbGU6JGtvdGxpblZlcnNpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlT25seSgib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1jb21tb246JGtvdGxpblZlcnNpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBydW50aW1lKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tb3NnaS1idW5kbGU6JGtvdGxpblZlcnNpb24iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW1wb3J0LVBhY2thZ2U6ICoK</text>
+        <text encoding="base64">ICAgICAgICBjb21waWxlT25seSgib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1jb21tb246JGtvdGxpblZlcnNpb24iKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">SW1wb3J0LVBhY2thZ2U6ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW1wb3J0LVBhY2thZ2U6ICoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvLyBkZXBlbmRlbmNpZXMgdG8gYmUgdXNlZCBieSBvc2dpIG9ubHkKICAgIHZhbCBvc2dpT25seTogQ29uZmlndXJhdGlvbiBieSBleHRyYSB7CiAgICAgICAgY29uZmlndXJhdGlvbnMuY3JlYXRlKCJvc2dpT25seSIpCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
