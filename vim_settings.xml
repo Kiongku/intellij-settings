@@ -321,6 +321,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.kts" timestamp="1531141343144">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/layout/_all-layout.scss" timestamp="1508938768552">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="0" column="18" />
@@ -1222,11 +1228,11 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgeyBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIpCn0K</text>
+      <register name="&quot;" type="4">
+        <text>smpp</text>
       </register>
       <register name="-" type="4">
-        <text>plugins</text>
+        <text>smpp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
