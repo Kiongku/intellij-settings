@@ -321,11 +321,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.kts" timestamp="1531838382085">
-        <mark key="[" line="11" column="76" />
-        <mark key="]" line="11" column="73" />
-        <mark key="." line="11" column="73" />
-        <mark key="^" line="11" column="73" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.kts" timestamp="1531839536109">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/layout/_all-layout.scss" timestamp="1508938768552">
         <mark key="[" line="5" column="3" />
@@ -373,11 +373,10 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531838543039">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531839701683">
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
         <mark key="[" line="35" column="88" />
@@ -1239,43 +1238,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>smpp</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgbWF2ZW5Mb2NhbCgpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgICAgICBqY2VudGVyKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzVXNlck5hbWU6IFN0cmluZyBieSBzZXR0aW5ncwogICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IHNldHRpbmdzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgeyBmcm9tKCJncmFkbGUvc2V0dXAuZ3JhZGxlLmt0cyIpIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gVVJJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkbGVQbHVnaW5Qb3J0YWwoKQogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICAgICAgZ29vZ2xlKCkK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgeyBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIpCn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gZm9sZGVyIG5hbWVzIHRvIG5vdCBpbmNsdWRlCnZhbCBpZ25vcmVkRm9sZGVyTmFtZXMgPSBsaXN0T2YoCiAgICAiLmlkZWEiLAogICAgIi5ncmFkbGUiLAogICAgImJ1aWxkIiwKICAgICJncmFkbGUiLAogICAgImJ1aWxkU3JjIgopCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwbHkgeyBmcm9tKCJncmFkbGUvc2V0dXAuZ3JhZGxlLmt0cyIpIH0KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBncmFkbGVQbHVnaW5Qb3J0YWwoKQogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICAgICAgZ29vZ2xlKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2FnZ2VyLmlzCg==</text>
+        <text encoding="base64">YXBwbHkgeyBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIpCn0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
