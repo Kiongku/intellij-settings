@@ -373,10 +373,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531839701683">
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531939573575">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
         <mark key="[" line="35" column="88" />
@@ -1238,7 +1239,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>settings</text>
@@ -1250,31 +1251,31 @@
         <text encoding="base64">ICAgIHZhbCBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzVXNlck5hbWU6IFN0cmluZyBieSBzZXR0aW5ncwogICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IHNldHRpbmdzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZTogU3RyaW5nIGJ5IGV4dHJhCiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IGV4dHJhCgogICAgICAgIG1hdmVuTG9jYWwoKQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsID0gVVJJKCJodHRwOi8vMTkyLjE2OC4xLjIyNTo1MTA4MS9yZXBvc2l0b3J5L21hdmVuLXB1YmxpYy8iKQogICAgICAgICAgICBjcmVkZW50aWFscyB7CiAgICAgICAgICAgICAgICB1c2VybmFtZSA9IGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZQogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzUGFzc3dvcmQKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gVVJJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
+        <text encoding="base64">ICAgIGdyb3VwID0gImNvbS5jb2RlbW9ua2V5ZmFjdG9yeSIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgeyBmcm9tKCJncmFkbGUvc2V0dXAuZ3JhZGxlLmt0cyIpIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z3JvdXAgPSAiY29tLmNvZGVtb25rZXlmYWN0b3J5Igp2ZXJzaW9uID0gIjEuMC1TTkFQU0hPVCIKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkbGVQbHVnaW5Qb3J0YWwoKQogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICAgICAgZ29vZ2xlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgeyBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIpCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
