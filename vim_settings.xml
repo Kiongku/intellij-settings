@@ -315,17 +315,22 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="110" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/resources/log4j2.yaml" timestamp="1531987074530">
+        <mark key="[" line="19" column="83" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-typography.scss" timestamp="1508949436520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="53" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.kts" timestamp="1531839536109">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="39" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.kts" timestamp="1531985638210">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/layout/_all-layout.scss" timestamp="1508938768552">
         <mark key="[" line="5" column="3" />
@@ -464,6 +469,9 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1531983543552">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="49" />
@@ -576,9 +584,6 @@
         <mark key="]" line="24" column="38" />
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-osgi-bundle/1.2.50/2d44e1a08656b05a8c55f1f4f9f0cf3b22352b31/kotlin-osgi-bundle-1.2.50.jar!/META-INF/MANIFEST.MF" timestamp="1530293632847">
-        <mark key="'" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/.gitignore" timestamp="1519325283443">
         <mark key="[" line="29" column="10" />
@@ -1242,7 +1247,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXR0ZXJuOiAnWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbicK</text>
       </register>
       <register name="-" type="4">
         <text>settings</text>
@@ -1251,31 +1256,31 @@
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzVXNlck5hbWU6IFN0cmluZyBieSBzZXR0aW5ncwogICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IHNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXR0ZXJuOiAnWyUtNWxldmVsXSAlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLlNTU30gWyV0XSAlbG9nZ2VyezM2fSAtICVtc2clbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXR0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZTogU3RyaW5nIGJ5IGV4dHJhCiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IGV4dHJhCgogICAgICAgIG1hdmVuTG9jYWwoKQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsID0gVVJJKCJodHRwOi8vMTkyLjE2OC4xLjIyNTo1MTA4MS9yZXBvc2l0b3J5L21hdmVuLXB1YmxpYy8iKQogICAgICAgICAgICBjcmVkZW50aWFscyB7CiAgICAgICAgICAgICAgICB1c2VybmFtZSA9IGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZQogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzUGFzc3dvcmQKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">aW5jbHVkZSgiZW1haWwiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSgiZW1haWwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyb3VwID0gImNvbS5jb2RlbW9ua2V5ZmFjdG9yeSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZTogU3RyaW5nIGJ5IGV4dHJhCiAgICAgICAgdmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQYXNzd29yZDogU3RyaW5nIGJ5IGV4dHJhCgogICAgICAgIG1hdmVuTG9jYWwoKQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsID0gVVJJKCJodHRwOi8vMTkyLjE2OC4xLjIyNTo1MTA4MS9yZXBvc2l0b3J5L21hdmVuLXB1YmxpYy8iKQogICAgICAgICAgICBjcmVkZW50aWFscyB7CiAgICAgICAgICAgICAgICB1c2VybmFtZSA9IGNvZGVtb25rZXlmYWN0b3J5TmV4dXNVc2VyTmFtZQogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBjb2RlbW9ua2V5ZmFjdG9yeU5leHVzUGFzc3dvcmQKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXAgPSAiY29tLmNvZGVtb25rZXlmYWN0b3J5Igp2ZXJzaW9uID0gIjEuMC1TTkFQU0hPVCIKCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwID0gImNvbS5jb2RlbW9ua2V5ZmFjdG9yeSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
