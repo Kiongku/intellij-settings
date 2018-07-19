@@ -350,6 +350,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1531982459109">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -373,10 +376,10 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531939573575">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1531982562754">
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
         <mark key="^" line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
