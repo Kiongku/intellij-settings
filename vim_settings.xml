@@ -366,11 +366,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532539779475">
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532546134862">
         <mark key="[" line="12" column="73" />
-        <mark key="]" line="12" column="71" />
-        <mark key="^" line="12" column="71" />
-        <mark key="." line="12" column="71" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
