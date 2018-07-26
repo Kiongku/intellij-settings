@@ -1031,11 +1031,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerTest.kt" timestamp="1532618646601">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerTest.kt" timestamp="1532620879135">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/account/src/main/kotlin/com/codemonkeyfactory/neoproject/account/AccountService.kt" timestamp="1530532434491">
         <mark key="k" line="26" column="0" />
@@ -1268,11 +1268,11 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
