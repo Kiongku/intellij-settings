@@ -366,11 +366,10 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532618532672">
-        <mark key="[" line="24" column="81" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="13" column="44" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532626300873">
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
@@ -397,8 +396,8 @@
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1532618586434">
         <mark key="[" line="28" column="43" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
         <mark key="[" line="35" column="88" />
@@ -942,6 +941,9 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/resources/log4j2.yaml" timestamp="1532625117688">
+        <mark key="[" line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/settings.gradle.kts" timestamp="1530176963112">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1031,18 +1033,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerTest.kt" timestamp="1532620879135">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="11" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/account/src/main/kotlin/com/codemonkeyfactory/neoproject/account/AccountService.kt" timestamp="1530532434491">
-        <mark key="k" line="26" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerTest.kt" timestamp="1532625651752">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/spring-smpp/settings.gradle.kts" timestamp="1531127836952">
         <mark key="[" line="14" column="48" />
@@ -1268,44 +1262,44 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlc3RJbXBsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>es</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsIGp1bml0SnVwdGVyVmVyc2lvbiBieSBleHRyYSB7ICI1LjIuMCIgfQp2YWwgbW9ja2l0b0NvcmVWZXJzaW9uIGJ5IGV4dHJhIHsgIjIuMjAuMCIgfQp2YWwgbW9ja2l0b0p1bml0SnVwaXRlclZlcnNpb24gYnkgZXh0cmEgeyAiMi4xOS4xIiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtdmMucGVyZm9ybSgKICAgICAgICAgICAgICAgIHBvc3QoIi9lbWFpbCIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJhbSgidG8iLCAidGVzdEBleGFtcGxlLmNvbSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJhbSgic3ViamVjdCIsICJ0ZXN0IHN1YmplY3QiKQogICAgICAgICAgICAgICAgICAgICAgICAucGFyYW0oImJvZHkiLCAidGVzdCBib2R5IikpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2spCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEV4dGVuZFdpdGgoTW9ja2l0b0V4dGVuc2lvbjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmp1bml0Lmp1cGl0ZXIuTW9ja2l0b0V4dGVuc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkluamVjdE1vY2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnBhcmFtKCJ0byIsICJ0ZXN0QGV4YW1wbGUuY29tIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIG1vY2tpdG9Db3JlVmVyc2lvbiBieSBleHRyYSB7ICIyLjIwLjAiIH0KdmFsIG1vY2tpdG9KdW5pdEp1cGl0ZXJWZXJzaW9uIGJ5IGV4dHJhIHsgIjIuMTkuMSIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5yZXNwb25zZS5zdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbigib3JnLm1vY2tpdG86bW9ja2l0by1qdW5pdC1qdXBpdGVyOiRtb2NraXRvSnVuaXRKdXBpdGVyVmVyc2lvbiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIG1vY2tpdG9Db3JlVmVyc2lvbjogU3RyaW5nIGJ5IHJvb3RQcm9qZWN0LmV4dHJhCnZhbCBtb2NraXRvSnVuaXRKdXBpdGVyVmVyc2lvbjogU3RyaW5nIGJ5IHJvb3RQcm9qZWN0LmV4dHJhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMua290bGluLmdyYWRsZS50YXNrcy5Lb3RsaW5Db21waWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8ga290bGluIG9wdGlvbnMKdmFsIGtvdGxpbkFwaVZlcnNpb24gYnkgZXh0cmEgeyAiMS4yIiB9CnZhbCBrb3RsaW5MYW5ndWFnZVZlcnNpb24gYnkgZXh0cmEgeyAiMS4yIiB9CnZhbCBrb3RsaW5Kdm1UYXJnZXQgYnkgZXh0cmEgeyAiMS44IiB9CnZhbCBrb3RsaW5GcmVlQ29tcGlsZXJBcmdzIGJ5IGV4dHJhIHsgbGlzdE9mKCItdmVyc2lvbiIsICItWGpzcjMwNT1zdHJpY3QiKSB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG12YyA9IE1vY2tNdmNCdWlsZGVycy5zdGFuZGFsb25lU2V0dXAoZW1haWxSZXN0Q29udHJvbGxlcikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
