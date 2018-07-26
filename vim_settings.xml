@@ -14,6 +14,9 @@
         <mark key="." line="5" column="86" />
         <mark key="^" line="5" column="86" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerIntegrationTest.kt" timestamp="1532629347523">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519332670421">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="24" />
@@ -101,6 +104,11 @@
         <mark key="]" line="17" column="33" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/resources/features/email-rest-controller.feature" timestamp="1532631897134">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/integrationTest/java/com/syninno/sims/clinic/users/service/UserServiceImplIntegrationTest.java" timestamp="1511961808173">
         <mark key="[" line="23" column="0" />
@@ -366,10 +374,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532627470669">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532628944944">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
@@ -394,10 +403,10 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1532618586434">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1532628079541">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/gradle/dependencies.gradle" timestamp="1507740928159">
         <mark key="[" line="35" column="88" />
@@ -1105,6 +1114,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/resources/features/email-service.feature" timestamp="1532629067348">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524766986963">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -1121,6 +1133,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerBaseIntegrationTest.kt" timestamp="1532630998504">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory.module.ts" timestamp="1508290857644">
         <mark key="[" line="7" column="3" />
@@ -1145,6 +1163,12 @@
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerStepDefinitions.kt" timestamp="1532631648199">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="8" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/attendance.service.ts" timestamp="1508170437445">
         <mark key="[" line="12" column="0" />
@@ -1262,44 +1286,44 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVncmF0aW9uVGVzdEltcGxlbWVudGF0aW9uKCJpby5jdWN1bWJlcjpjdWN1bWJlci1qdm06JGN1Y3VtYmVyVmVyc2lvbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Given</text>
       </register>
       <register name="-" type="4">
-        <text>es</text>
+        <text>Given</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtdmMucGVyZm9ybSgKICAgICAgICAgICAgICAgIHBvc3QoIi9lbWFpbCIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJhbSgidG8iLCAidGVzdEBleGFtcGxlLmNvbSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJhbSgic3ViamVjdCIsICJ0ZXN0IHN1YmplY3QiKQogICAgICAgICAgICAgICAgICAgICAgICAucGFyYW0oImJvZHkiLCAidGVzdCBib2R5IikpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2spCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbnRlZ3JhdGlvblRlc3QgPSAiaW50ZWdyYXRpb25UZXN0IgoKICAgIGNvbmZpZ3VyZTxOYW1lZERvbWFpbk9iamVjdENvbnRhaW5lcjxUZXN0U2V0Pj4gewogICAgICAgIGNyZWF0ZShpbnRlZ3JhdGlvblRlc3QsIGNsb3N1cmVPZjxDb25maWd1cmFibGVUZXN0U2V0PiB7CiAgICAgICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3QudG9LZWJhYkNhc2UoKQogICAgICAgIH0pCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVncmF0aW9uVGVzdEltcGxlbWVudGF0aW9uKCJpby5jdWN1bWJlcjpjdWN1bWJlci1qdm06JGN1Y3VtYmVyVmVyc2lvbiIpCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHRvIHBhcmFtIGlzIHRlc3RAZXhhbXBsZS5jb20KICAgIEFuZCBzdWJqZWN0IHBhcmFtIGlzIHRlc3Qgc3ViamVjdAogICAgQW5kIGJvZHkgcGFyYW0gaXMgdGVzdCBib2R5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgTE9HR0VSID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnBhcmFtKCJ0byIsICJ0ZXN0QGV4YW1wbGUuY29tIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5yZXNwb25zZS5zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
+        <text encoding="base64">CiAgICBATG9jYWxTZXJ2ZXJQb3J0CiAgICBwcml2YXRlIHZhbCBwb3J0OiBJbnQgPSAtMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbGVhbigpID0gcmVzdFRlbXBsYXRlLmRlbGV0ZShlbmRwb2ludCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGVuZHBvaW50ID0gImh0dHA6Ly9sb2NhbGhvc3QiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
