@@ -374,11 +374,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532628944944">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532676317684">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
@@ -403,8 +403,8 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1532628079541">
-        <mark key="[" line="78" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/build.gradle.kts" timestamp="1532654453800">
+        <mark key="[" line="28" column="12" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
@@ -1287,7 +1287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Given</text>
+        <text>: Configuration</text>
       </register>
       <register name="-" type="4">
         <text>Given</text>
@@ -1295,20 +1295,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnRlZ3JhdGlvblRlc3QgPSAiaW50ZWdyYXRpb25UZXN0IgoKICAgIGNvbmZpZ3VyZTxOYW1lZERvbWFpbk9iamVjdENvbnRhaW5lcjxUZXN0U2V0Pj4gewogICAgICAgIGNyZWF0ZShpbnRlZ3JhdGlvblRlc3QsIGNsb3N1cmVPZjxDb25maWd1cmFibGVUZXN0U2V0PiB7CiAgICAgICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3QudG9LZWJhYkNhc2UoKQogICAgICAgIH0pCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>: Configuration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHRvIHBhcmFtIGlzIHRlc3RAZXhhbXBsZS5jb20KICAgIEFuZCBzdWJqZWN0IHBhcmFtIGlzIHRlc3Qgc3ViamVjdAogICAgQW5kIGJvZHkgcGFyYW0gaXMgdGVzdCBib2R5Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHRvIHBhcmFtIGlzIHRlc3RAZXhhbXBsZS5jb20KICAgIEFuZCBzdWJqZWN0IHBhcmFtIGlzIHRlc3Qgc3ViamVjdAogICAgQW5kIGJvZHkgcGFyYW0gaXMgdGVzdCBib2R5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2YWwgTE9HR0VSID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgTE9HR0VSID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1317,13 +1317,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBATG9jYWxTZXJ2ZXJQb3J0CiAgICBwcml2YXRlIHZhbCBwb3J0OiBJbnQgPSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbGVhbigpID0gcmVzdFRlbXBsYXRlLmRlbGV0ZShlbmRwb2ludCkK</text>
+        <text encoding="base64">CiAgICBATG9jYWxTZXJ2ZXJQb3J0CiAgICBwcml2YXRlIHZhbCBwb3J0OiBJbnQgPSAtMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGVuZHBvaW50ID0gImh0dHA6Ly9sb2NhbGhvc3QiCg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbGVhbigpID0gcmVzdFRlbXBsYXRlLmRlbGV0ZShlbmRwb2ludCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
