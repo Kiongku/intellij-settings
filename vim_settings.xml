@@ -242,6 +242,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/email/README.adoc" timestamp="1532775582912">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/users/service/UserServiceImpl.java" timestamp="1511951566124">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="7" column="7" />
@@ -329,10 +335,10 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="110" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532772391072">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532775734130">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/resources/log4j2.yaml" timestamp="1531987074530">
         <mark key="[" line="19" column="83" />
@@ -1292,10 +1298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ZW1haWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
@@ -1304,25 +1310,25 @@
         <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3Bhc3Msc3Vicz1ub3JtYWxdCg==</text>
+        <text encoding="base64">Y2QgYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3NvdXJjZSxodG1sLGxpbmVudW1zXQotLS0tCjxodG1sPgogICAgPHRpdGxlPnNvbWU8L3RpdGxlPgo8L2h0bWw+Ci0tLS0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">OnB5Z21lbnRzLXN0eWxlOiBlbWFjcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">W3Bhc3Msc3Vicz1ub3JtYWxdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">W3NvdXJjZSxodG1sLGxpbmVudW1zXQotLS0tCjxodG1sPgogICAgPHRpdGxlPnNvbWU8L3RpdGxlPgo8L2h0bWw+Ci0tLS0KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">OnB5Z21lbnRzLXN0eWxlOiBlbWFjcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
+        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
