@@ -329,11 +329,11 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="110" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532769054256">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532770498438">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/resources/log4j2.yaml" timestamp="1531987074530">
         <mark key="[" line="19" column="83" />
@@ -1293,10 +1293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shared</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>shared</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
@@ -1305,28 +1305,28 @@
         <text>: Configuration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
+        <text encoding="base64">OnB5Z21lbnRzLXN0eWxlOiBlbWFjcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V2FpIEtldW5nIFlpdSA8d2sueWl1QGdtYWlsLmNvbT4KMC4xLCAyMDE4LTA3LTI4Cg==</text>
+        <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KkF1dGhvcnMqCg==</text>
+        <text encoding="base64">V2FpIEtldW5nIFlpdSA8d2sueWl1QGdtYWlsLmNvbT4KMC4xLCAyMDE4LTA3LTI4Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">KkF1dGhvcnMqCg==</text>
