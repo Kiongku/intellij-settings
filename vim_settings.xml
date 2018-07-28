@@ -17,10 +17,10 @@
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerIntegrationTest.kt" timestamp="1532629347523">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/README.adoc" timestamp="1532791381070">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/README.adoc" timestamp="1532795948035">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519332670421">
         <mark key="[" line="2" column="20" />
@@ -281,6 +281,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/README.adoc" timestamp="1532796103219" />
       <file name="$USER_HOME$/Development/projects/eve-tools/WORKSPACE" timestamp="1519321543644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -514,8 +515,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532793569176">
+      <file name="/Dummy.txt" timestamp="1532796138645">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
         <mark key="[" line="0" column="0" />
@@ -1168,10 +1171,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/README.adoc" timestamp="1532791373182">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/README.adoc" timestamp="1532796109711">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1525149588529">
         <mark key="[" line="16" column="4" />
@@ -1313,8 +1317,10 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+      <register name="&quot;" type="4">
+        <text>Remove reference to hightlightjs in README docs
+
+README docs use their own hightlightjs library in Gitea</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZW1haWwg</text>
@@ -1325,32 +1331,34 @@
       <register name="0" type="2">
         <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+      <register name="1" type="4">
+        <text>Remove reference to hightlightjs in README docs
+
+README docs use their own hightlightjs library in Gitea</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkRPUyBzeW50YXggaGlnaGxpZ2h0aW5nIHJlbW92ZWQgZm9yIG5vdw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+        <text encoding="base64">OnNvdXJjZS1oaWdobGlnaHRlcjogaGlnaGxpZ2h0anMKOmhpZ2hsaWdodGpzZGlyOiAuLi9oaWdobGlnaHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+        <text encoding="base64">OnNvdXJjZS1oaWdobGlnaHRlcjogaGlnaGxpZ2h0anMKOmhpZ2hsaWdodGpzZGlyOiBoaWdobGlnaHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgYQo=</text>
+        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2QgYQo=</text>
+        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3Bhc3Msc3Vicz1ub3JtYWxdCg==</text>
+        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3NvdXJjZSxodG1sLGxpbmVudW1zXQotLS0tCjxodG1sPgogICAgPHRpdGxlPnNvbWU8L3RpdGxlPgo8L2h0bWw+Ci0tLS0KCg==</text>
+        <text encoding="base64">Y2QgYQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
