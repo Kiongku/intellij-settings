@@ -329,6 +329,12 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="110" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532766997544">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/resources/log4j2.yaml" timestamp="1531987074530">
         <mark key="[" line="19" column="83" />
         <mark key="]" line="29" column="25" />
@@ -1287,10 +1293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: Configuration</text>
+        <text>{revdate}</text>
       </register>
       <register name="-" type="4">
-        <text>Given</text>
+        <text>{revdate}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
@@ -1299,31 +1305,31 @@
         <text>: Configuration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWIiKQo=</text>
+        <text encoding="base64">V2FpIEtldW5nIFlpdSA8d2sueWl1QGdtYWlsLmNvbT4KMC4xLCAyMDE4LTA3LTI4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHRvIHBhcmFtIGlzIHRlc3RAZXhhbXBsZS5jb20KICAgIEFuZCBzdWJqZWN0IHBhcmFtIGlzIHRlc3Qgc3ViamVjdAogICAgQW5kIGJvZHkgcGFyYW0gaXMgdGVzdCBib2R5Cg==</text>
+        <text encoding="base64">KkF1dGhvcnMqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KkF1dGhvcnMqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2YWwgTE9HR0VSID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
+        <text encoding="base64">OiFoYXJkYnJlYWtzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHRvIHBhcmFtIGlzIHRlc3RAZXhhbXBsZS5jb20KICAgIEFuZCBzdWJqZWN0IHBhcmFtIGlzIHRlc3Qgc3ViamVjdAogICAgQW5kIGJvZHkgcGFyYW0gaXMgdGVzdCBib2R5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBATG9jYWxTZXJ2ZXJQb3J0CiAgICBwcml2YXRlIHZhbCBwb3J0OiBJbnQgPSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbGVhbigpID0gcmVzdFRlbXBsYXRlLmRlbGV0ZShlbmRwb2ludCkK</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgTE9HR0VSID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
