@@ -329,11 +329,11 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="110" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532768245780">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/core/README.adoc" timestamp="1532769054256">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/resources/log4j2.yaml" timestamp="1531987074530">
         <mark key="[" line="19" column="83" />
@@ -1292,11 +1292,11 @@
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OmhhcmRicmVha3M6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>shared</text>
       </register>
       <register name="-" type="4">
-        <text>{revdate}</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
