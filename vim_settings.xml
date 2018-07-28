@@ -17,6 +17,9 @@
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerIntegrationTest.kt" timestamp="1532629347523">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/README.adoc" timestamp="1532777812255">
+        <mark key="[" line="32" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/app/src/main/kotlin/evetools.App.kt" timestamp="1519332670421">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="24" />
@@ -148,6 +151,11 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/src/main/resources/log4j2.yaml" timestamp="1532776898061">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/repository/entities/repository/UserRepository.kt" timestamp="1525477560898">
         <mark key="[" line="7" column="48" />
@@ -504,7 +512,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532776295563">
+      <file name="/Dummy.txt" timestamp="1532777036692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/settings.gradle" timestamp="1507735400248">
@@ -688,6 +696,11 @@
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/src/test/resources/log4j2.yaml" timestamp="1532776911019">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/Development/projects/authsquare/authentication/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/authentication/user/User.kt" timestamp="1525595342170">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="14" column="7" />
@@ -715,10 +728,6 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/gradle/setup.gradle.kts" timestamp="1531838524545">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.ts" timestamp="1508272498847">
         <mark key="[" line="3" column="34" />
@@ -1156,6 +1165,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/README.adoc" timestamp="1532778043446">
+        <mark key="[" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/build.gradle.kts" timestamp="1525149588529">
         <mark key="[" line="16" column="4" />
