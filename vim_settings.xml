@@ -35,15 +35,18 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/core-api/src/main/java/org/gradle/api/Project.java" timestamp="1532857848801">
         <mark key="'" line="327" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/build.gradle.kts" timestamp="1532862177284">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/build.gradle.kts" timestamp="1532865928434">
+        <mark key="[" line="71" column="39" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/resources/features/email-rest-controller.feature" timestamp="1532631897134">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/publication/maven/internal/pom/DefaultMavenPom.java" timestamp="1532863963124">
+        <mark key="'" line="59" column="38" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/integrationTest/java/com/syninno/sims/clinic/users/service/UserServiceImplIntegrationTest.java" timestamp="1511961808173">
         <mark key="[" line="23" column="0" />
@@ -102,10 +105,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/settings.gradle.kts" timestamp="1532850427855">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.impl/build.gradle.kts" timestamp="1530062404181">
         <mark key="[" line="0" column="0" />
@@ -207,11 +206,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification-service/build.gradle.kts" timestamp="1532852698327">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="88" column="3" />
-        <mark key="^" line="88" column="3" />
-        <mark key="." line="88" column="3" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification-service/build.gradle.kts" timestamp="1532867118352">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/NeoProjectPlugin.kt" timestamp="1532853986992">
         <mark key="[" line="5" column="0" />
@@ -258,8 +256,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532857066818">
-        <mark key="[" line="16" column="18" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532866976495">
+        <mark key="[" line="26" column="27" />
         <mark key="]" line="16" column="20" />
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
@@ -269,7 +267,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/settings.gradle.kts" timestamp="1532856586924">
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/settings.gradle.kts" timestamp="1532866972917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="20" />
@@ -329,10 +327,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/build.gradle.kts" timestamp="1532850888960">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="32" column="61" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/gradle/wrapper/gradle-wrapper.properties" timestamp="1524588981124">
         <mark key="[" line="2" column="68" />
@@ -463,7 +457,6 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/artifacts/maven/MavenPom.java" timestamp="1532861055109" />
     </filemarks>
     <jumps>
-      <jump line="214" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="10" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-default-theme/_variables.scss" />
       <jump line="24" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/login/login.component.ts" />
       <jump line="2773" column="32" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-alternative-theme.css" />
@@ -563,55 +556,56 @@
       <jump line="327" column="9" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/core-api/src/main/java/org/gradle/api/Project.java" />
       <jump line="25" column="34" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/publish/maven/MavenPom.java" />
       <jump line="48" column="9" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/publish/maven/MavenPom.java" />
+      <jump line="59" column="38" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/publication/maven/internal/pom/DefaultMavenPom.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBnZXROYW1lKCkgewoKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy51bmJyb2tlbmRvbWUuZ3JhZGxlLnBsdWdpbnMudGVzdHNldHMuZHNsLkNvbmZpZ3VyYWJsZVRlc3RTZXQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bShvYmplY3Q6IEFjdGlvbjxNYXZlblBvbT4gew==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>setName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzaWZpZXIgPSAic291cmNlcyIKICAgIGZyb20oamF2YS5zb3VyY2VTZXRzWyJtYWluIl0uYWxsU291cmNlKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3ROYW1lLnRvS2ViYWJDYXNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBnZXROYW1lKCkgewoKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy51bmJyb2tlbmRvbWUuZ3JhZGxlLnBsdWdpbnMudGVzdHNldHMuZHNsLkNvbmZpZ3VyYWJsZVRlc3RTZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9WCgogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGNyZWF0ZShpbnRlZ3JhdGlvblRlc3ROYW1lLCBjbG9zdXJlT2Y8Q29uZmlndXJhYmxlVGVzdFNldD4gewovLyAgICAgICAgZGlyTmFtZSA9IGludGVncmF0aW9uVGVzdE5hbWUudG9LZWJhYkNhc2UoKQovLyAgICB9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKCiAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkaXJOYW1lID0gaW50ZWdyYXRpb25UZXN0TmFtZS50b0tlYmFiQ2FzZSgpCiAgICApCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">b2JqZWN0OiBBY3Rpb248TWF2ZW5Qb20+IHsKCiAgICAgICAgICAgIH0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmFibGVUZXN0U2V0IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9tIHsgZGV2ZWxvcGVycyB7CiAgICAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyIHsKCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSAid2t5aXUiCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJOYW1lID0gaW50ZWdyYXRpb25UZXN0TmFtZS50b0tlYmFiQ2FzZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9tLndpdGhYbWwgewogICAgICAgICAgICAgICAgcG9tIHsKICAgICAgICAgICAgICAgICAgICBuYW1lID0gImEiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkaXJOYW1lID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9tIHsKICAgICAgICAgICAgICAgIGRldmUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>setName</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>setName</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -637,8 +631,8 @@
         <entry encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</entry>
         <entry>TestSet</entry>
         <entry>getName</entry>
-        <entry>setName</entry>
         <entry>set</entry>
+        <entry>setName</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
