@@ -14,9 +14,6 @@
         <mark key="." line="5" column="86" />
         <mark key="^" line="5" column="86" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/controller/EmailRestControllerIntegrationTest.kt" timestamp="1532629347523">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/README.adoc" timestamp="1532795948035">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="1" column="0" />
@@ -221,9 +218,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/spring-smpp/gradle/setup.gradle.kts" timestamp="1531110285378">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app.component.css" timestamp="1508268891996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -281,7 +275,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/README.adoc" timestamp="1532796103219" />
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/settings.gradle.kts" timestamp="1532850427855">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/WORKSPACE" timestamp="1519321543644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -435,9 +432,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.bak" timestamp="1532052875282">
-        <mark key="[" line="3" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/details/attendance-details.resolver.ts" timestamp="1508249954733">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -515,7 +509,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532796138645">
+      <file name="/Dummy.txt" timestamp="1532851689726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -536,6 +530,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification-service/build.gradle.kts" timestamp="1532851252909">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+        <mark key="." line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.ts" timestamp="1508340897080">
         <mark key="[" line="4" column="19" />
@@ -566,9 +566,6 @@
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1530234965779">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/font-awesome/_font-awesome.scss" timestamp="1508993480047">
         <mark key="[" line="4" column="0" />
@@ -603,6 +600,11 @@
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification/build.gradle.kts" timestamp="1532851141200">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="62" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-error.model.ts" timestamp="1508263269978">
         <mark key="[" line="6" column="3" />
@@ -672,6 +674,12 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532851002142">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508703597505">
         <mark key="[" line="37" column="4" />
@@ -853,11 +861,21 @@
         <mark key="^" line="49" column="43" />
         <mark key="." line="49" column="43" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/email/build.gradle.kts" timestamp="1532850888960">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="32" column="61" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/attendance/search/search-child.component.html" timestamp="1509037944282">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/build.gradle.kts" timestamp="1532850696102">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular.scss" timestamp="1508941112491">
         <mark key="[" line="0" column="0" />
@@ -880,9 +898,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/build.gradle.kts" timestamp="1531109953149">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/environments/environment.ts" timestamp="1508681721435">
         <mark key="[" line="7" column="44" />
@@ -975,9 +990,6 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/test/resources/log4j2.yaml" timestamp="1532625117688">
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/settings.gradle.kts" timestamp="1530176963112">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -988,6 +1000,11 @@
         <mark key="]" line="2" column="69" />
         <mark key="." line="2" column="69" />
         <mark key="^" line="2" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/build.gradle.kts" timestamp="1532850640613">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-endpoint.http-interceptor.ts" timestamp="1508210938709">
         <mark key="[" line="10" column="0" />
@@ -1040,9 +1057,6 @@
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/src/main/kotlin/StringUtils.kt" timestamp="1531127763782">
-        <mark key="[" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Utils.kt" timestamp="1526090579102">
         <mark key="[" line="52" column="1" />
@@ -1139,9 +1153,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/integration-test/resources/features/email-service.feature" timestamp="1532629067348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/authsquare/core/webservice/src/main/kotlin/com/monkeycodefactory/authsquare/web/ResourceNotFoundException.kt" timestamp="1524766986963">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -1215,9 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2242" column="39" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
-      <jump line="4" column="89" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
-      <jump line="27" column="18" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="30" column="29" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="165" column="8" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
       <jump line="201" column="25" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/_theme.scss" />
@@ -1315,67 +1323,67 @@
       <jump line="11" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-osgi-bundle/1.2.50/2d44e1a08656b05a8c55f1f4f9f0cf3b22352b31/kotlin-osgi-bundle-1.2.50.jar!/META-INF/MANIFEST.MF" />
       <jump line="5" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-osgi-bundle/1.2.50/2d44e1a08656b05a8c55f1f4f9f0cf3b22352b31/kotlin-osgi-bundle-1.2.50.jar!/META-INF/MANIFEST.MF" />
       <jump line="23" column="40" filename="$USER_HOME$/Development/projects/neo-project/account-impl/src/main/kotlin/com/codemonkeyfactory/neoproject/account/impl/AccountServiceImpl.kt" />
+      <jump line="76" column="0" filename="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/build.gradle.kts" />
+      <jump line="0" column="64" filename="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/build.gradle.kts" />
+      <jump line="1" column="52" filename="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Remove reference to hightlightjs in README docs
-
-README docs use their own hightlightjs library in Gitea</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgewogICAgcGx1Z2luKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0iKQogICAgcGx1Z2luKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5rYXB0IikKICAgIHBsdWdpbigib3JnLmpldGJyYWlucy5kb2trYSIpCiAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQogICAgcGx1Z2luKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQogICAgcGx1Z2luKCJpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50IikKICAgIHBsdWdpbigib3JnLnVuYnJva2VuLWRvbWUudGVzdC1zZXRzIikKfQoKdmFsIGludGVncmF0aW9uVGVzdE5hbWUgPSAiaW50ZWdyYXRpb25UZXN0IgoKY29uZmlndXJlPE5hbWVkRG9tYWluT2JqZWN0Q29udGFpbmVyPFRlc3RTZXQ+PiB7CiAgICBjcmVhdGUoaW50ZWdyYXRpb25UZXN0TmFtZSwgY2xvc3VyZU9mPENvbmZpZ3VyYWJsZVRlc3RTZXQ+IHsKICAgICAgICBkaXJOYW1lID0gaW50ZWdyYXRpb25UZXN0TmFtZS50b0tlYmFiQ2FzZSgpCiAgICB9KQp9Cgp2YWwga290bGluTG9nZ2luZ1ZlcnNpb246IFN0cmluZyBieSByb290UHJvamVjdC5leHRyYQp2YWwganVuaXRKdXBpdGVyVmVyc2lvbjogU3RyaW5nIGJ5IHJvb3RQcm9qZWN0LmV4dHJhCnZhbCBtb2Nra1ZlcnNpb246IFN0cmluZyBieSByb290UHJvamVjdC5leHRyYQp2YWwgY3VjdW1iZXJWZXJzaW9uOiBTdHJpbmcgYnkgcm9vdFByb2plY3QuZXh0cmEKCnZhbCBpbXBsZW1lbnRhdGlvbjogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJpbXBsZW1lbnRhdGlvbiJdCnZhbCBjb21waWxlT25seTogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJjb21waWxlT25seSJdCnZhbCBrYXB0OiBDb25maWd1cmF0aW9uID0gY29uZmlndXJhdGlvbnNbImthcHQiXQp2YWwgdGVzdEltcGxlbWVudGF0aW9uOiBDb25maWd1cmF0aW9uID0gY29uZmlndXJhdGlvbnNbInRlc3RJbXBsZW1lbnRhdGlvbiJdCnZhbCBpbnRlZ3JhdGlvblRlc3RJbXBsZW1lbnRhdGlvbjogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJpbnRlZ3JhdGlvblRlc3RJbXBsZW1lbnRhdGlvbiJdCnZhbCB0ZXN0UnVudGltZTogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJ0ZXN0UnVudGltZSJdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZW1haWwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</text>
+        <text>TestSet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
+        <text encoding="base64">YXBwbHkgewogICAgcGx1Z2luKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0iKQogICAgcGx1Z2luKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5rYXB0IikKICAgIHBsdWdpbigib3JnLmpldGJyYWlucy5kb2trYSIpCiAgICBwbHVnaW4oIm9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5zcHJpbmciKQogICAgcGx1Z2luKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQogICAgcGx1Z2luKCJpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50IikKICAgIHBsdWdpbigib3JnLnVuYnJva2VuLWRvbWUudGVzdC1zZXRzIikKfQoKdmFsIGludGVncmF0aW9uVGVzdE5hbWUgPSAiaW50ZWdyYXRpb25UZXN0IgoKY29uZmlndXJlPE5hbWVkRG9tYWluT2JqZWN0Q29udGFpbmVyPFRlc3RTZXQ+PiB7CiAgICBjcmVhdGUoaW50ZWdyYXRpb25UZXN0TmFtZSwgY2xvc3VyZU9mPENvbmZpZ3VyYWJsZVRlc3RTZXQ+IHsKICAgICAgICBkaXJOYW1lID0gaW50ZWdyYXRpb25UZXN0TmFtZS50b0tlYmFiQ2FzZSgpCiAgICB9KQp9Cgp2YWwga290bGluTG9nZ2luZ1ZlcnNpb246IFN0cmluZyBieSByb290UHJvamVjdC5leHRyYQp2YWwganVuaXRKdXBpdGVyVmVyc2lvbjogU3RyaW5nIGJ5IHJvb3RQcm9qZWN0LmV4dHJhCnZhbCBtb2Nra1ZlcnNpb246IFN0cmluZyBieSByb290UHJvamVjdC5leHRyYQp2YWwgY3VjdW1iZXJWZXJzaW9uOiBTdHJpbmcgYnkgcm9vdFByb2plY3QuZXh0cmEKCnZhbCBpbXBsZW1lbnRhdGlvbjogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJpbXBsZW1lbnRhdGlvbiJdCnZhbCBjb21waWxlT25seTogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJjb21waWxlT25seSJdCnZhbCBrYXB0OiBDb25maWd1cmF0aW9uID0gY29uZmlndXJhdGlvbnNbImthcHQiXQp2YWwgdGVzdEltcGxlbWVudGF0aW9uOiBDb25maWd1cmF0aW9uID0gY29uZmlndXJhdGlvbnNbInRlc3RJbXBsZW1lbnRhdGlvbiJdCnZhbCBpbnRlZ3JhdGlvblRlc3RJbXBsZW1lbnRhdGlvbjogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJpbnRlZ3JhdGlvblRlc3RJbXBsZW1lbnRhdGlvbiJdCnZhbCB0ZXN0UnVudGltZTogQ29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25zWyJ0ZXN0UnVudGltZSJdCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">RmFpbGVkIHRvIGluc3RhbGwgcHJpdmlsZWdlZCBoZWxwZXI6IEVycm9yIERvbWFpbj1DRkVycm9yRG9tYWluTGF1bmNoZCBDb2RlPTQgIihudWxsKSIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy51bmJyb2tlbmRvbWUuZ3JhZGxlLnBsdWdpbnMudGVzdHNldHMuZHNsLlRlc3RTZXQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy51bmJyb2tlbmRvbWUuZ3JhZGxlLnBsdWdpbnMudGVzdHNldHMuZHNsLkNvbmZpZ3VyYWJsZVRlc3RTZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9zdWJwcm9qZWN0cyB7Ci8vICAgIGFwcGx5IHsKLy8gICAgICAgIHBsdWdpbigib3JnLnVuYnJva2VuLWRvbWUudGVzdC1zZXRzIikKLy8gICAgfQovLwovLyAgICB2YWwgaW50ZWdyYXRpb25UZXN0ID0gImludGVncmF0aW9uVGVzdCIKLy8KLy8gICAgY29uZmlndXJlPE5hbWVkRG9tYWluT2JqZWN0Q29udGFpbmVyPFRlc3RTZXQ+PiB7Ci8vICAgICAgICBjcmVhdGUoaW50ZWdyYXRpb25UZXN0LCBjbG9zdXJlT2Y8Q29uZmlndXJhYmxlVGVzdFNldD4gewovLyAgICAgICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3QudG9LZWJhYkNhc2UoKQovLyAgICAgICAgfSkKLy8gICAgfQovL30K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z3JvdXAgPSAiY29tLmNvZGVtb25rZXlmYWN0b3J5Igp2ZXJzaW9uID0gIjAuMC4xLVNOQVBTSE9UIgoK</text>
+      </register>
+      <register name="8" type="4">
         <text>Remove reference to hightlightjs in README docs
 
 README docs use their own hightlightjs library in Gitea</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CkRPUyBzeW50YXggaGlnaGxpZ2h0aW5nIHJlbW92ZWQgZm9yIG5vdw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">OnNvdXJjZS1oaWdobGlnaHRlcjogaGlnaGxpZ2h0anMKOmhpZ2hsaWdodGpzZGlyOiAuLi9oaWdobGlnaHQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">OnNvdXJjZS1oaWdobGlnaHRlcjogaGlnaGxpZ2h0anMKOmhpZ2hsaWdodGpzZGlyOiBoaWdobGlnaHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">W3NvdXJjZSxkb3NdCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y2QgYQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</last-search>
+      <last-search>TestSet</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</last-pattern>
+      <last-pattern>TestSet</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IDEA</entry>
         <entry>documentclass</entry>
         <entry>entry</entry>
         <entry>'</entry>
@@ -1395,6 +1403,7 @@ README docs use their own hightlightjs library in Gitea</text>
         <entry>compile</entry>
         <entry>jetbrains</entry>
         <entry encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</entry>
+        <entry>TestSet</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
