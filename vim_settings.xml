@@ -24,11 +24,11 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1532856825158">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="61" column="20" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1532875595077">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.ts" timestamp="1508341047633">
         <mark key="[" line="13" column="0" />
@@ -218,6 +218,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/NeoProjectExtension.kt" timestamp="1532873864416">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/WORKSPACE" timestamp="1519321543644">
         <mark key="[" line="0" column="0" />
@@ -420,8 +426,8 @@
         <mark key="." line="76" column="35" />
         <mark key="^" line="75" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/NeoProjectPlugin.kt" timestamp="1532853986992">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/NeoProjectPlugin.kt" timestamp="1532873427043">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular-italic.scss" timestamp="1508941140360">
         <mark key="[" line="0" column="0" />
@@ -654,6 +660,9 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepositoryHandler.kt" timestamp="1532875256081">
+        <mark key="[" line="6" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/_all-components.scss" timestamp="1508949234090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -683,12 +692,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/README.adoc" timestamp="1532853418568">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/build.gradle.kts" timestamp="1531109953149">
         <mark key="[" line="0" column="0" />
@@ -1061,10 +1064,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpZ24oY2xvc3VyZU9mPFNpZ25PcGVyYXRpb24+IHsKICAgIH0pCg==</text>
+        <text encoding="base64">dmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQdWJsaWMgYnkgcHJvamVjdC5yZXBvc2l0b3JpZXMuZXh0cmEgewoKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Re-add hightlightjs attribute in header</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>signing</text>
@@ -1073,31 +1076,31 @@
         <text encoding="base64">Ly8gICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3ROYW1lLnRvS2ViYWJDYXNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpZ24oY2xvc3VyZU9mPFNpZ25PcGVyYXRpb24+IHsKICAgIH0pCg==</text>
+        <text encoding="base64">dmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQdWJsaWMgYnkgcHJvamVjdC5yZXBvc2l0b3JpZXMuZXh0cmEgewoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoaW5nIHsKICAgICAgICAgICAgKHB1YmxpY2F0aW9ucykgewogICAgICAgICAgICAgICAgIm1hdmVuSmF2YSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBDcmVkZW50aWFscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpZ24oY2xvc3VyZU9mPFNpZ25PcGVyYXRpb24+IHsKICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2lnbmluZyB7CiAgICAKfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaXNoaW5nIHsKICAgICAgICAgICAgKHB1YmxpY2F0aW9ucykgewogICAgICAgICAgICAgICAgIm1hdmVuSmF2YSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLnB1Ymxpc2gubWF2ZW4uTWF2ZW5Qb20K</text>
+        <text encoding="base64">c2lnbmluZyB7CiAgICAKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLnB1YmxpY2F0aW9uLm1hdmVuLmludGVybmFsLnBvbS5EZWZhdWx0TWF2ZW5Qb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9tLndpdGhHcm9vdnlCdWlsZGVyIHsKICAgICAgICAgICAgICAgICJzZXROYW1lIigiIikKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLnB1Ymxpc2gubWF2ZW4uTWF2ZW5Qb20K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy51bmJyb2tlbmRvbWUuZ3JhZGxlLnBsdWdpbnMudGVzdHNldHMuZHNsLkNvbmZpZ3VyYWJsZVRlc3RTZXQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLnB1YmxpY2F0aW9uLm1hdmVuLmludGVybmFsLnBvbS5EZWZhdWx0TWF2ZW5Qb20K</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
