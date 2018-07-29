@@ -675,11 +675,11 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532851002142">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532851880167">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508703597505">
         <mark key="[" line="37" column="4" />
