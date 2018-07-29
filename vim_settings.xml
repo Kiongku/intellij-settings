@@ -63,6 +63,9 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="57" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1532900238404">
+        <mark key="'" line="2283" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="40" />
@@ -430,6 +433,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="27" column="32" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepository.kt" timestamp="1532899611654">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/root.component.ts" timestamp="1508291014425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -462,6 +471,12 @@
         <mark key="[" line="35" column="88" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1532899998108">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.bak" timestamp="1532052875282">
         <mark key="[" line="3" column="15" />
@@ -568,8 +583,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification-service/build.gradle.kts" timestamp="1532867945410">
-        <mark key="[" line="16" column="48" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/notification-service/build.gradle.kts" timestamp="1532898702747">
+        <mark key="[" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.ts" timestamp="1508340897080">
         <mark key="[" line="4" column="19" />
@@ -1070,11 +1085,10 @@
         <mark key="." line="2" column="69" />
         <mark key="^" line="2" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/build.gradle.kts" timestamp="1532878669222">
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="67" column="11" />
-        <mark key="." line="67" column="11" />
-        <mark key="^" line="67" column="11" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/build.gradle.kts" timestamp="1532899666649">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/http/api-endpoint.http-interceptor.ts" timestamp="1508210938709">
         <mark key="[" line="10" column="0" />
@@ -1310,10 +1324,6 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gradle-4.8-src.zip/f75fce9389cadcf696fd5522b6e0fb12/gradle-4.8/subprojects/maven/src/main/java/org/gradle/api/artifacts/maven/MavenPom.java" timestamp="1532861055109" />
     </filemarks>
     <jumps>
-      <jump line="2366" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
-      <jump line="2373" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
-      <jump line="2378" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/assets/styles/themes/sims-default-theme.css" />
-      <jump line="28" column="20" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" />
       <jump line="62" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" />
       <jump line="1486" column="54" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" />
       <jump line="102" column="29" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
@@ -1410,55 +1420,59 @@
       <jump line="318" column="15" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/491wbe0x5d54n9cojs2p0zv90/gradle-4.9/src/signing/org/gradle/plugins/signing/SigningExtension.java" />
       <jump line="339" column="15" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/491wbe0x5d54n9cojs2p0zv90/gradle-4.9/src/signing/org/gradle/plugins/signing/SigningExtension.java" />
       <jump line="426" column="102" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/491wbe0x5d54n9cojs2p0zv90/gradle-4.9/src/signing/org/gradle/plugins/signing/SigningExtension.java" />
+      <jump line="596" column="41" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="2442" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="2164" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="2283" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>signing</text>
+        <text>join</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3ROYW1lLnRvS2ViYWJDYXNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlZAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcgo=</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBuZW9Qcm9qZWN0UHVibGljKCk6IE1hdmVuQXJ0aWZhY3RSZXBvc2l0b3J5CgogICAgZnVuIG5lb1Byb2plY3RQdWJsaWMoYWN0aW9uOiBBY3Rpb248aW4gTWF2ZW5BcnRpZmFjdFJlcG9zaXRvcnk+KQoK</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlZlcnNpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIG5leHVzUmVwbyhhY3Rpb246IEFjdGlvbjxpbiBSZXBvc2l0b3J5SGFuZGxlcj4pIDogTWF2ZW5BcnRpZmFjdFJlcG9zaXRvcnkgewogICAgCn0KCg==</text>
+        <text encoding="base64">cHJpbnRsbihiYXNlVXJsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIGNvZGVtb25rZXlmYWN0b3J5TmV4dXNQdWJsaWMgYnkgcHJvamVjdC5yZXBvc2l0b3JpZXMuZXh0cmEgewoKfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBDcmVkZW50aWFscwo=</text>
+        <text encoding="base64">ICAgICgpIC0+IHtkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpZ24oY2xvc3VyZU9mPFNpZ25PcGVyYXRpb24+IHsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoaW5nIHsKICAgICAgICAgICAgKHB1YmxpY2F0aW9ucykgewogICAgICAgICAgICAgICAgIm1hdmVuSmF2YSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/compile/implementation</text>
       </register>
     </registers>
     <search>
-      <last-search>signing</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>signing</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -1466,9 +1480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getWorkspace</entry>
-        <entry>get nearest</entry>
-        <entry>nearest</entry>
         <entry>exclude</entry>
         <entry>getProject</entry>
         <entry>dependsOn</entry>
@@ -1486,6 +1497,9 @@
         <entry>Repository</entry>
         <entry>maven</entry>
         <entry>signing</entry>
+        <entry>authenticated</entry>
+        <entry>Credentials</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
