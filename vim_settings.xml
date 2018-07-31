@@ -51,6 +51,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.kts" timestamp="1533051554076" />
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/themes/sims-alternative-theme/_variables.scss" timestamp="1508564731462">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="20" />
@@ -1445,11 +1446,11 @@
       <jump line="2283" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWFwRW50cnkg</text>
       </register>
       <register name="-" type="4">
-        <text>val configurableT =</text>
+        <text encoding="base64">TWFwRW50cnkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZW9cPg==</text>
