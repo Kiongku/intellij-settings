@@ -366,6 +366,9 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/dsl/NeoProjectRepository.kt" timestamp="1533053963601">
+        <mark key="[" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/projects/eve-tools/core/src/main/kotlin/evetools/BUILD" timestamp="1519325643287">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -747,11 +750,11 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/dsl/NeoProjectExtension.kt" timestamp="1533053319140">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="8" column="50" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/dsl/NeoProjectExtension.kt" timestamp="1533055141807">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="8" column="55" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532866976495">
         <mark key="[" line="26" column="27" />
@@ -1458,11 +1461,11 @@
       <jump line="2283" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLmFydGlmYWN0cy5yZXBvc2l0b3JpZXMuUGFzc3dvcmRDcmVkZW50aWFscwo=</text>
+      <register name="&quot;" type="4">
+        <text>MavenArtifactRepository</text>
       </register>
       <register name="-" type="4">
-        <text>PasswordCredentials</text>
+        <text>MavenArtifactRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZW9cPg==</text>
