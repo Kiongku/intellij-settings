@@ -180,6 +180,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepositoryExtensions.kt" timestamp="1533083086608">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/src/main/kotlin/com/codemonkeyfactory/neo/core/email/EmailService.kt" timestamp="1532050423575">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -374,6 +380,13 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/plugin/build.gradle.kts" timestamp="1532853899770">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/com.codemonkeyfactory.account.provider/bnd.bnd" timestamp="1530063008440">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="17" column="0" />
@@ -442,8 +455,8 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepository.kt" timestamp="1532967170720">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepository.kt" timestamp="1533081103903">
+        <mark key="[" line="7" column="30" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -596,6 +609,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepositoryExtensionsImpl.kt" timestamp="1533083923504">
+        <mark key="'" line="29" column="16" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="29" column="87" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/search/search-booking.component.ts" timestamp="1508340897080">
         <mark key="[" line="4" column="19" />
@@ -750,11 +770,10 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/dsl/NeoProjectExtension.kt" timestamp="1533055141807">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="8" column="55" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/dsl/NeoProjectExtension.kt" timestamp="1533081239369">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/settings.gradle.kts" timestamp="1532866976495">
         <mark key="[" line="26" column="27" />
@@ -973,12 +992,6 @@
         <mark key="[" line="3" column="44" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/NeoProjectCore/build.gradle.kts" timestamp="1532850696102">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/typography/fonts/roboto/roboto-fontface-regular.scss" timestamp="1508941112491">
         <mark key="[" line="0" column="0" />
@@ -1359,7 +1372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="1" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" />
       <jump line="1486" column="54" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/primeng.css" />
       <jump line="102" column="29" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
       <jump line="5" column="4" filename="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/node_modules/primeng/resources/themes/bootstrap/theme.css" />
@@ -1459,63 +1471,63 @@
       <jump line="2442" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
       <jump line="2164" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
       <jump line="2283" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="29" column="16" filename="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepositoryExtensionsImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MavenArtifactRepository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lID0gdGhpc0BOZW9Qcm9qZWN0UmVwb3NpdG9yeUV4dGVuc2lvbnNJbXBsLmNyZWRlbnRpYWxzLnVzZXJuYW1lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MavenArtifactRepository</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZW9cPg==</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZShpbnRlZ3JhdGlvblRlc3ROYW1lLCBvYmplY3Q6IEFjdGlvbjxUZXN0U2V0PiB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIGV4ZWN1dGUodDogVGVzdFNldCkgewogICAgICAgICAgICB2YWwgY29uZmlndXJhYmxlVCA9IHQgYXMgQ29uZmlndXJhYmxlVGVzdFNldAogICAgICAgICAgICB0LmRpck5hbWUgPSBpbnRlZ3JhdGlvblRlc3ROYW1lLnRvS2ViYWJDYXNlKCkKICAgICAgICB9CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lID0gdGhpc0BOZW9Qcm9qZWN0UmVwb3NpdG9yeUV4dGVuc2lvbnNJbXBsLmNyZWRlbnRpYWxzLnVzZXJuYW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLmFydGlmYWN0cy5yZXBvc2l0b3JpZXMuUGFzc3dvcmRDcmVkZW50aWFscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXNATmVvUHJvamVjdFJlcG9zaXRvcnlFeHRlbnNpb25zSW1wbC5jcmVkZW50aWFscyAhPSBudWxsKSB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLmNyZWRlbnRpYWxzLkNyZWRlbnRpYWxzCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGluaXQgewoKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyZWRlbnRpYWxzOiBQYXNzd29yZENyZWRlbnRpYWxzID0gUGFzc3dvcmRDcmVkZW50aWFscygpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgZnVuIFJlcG9zaXRvcnlIYW5kbGVyLm5lb1Byb2plY3QoYSkK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgZnVuIGNyZWF0ZU1hdmVuUmVwb3NpdG9yeShuYW1lOiBTdHJpbmcsIHVybDogVVJJKTogTWF2ZW5BcnRpZmFjdFJlcG9zaXRvcnkgewovLwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRCYXNlVXJsKCk6IFVSSSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHNldEJhc2VVcmwodXJsOiBVUkkpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gZ2V0Q3JlZGVudGlhbHMoKTogUGFzc3dvcmRDcmVkZW50aWFscyB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHNldENyZWRlbnRpYWxzKGNyZWRlbnRpYWxzOiBQYXNzd29yZENyZWRlbnRpYWxzKSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/compile/implementation</text>
+        <text encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZW9cPg==</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZW9cPg==</last-pattern>
-      <last-replace>implementation</last-replace>
-      <last-substitute>compile</last-substitute>
+      <last-pattern>username</last-pattern>
+      <last-replace>password</last-replace>
+      <last-substitute>username</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getProject</entry>
         <entry>dependsOn</entry>
         <entry>depends</entry>
         <entry>enroute</entry>
@@ -1535,6 +1547,7 @@
         <entry>Credentials</entry>
         <entry>join</entry>
         <entry encoding="base64">XDxuZW9cPg==</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -1545,6 +1558,7 @@
         <entry encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</entry>
         <entry>w</entry>
         <entry>%s/compile/implementation</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
