@@ -34,10 +34,10 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1534994465798">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1535102741422">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/booking/details/booking-details.component.ts" timestamp="1508341047633">
         <mark key="[" line="13" column="0" />
