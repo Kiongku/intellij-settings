@@ -691,6 +691,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/maven/multi/multi-parent/pom.xml" timestamp="1535770075202">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/gradle/bnd.gradle.kts" timestamp="1529776626730">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -805,6 +811,12 @@
         <mark key="]" line="16" column="20" />
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/maven/multi/multi-bom/pom.xml" timestamp="1535770252095">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/app-routing.module.ts" timestamp="1508703597505">
         <mark key="[" line="37" column="4" />
@@ -998,8 +1010,8 @@
         <mark key="^" line="49" column="43" />
         <mark key="." line="49" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/projects/maven/multi/pom.xml" timestamp="1535768922226">
-        <mark key="[" line="7" column="18" />
+      <file name="$USER_HOME$/Development/projects/maven/multi/pom.xml" timestamp="1535769959583">
+        <mark key="[" line="20" column="37" />
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
@@ -1124,6 +1136,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/maven/multi/multi-child1/pom.xml" timestamp="1535770293469">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/base/theming/_all-themes.scss" timestamp="1508949787867">
         <mark key="[" line="4" column="52" />
@@ -1517,10 +1535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jar</text>
+        <text>Parent</text>
       </register>
       <register name="-" type="4">
-        <text>jar</text>
+        <text>Parent</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
