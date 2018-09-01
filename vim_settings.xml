@@ -778,8 +778,10 @@
         <mark key="." line="31" column="81" />
         <mark key="^" line="31" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-bom/README.adoc" timestamp="1535736862956">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-bom/README.adoc" timestamp="1535760732210">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/neo-project/com.codemonkeyfactory.account/build.gradle.kts" timestamp="1530115989188">
         <mark key="[" line="60" column="5" />
@@ -1150,6 +1152,12 @@
         <mark key="." line="2" column="69" />
         <mark key="^" line="2" column="69" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-bom/pom.xml" timestamp="1535761370867">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/neo-project-notification/build.gradle.kts" timestamp="1532907599167">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="4" />
@@ -1496,11 +1504,11 @@
       <jump line="29" column="16" filename="$USER_HOME$/Development/projects/neo-project/neo-project-gradle-plugin/src/main/kotlin/com/codemonkeyfactory/neo/project/gradle/repository/NeoProjectRepositoryExtensionsImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5jb2RlbW9ua2V5ZmFjdG9yeS5uZW9wcm9qZWN0LmNvcmU8L2dyb3VwSWQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>If there are new dependencies that are being used, create a pull</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>If there are new dependencies that are being used, create a pull</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
