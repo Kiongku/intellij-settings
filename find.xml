@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'neo-project-core'" />
-    <option name="defaultScopeName" value="Project 'neo-project-core'" />
+    <option name="customScope" value="File '.../email/build.gradle.kts [email]'" />
+    <option name="defaultScopeName" value="File '.../email/build.gradle.kts [email]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'neo-project-core'" />
+    <option name="SEARCH_SCOPE" value="File '.../email/build.gradle.kts [email]'" />
   </component>
 </application>
