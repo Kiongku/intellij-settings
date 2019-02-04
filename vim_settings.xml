@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/projects/neo-project/account-api/bnd.bnd" timestamp="1530234926890">
@@ -34,7 +34,7 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1549158536463">
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/build.gradle.kts" timestamp="1549273143572">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -593,7 +593,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/buildSrc/build.gradle.kts" timestamp="1549271411684">
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/buildSrc/build.gradle.kts" timestamp="1549272568607">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -797,8 +797,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/email/build.gradle.kts" timestamp="1549167986799">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/email/build.gradle.kts" timestamp="1549273188354">
+        <mark key="[" line="20" column="39" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
