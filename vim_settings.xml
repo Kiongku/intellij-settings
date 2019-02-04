@@ -485,6 +485,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/projects/neo-project/neo-project-core/email/src/integration-test/kotlin/com/codemonkeyfactory/neo/core/email/file/AttachmentHandlingService.kt" timestamp="1549294375120">
+        <mark key="[" line="11" column="104" />
+      </file>
       <file name="$USER_HOME$/Development/projects/neo-project/core/email/build.gradle.kts" timestamp="1532676317684">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="30" />
