@@ -66,6 +66,10 @@
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/183.5429.30/IntelliJ IDEA.app.vmoptions" timestamp="1549158676797">
         <mark key="[" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" timestamp="1550451233947">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="40" />
@@ -1338,6 +1342,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1550451138849">
+        <mark key="'" line="40" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/projects/authsquare/buildSrc/src/main/kotlin/Versions.kt" timestamp="1526090691741">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="34" />
@@ -1480,10 +1487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.gradle/4.0.0/6d3b9e3ffcd0f6abff22ba9f07372edbd3a7a9af/biz.aQute.bnd.gradle-4.0.0-sources.jar!/aQute/bnd/build/Workspace.java" />
-      <jump line="169" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.gradle/4.0.0/6d3b9e3ffcd0f6abff22ba9f07372edbd3a7a9af/biz.aQute.bnd.gradle-4.0.0-sources.jar!/aQute/bnd/build/Workspace.java" />
-      <jump line="141" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.gradle/4.0.0/6d3b9e3ffcd0f6abff22ba9f07372edbd3a7a9af/biz.aQute.bnd.gradle-4.0.0-sources.jar!/aQute/bnd/build/Workspace.java" />
-      <jump line="371" column="46" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="357" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="359" column="13" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="360" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
@@ -1580,6 +1583,10 @@
       <jump line="86" column="25" filename="$USER_HOME$/Development/projects/test-suite/.gitignore" />
       <jump line="192" column="1" filename="$USER_HOME$/Development/projects/test-suite/.gitignore" />
       <jump line="267" column="2" filename="$USER_HOME$/Development/projects/test-suite/.gitignore" />
+      <jump line="16" column="32" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
+      <jump line="24" column="32" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
+      <jump line="29" column="42" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
+      <jump line="40" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Optional.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1589,7 +1596,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>out</text>
+        <text>isEmpty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uZXhhbXBsZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDE8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHtyZXZpc2lvbn08L3ZlcnNpb24+CiAgICA8L3BhcmVudD4KCiAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDEtbW9kdWxlMTwvYXJ0aWZhY3RJZD4KCiAgICA8bmFtZT5NYXZlbiBNdWx0aSBQcm9qZWN0IENoaWxkIDEgTW9kdWxlIDE8L25hbWU+CiAgICA8ZGVzY3JpcHRpb24+TW9kdWxlIDEgZm9yIENoaWxkIDEgcHJvamVjdCBvZiBNYXZlbiBNdWx0aSBQcm9qZWN0PC9kZXNjcmlwdGlvbj4KPC9wcm9qZWN0Pgo=</text>
@@ -1626,9 +1633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>out</last-search>
+      <last-search>isEmpty</last-search>
       <last-offset />
-      <last-pattern>out</last-pattern>
+      <last-pattern>isEmpty</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,7 +1643,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTd2FnZ2VyMkZlYXR1cmVcPg==</entry>
         <entry>TestSet</entry>
         <entry>getName</entry>
         <entry>set</entry>
@@ -1656,6 +1662,7 @@
         <entry>DS_Store</entry>
         <entry>Jetbrains</entry>
         <entry>out</entry>
+        <entry>isEmpty</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
