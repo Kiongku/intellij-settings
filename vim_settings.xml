@@ -608,10 +608,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/.travis.yml" timestamp="1550655098018">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Development/projects/test-suite/.travis.yml" timestamp="1550656318584">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/sass/components/link/_link-theme.scss" timestamp="1508982894272">
         <mark key="[" line="15" column="0" />
@@ -661,6 +661,9 @@
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/test-suite/sonar-project.properties" timestamp="1550655759469">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/inventory-routing.module.ts" timestamp="1508335420674">
         <mark key="[" line="13" column="2" />
@@ -1006,8 +1009,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550655070424">
-        <mark key="[" line="97" column="23" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550656348669">
+        <mark key="[" line="99" column="66" />
+        <mark key="]" line="106" column="68" />
+        <mark key="^" line="106" column="68" />
+        <mark key="." line="106" column="68" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/attendance.module.ts" timestamp="1507981047849">
         <mark key="[" line="4" column="0" />
@@ -1031,6 +1037,12 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550656142411">
+        <mark key="[" line="11" column="73" />
+        <mark key="]" line="11" column="70" />
+        <mark key="^" line="11" column="70" />
+        <mark key="." line="11" column="70" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
@@ -1600,8 +1612,8 @@
       <jump line="28" column="52" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2NyaXB0Ogo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgLSBzb25hci1zY2FubmVy</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiBPcHRpb25hbDwqPiA=</text>
@@ -1612,35 +1624,35 @@
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uZXhhbXBsZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDE8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHtyZXZpc2lvbn08L3ZlcnNpb24+CiAgICA8L3BhcmVudD4KCiAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDEtbW9kdWxlMTwvYXJ0aWZhY3RJZD4KCiAgICA8bmFtZT5NYXZlbiBNdWx0aSBQcm9qZWN0IENoaWxkIDEgTW9kdWxlIDE8L25hbWU+CiAgICA8ZGVzY3JpcHRpb24+TW9kdWxlIDEgZm9yIENoaWxkIDEgcHJvamVjdCBvZiBNYXZlbiBNdWx0aSBQcm9qZWN0PC9kZXNjcmlwdGlvbj4KPC9wcm9qZWN0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2NyaXB0Ogo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgLSBzb25hci1zY2FubmVy</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">c2NyaXB0Ogo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBidW5kbGVyOiB0cnVlCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgYnVuZGxlcjogdHJ1ZQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKGxvZ2dpbmdUZXN0U3B5TWFuYWdlci5pc0VtcHR5KSB7CiAgICAgICAgICAgIHRocm93IExvZ2dpbmdUZXN0U3B5TWFuYWdlck1pc3NpbmdFeGNlcHRpb24oKQogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKG9wdGlvbmFsTG9nZ2luZ1Rlc3QuaXNFbXB0eSkgewogICAgICAgICAgICB0aHJvdyBMb2dnaW5nVGVzdE1pc3NpbmdFeGNlcHRpb24oKQogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyMjIG1hY09TIHRlbXBsYXRlCiMgR2VuZXJhbAouRFNfU3RvcmUKLkFwcGxlRG91YmxlCi5MU092ZXJyaWRlCgojIEljb24gbXVzdCBlbmQgd2l0aCB0d28gXHIKSWNvbgoKIyBUaHVtYm5haWxzCi5fKgoKIyBGaWxlcyB0aGF0IG1pZ2h0IGFwcGVhciBpbiB0aGUgcm9vdCBvZiBhIHZvbHVtZQouRG9jdW1lbnRSZXZpc2lvbnMtVjEwMAouZnNldmVudHNkCi5TcG90bGlnaHQtVjEwMAouVGVtcG9yYXJ5SXRlbXMKLlRyYXNoZXMKLlZvbHVtZUljb24uaWNucwouY29tLmFwcGxlLnRpbWVtYWNoaW5lLmRvbm90cHJlc2VudAoKIyBEaXJlY3RvcmllcyBwb3RlbnRpYWxseSBjcmVhdGVkIG9uIHJlbW90ZSBBRlAgc2hhcmUKLkFwcGxlREIKLkFwcGxlRGVza3RvcApOZXR3b3JrIFRyYXNoIEZvbGRlcgpUZW1wb3JhcnkgSXRlbXMKLmFwZGlzawo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hdmVuQ2VudHJhbCgpCi8vICAgICAgICBqY2VudGVyKCkK</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1681,10 +1693,10 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz4lcy9BcGlFcnJvci9WYWxpZGF0aW9uQXBpRXJyb3I=</entry>
         <entry encoding="base64">JzwsJz5zL0FwaUVycm9yL1ZhbGlkYXRpb25BcGlFcnJvcg==</entry>
-        <entry>w</entry>
         <entry>%s/compile/implementation</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
