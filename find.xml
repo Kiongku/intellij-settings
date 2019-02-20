@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../email/build.gradle.kts [email]'" />
-    <option name="defaultScopeName" value="File '.../email/build.gradle.kts [email]'" />
+    <option name="customScope" value="File '.../logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt [com.codemonkeyfactory.test.logging-test.main]'" />
+    <option name="defaultScopeName" value="File '.../logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt [com.codemonkeyfactory.test.logging-test.main]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../email/build.gradle.kts [email]'" />
+    <option name="SEARCH_SCOPE" value="File '.../logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt [com.codemonkeyfactory.test.logging-test.main]'" />
   </component>
 </application>

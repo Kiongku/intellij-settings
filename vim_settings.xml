@@ -66,9 +66,12 @@
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/183.5429.30/IntelliJ IDEA.app.vmoptions" timestamp="1549158676797">
         <mark key="[" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" timestamp="1550646242046">
-        <mark key="'" line="30" column="42" />
-        <mark key="[" line="25" column="38" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" timestamp="1550647765092">
+        <mark key="'" line="27" column="52" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/Development/projects/syninno-base/subprojects/web/src/main/java/com/syninno/base/web/ValidationApiError.java" timestamp="1507779325582">
         <mark key="[" line="10" column="34" />
@@ -1487,7 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="359" column="13" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="360" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="365" column="31" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
@@ -1587,55 +1589,56 @@
       <jump line="24" column="32" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
       <jump line="29" column="42" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
       <jump line="40" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Optional.java" />
+      <jump line="28" column="52" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGxvZ2dpbmdUZXN0U3B5TWFuYWdlci5pc0VtcHR5KSB7CiAgICAgICAgICAgIHRocm93IExvZ2dpbmdUZXN0U3B5TWFuYWdlck1pc3NpbmdFeGNlcHRpb24oKQogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">OiBPcHRpb25hbDwqPiA=</text>
       </register>
       <register name="/" type="4">
-        <text>isEmpty</text>
+        <text encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uZXhhbXBsZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDE8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHtyZXZpc2lvbn08L3ZlcnNpb24+CiAgICA8L3BhcmVudD4KCiAgICA8YXJ0aWZhY3RJZD5tYXZlbi1tdWx0aS1jaGlsZDEtbW9kdWxlMTwvYXJ0aWZhY3RJZD4KCiAgICA8bmFtZT5NYXZlbiBNdWx0aSBQcm9qZWN0IENoaWxkIDEgTW9kdWxlIDE8L25hbWU+CiAgICA8ZGVzY3JpcHRpb24+TW9kdWxlIDEgZm9yIENoaWxkIDEgcHJvamVjdCBvZiBNYXZlbiBNdWx0aSBQcm9qZWN0PC9kZXNjcmlwdGlvbj4KPC9wcm9qZWN0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGxvZ2dpbmdUZXN0U3B5TWFuYWdlci5pc0VtcHR5KSB7CiAgICAgICAgICAgIHRocm93IExvZ2dpbmdUZXN0U3B5TWFuYWdlck1pc3NpbmdFeGNlcHRpb24oKQogICAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyMjIG1hY09TIHRlbXBsYXRlCiMgR2VuZXJhbAouRFNfU3RvcmUKLkFwcGxlRG91YmxlCi5MU092ZXJyaWRlCgojIEljb24gbXVzdCBlbmQgd2l0aCB0d28gXHIKSWNvbgoKIyBUaHVtYm5haWxzCi5fKgoKIyBGaWxlcyB0aGF0IG1pZ2h0IGFwcGVhciBpbiB0aGUgcm9vdCBvZiBhIHZvbHVtZQouRG9jdW1lbnRSZXZpc2lvbnMtVjEwMAouZnNldmVudHNkCi5TcG90bGlnaHQtVjEwMAouVGVtcG9yYXJ5SXRlbXMKLlRyYXNoZXMKLlZvbHVtZUljb24uaWNucwouY29tLmFwcGxlLnRpbWVtYWNoaW5lLmRvbm90cHJlc2VudAoKIyBEaXJlY3RvcmllcyBwb3RlbnRpYWxseSBjcmVhdGVkIG9uIHJlbW90ZSBBRlAgc2hhcmUKLkFwcGxlREIKLkFwcGxlRGVza3RvcApOZXR3b3JrIFRyYXNoIEZvbGRlcgpUZW1wb3JhcnkgSXRlbXMKLmFwZGlzawo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKG9wdGlvbmFsTG9nZ2luZ1Rlc3QuaXNFbXB0eSkgewogICAgICAgICAgICB0aHJvdyBMb2dnaW5nVGVzdE1pc3NpbmdFeGNlcHRpb24oKQogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hdmVuQ2VudHJhbCgpCi8vICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">IyMjIG1hY09TIHRlbXBsYXRlCiMgR2VuZXJhbAouRFNfU3RvcmUKLkFwcGxlRG91YmxlCi5MU092ZXJyaWRlCgojIEljb24gbXVzdCBlbmQgd2l0aCB0d28gXHIKSWNvbgoKIyBUaHVtYm5haWxzCi5fKgoKIyBGaWxlcyB0aGF0IG1pZ2h0IGFwcGVhciBpbiB0aGUgcm9vdCBvZiBhIHZvbHVtZQouRG9jdW1lbnRSZXZpc2lvbnMtVjEwMAouZnNldmVudHNkCi5TcG90bGlnaHQtVjEwMAouVGVtcG9yYXJ5SXRlbXMKLlRyYXNoZXMKLlZvbHVtZUljb24uaWNucwouY29tLmFwcGxlLnRpbWVtYWNoaW5lLmRvbm90cHJlc2VudAoKIyBEaXJlY3RvcmllcyBwb3RlbnRpYWxseSBjcmVhdGVkIG9uIHJlbW90ZSBBRlAgc2hhcmUKLkFwcGxlREIKLkFwcGxlRGVza3RvcApOZXR3b3JrIFRyYXNoIEZvbGRlcgpUZW1wb3JhcnkgSXRlbXMKLmFwZGlzawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hdmVuTG9jYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuQ2VudHJhbCgpCi8vICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuTG9jYWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkbGVQbHVnaW5Qb3J0YWwoKQo=</text>
+        <text encoding="base64">ICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyYWRsZVBsdWdpblBvcnRhbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>isEmpty</last-search>
+      <last-search encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>isEmpty</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -1643,7 +1646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TestSet</entry>
         <entry>getName</entry>
         <entry>set</entry>
         <entry>setName</entry>
@@ -1663,6 +1665,7 @@
         <entry>Jetbrains</entry>
         <entry>out</entry>
         <entry>isEmpty</entry>
+        <entry encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -1687,6 +1690,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
