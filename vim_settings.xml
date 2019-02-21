@@ -114,19 +114,20 @@
         <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/integration-test/kotlin/com/github/codemonkeyfactory/test/logging/LogTestIntegrationTest.kt" timestamp="1550730266647" />
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550747013698">
-        <mark key="[" line="124" column="19" />
-        <mark key="]" line="124" column="19" />
-        <mark key="." line="124" column="19" />
-        <mark key="^" line="114" column="21" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550747674046">
+        <mark key="[" line="119" column="28" />
+        <mark key="]" line="119" column="27" />
+        <mark key="." line="119" column="27" />
+        <mark key="^" line="119" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/LoggingSpy.kt" timestamp="1550742160047">
         <mark key="[" line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550734823152">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550747431072">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="33" column="10" />
       </file>
       <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/build.gradle.kts" timestamp="1531109953149">
         <mark key="[" line="0" column="0" />
