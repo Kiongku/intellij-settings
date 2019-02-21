@@ -115,10 +115,10 @@
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/integration-test/kotlin/com/github/codemonkeyfactory/test/logging/LogTestIntegrationTest.kt" timestamp="1550730266647" />
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550747674046">
-        <mark key="[" line="119" column="28" />
-        <mark key="]" line="119" column="27" />
-        <mark key="." line="119" column="27" />
-        <mark key="^" line="119" column="27" />
+        <mark key="[" line="120" column="28" />
+        <mark key="]" line="120" column="27" />
+        <mark key="." line="120" column="27" />
+        <mark key="^" line="120" column="27" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/LoggingSpy.kt" timestamp="1550742160047">
         <mark key="[" line="19" column="54" />
