@@ -314,11 +314,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/README.adoc" timestamp="1550719277020">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="13" column="70" />
-        <mark key="." line="13" column="70" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/README.adoc" timestamp="1550720855616">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="13" column="85" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-backend/src/main/java/com/syninno/sims/clinic/users/service/UserServiceImpl.java" timestamp="1511951566124">
         <mark key="[" line="12" column="15" />
@@ -1020,10 +1020,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550656348669">
-        <mark key="]" line="94" column="68" />
-        <mark key="^" line="94" column="68" />
-        <mark key="." line="94" column="68" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550721045889">
+        <mark key="[" line="133" column="43" />
+        <mark key="]" line="133" column="41" />
+        <mark key="^" line="133" column="41" />
+        <mark key="." line="133" column="41" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/inventory/attendance.module.ts" timestamp="1507981047849">
         <mark key="[" line="4" column="0" />
@@ -1048,11 +1049,10 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550656142411">
-        <mark key="[" line="11" column="73" />
-        <mark key="]" line="11" column="70" />
-        <mark key="^" line="11" column="70" />
-        <mark key="." line="11" column="70" />
+      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550721140400">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/sims/subprojects/clinic-frontend/src/app/core/authentication/authentication-result.ts" timestamp="1508685504083">
         <mark key="[" line="1" column="38" />
@@ -1622,11 +1622,11 @@
       <jump line="28" column="52" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>svg?branch=mast</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAiMS4wLjAuU05BUFNIT1QiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>svg?branch=mast</text>
+        <text>@users.noreply.github.co</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</text>
@@ -1634,33 +1634,33 @@
       <register name="0" type="2">
         <text encoding="base64">aWZkZWY6OmVudi1naXRodWJbXQo6IXRvYy10aXRsZToKOnN0YXR1czoKOm91dGZpbGVzdWZmaXg6IC5hZG9jCmVuZGlmOjplbnYtZ2l0aHViW10KLy8gVVJJcwo6dXJpLWJ1aWxkLXN0YXR1czogaHR0cHM6Ly90cmF2aXMtY2kub3JnL2NvZGVtb25rZXlmYWN0b3J5L3Rlc3Qtc3VpdGUuc3ZnP2JyYW5jaD1tYXN0ZXIK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAiMS4wLjAuU05BUFNIT1QiCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CjplbnYtZ2l0aHViOg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1hZ2U6e2ltZy1xdWFsaXR5LWdhdGV9W1NvbmFyQ2xvdWQgUXVhbGl0eSBHYXRlIEJhZGdlXQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CjppbWctcXVhbGl0eS1nYXRlOiBodHRwczovL3NvbmFyY2xvdWQuaW8vYXBpL3Byb2plY3RfYmFkZ2VzL3F1YWxpdHlfZ2F0ZT9wcm9qZWN0PWNvbS5jb2RlbW9ua2V5ZmFjdG9yeS50ZXN0LmxvZ2dpbmc=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CjppbWctYnVnczogaHR0cHM6Ly9zb25hcmNsb3VkLmlvL2FwaS9wcm9qZWN0X2JhZGdlcy9tZWFzdXJlP3Byb2plY3Q9Y29tLmNvZGVtb25rZXlmYWN0b3J5LnRlc3QubG9nZ2luZyZtZXRyaWM9YnVncw==</text>
+      </register>
+      <register name="6" type="4">
         <text>+
 It currently only support</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT0gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">OmhhcmRicmVha3M6CgpbLmRldGFpbHNdCi0tCipWZXJzaW9uKjogMS4wLjAKKkRhdGUqOiAyMDE5LTAyLTIxCi0tCgo6IWhhcmRicmVha3M6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">aWZkZWY6OnN0YXR1c1tdCmltYWdlOntpbWctYnVpbGQtc3RhdHVzfVtCdWlsZCBTdGF0dXMgQmFkZ2UsbGluaz17dXJpLWJ1aWxkLXN0YXR1c31dCmVuZGlmOjpzdGF0dXNbXQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OnN0YXR1czoK</text>
+        <text encoding="base64">PT0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVVJJcwo6dXJpLWJ1aWxkLXN0YXR1czogaHR0cHM6Ly90cmF2aXMtY2kub3JnL2NvZGVtb25rZXlmYWN0b3J5L3Rlc3Qtc3VpdGUuc3ZnP2JyYW5jaD1tYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
