@@ -129,6 +129,30 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test-suite:logging-test [dependencies]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'test-suite:logging-test [dependencies]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test-suite:logging-test [publishToMavenLocal]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'test-suite:logging-test [publishToMavenLocal]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test-suite:logging-test [testEnv]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'test-suite:logging-test [testEnv]'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>

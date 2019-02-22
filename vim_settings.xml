@@ -83,6 +83,11 @@
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/junit/LoggingTestJunitException.kt" timestamp="1550738970815">
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550820680515">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/test-suite/sonar-project.properties" timestamp="1550655759469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,6 +102,11 @@
         <mark key="]" line="8" column="83" />
         <mark key="^" line="11" column="66" />
         <mark key="." line="8" column="83" />
+      </file>
+      <file name="$USER_HOME$/Development/projects/test-suite/gradle.properties" timestamp="1550822336796">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1537153929551">
         <mark key="[" line="0" column="0" />
@@ -114,20 +124,19 @@
         <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/integration-test/kotlin/com/github/codemonkeyfactory/test/logging/LogTestIntegrationTest.kt" timestamp="1550730266647" />
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550806238082">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="75" column="0" />
+      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550822659755">
+        <mark key="[" line="184" column="15" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/LoggingSpy.kt" timestamp="1550742160047">
         <mark key="[" line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550747431072">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
+      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550820250900">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/build.gradle.kts" timestamp="1531109953149">
         <mark key="[" line="0" column="0" />
@@ -254,11 +263,11 @@
       <jump line="28" column="52" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgojZm9vPWJhcg==</text>
       </register>
       <register name="-" type="4">
-        <text>javadoc</text>
+        <text>dependencies</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</text>
@@ -266,32 +275,32 @@
       <register name="0" type="2">
         <text encoding="base64">aWZkZWY6OmVudi1naXRodWJbXQo6IXRvYy10aXRsZToKOnN0YXR1czoKOm91dGZpbGVzdWZmaXg6IC5hZG9jCmVuZGlmOjplbnYtZ2l0aHViW10KLy8gVVJJcwo6dXJpLWJ1aWxkLXN0YXR1czogaHR0cHM6Ly90cmF2aXMtY2kub3JnL2NvZGVtb25rZXlmYWN0b3J5L3Rlc3Qtc3VpdGUuc3ZnP2JyYW5jaD1tYXN0ZXIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgojZm9vPWJhcg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIERldGVybWluZSBpZiB0aGlzIHJlc29sdmVyIHN1cHBvcnRzIHJlc29sdXRpb24gb2YgYW4gYXJndW1lbnQgZm9yIHRoZSBQYXJhbWV0ZXIgaW4gdGhlIHN1cHBsaWVkIFBhcmFtZXRlckNvbnRleHQgZm9yIHRoZSBzdXBwbGllZCBFeHRlbnNpb25Db250ZXh0LgogICAgICogVGhlIHJlZmxlY3QuTWV0aG9kIG9yIHJlZmxlY3QuQ29uc3RydWN0b3IgaW4gd2hpY2ggdGhlIHBhcmFtZXRlciBpcyBkZWNsYXJlZCBjYW4gYmUgcmV0cmlldmVkIHZpYSBQYXJhbWV0ZXJDb250ZXh0LmdldERlY2xhcmluZ0V4ZWN1dGFibGUoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG91dHB1dEZvcm1hdCA9ICJqYXZhZG9jIgo=</text>
+        <text encoding="base64">ICAgIHJlZ2lzdGVyPFRhc2s+KCJ0ZXN0RW52IikgewogICAgICAgIGRvTGFzdCB7CiAgICAgICAgICAgIHByaW50bG4ocHJvamVjdC5leHRyYVsic2lnbmluZy5rZXlJZCJdKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHN1cHByZXNzCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNpZ25pbmdLZXlJZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHN1cHByZXNzCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJjb25maWciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG1lc3NhZ2UgRXhjZXB0aW9uIG1lc3NhZ2UKICogQHBhcmFtIGNhdXNlIEV4Y2VwdGlvbiByb290IGNhdXNlIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRVbmRvY3VtZW50ZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">CiAgICB2YWwgZm9vQmFyOiBTdHJpbmc/IGJ5IHByb2plY3QKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqZGtWZXJzaW9uID0gOAo=</text>
+        <text encoding="base64">ICAgIHJlZ2lzdGVyPFRhc2s+KCJ0ZXN0RW52IikgewogICAgICAgIHByaW50bG4oZm9vQmFyID86ICJlbXB0eSBmb28iKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRva2thIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
