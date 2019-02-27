@@ -76,9 +76,8 @@
         <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/.travis.yml" timestamp="1551237599741">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/junit/LoggingTestJunitException.kt" timestamp="1550738970815">
         <mark key="[" line="5" column="4" />
@@ -117,6 +116,12 @@
       <file name="$USER_HOME$/Development/projects/java-functions-dependencies/src/main/java/com/example/execution/AttributeExecutionUnit.java" timestamp="1537196356834">
         <mark key="[" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/projects/test-suite/.gitignore" timestamp="1551239981915">
+        <mark key="'" line="193" column="9" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/log4j2/InMemoryObservableAppender.kt" timestamp="1550742122429">
         <mark key="[" line="38" column="35" />
         <mark key="]" line="38" column="35" />
@@ -124,19 +129,8 @@
         <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/integration-test/kotlin/com/github/codemonkeyfactory/test/logging/LogTestIntegrationTest.kt" timestamp="1550730266647" />
-      <file name="$USER_HOME$/Development/projects/test-suite/logging-test/build.gradle.kts" timestamp="1550822659755">
-        <mark key="[" line="184" column="15" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/LoggingSpy.kt" timestamp="1550742160047">
         <mark key="[" line="19" column="54" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/build.gradle.kts" timestamp="1550820250900">
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="32" />
-        <mark key="." line="49" column="32" />
-        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/Development/projects/spring-smpp/buildSrc/build.gradle.kts" timestamp="1531109953149">
         <mark key="[" line="0" column="0" />
@@ -161,8 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="13" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
-      <jump line="360" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="365" column="31" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="366" column="82" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
       <jump line="368" column="61" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api/org/gradle/api/artifacts/Configuration.java" />
@@ -261,43 +253,45 @@
       <jump line="29" column="42" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
       <jump line="40" column="20" filename="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Optional.java" />
       <jump line="28" column="52" filename="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/codemonkeyfactory/test/logging/junit/LoggingTestExtension.kt" />
+      <jump line="181" column="15" filename="$USER_HOME$/Development/projects/test-suite/.gitignore" />
+      <jump line="194" column="9" filename="$USER_HOME$/Development/projects/test-suite/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgojZm9vPWJhcg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBpZ25vcmUgYWRkaXRpb25hbCBmaWxlcyBiZWNhdXNlIGF1dG8gZ2VuIGJ5IGdyYWRsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>dependencies</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</text>
+        <text>libraries</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWZkZWY6OmVudi1naXRodWJbXQo6IXRvYy10aXRsZToKOnN0YXR1czoKOm91dGZpbGVzdWZmaXg6IC5hZG9jCmVuZGlmOjplbnYtZ2l0aHViW10KLy8gVVJJcwo6dXJpLWJ1aWxkLXN0YXR1czogaHR0cHM6Ly90cmF2aXMtY2kub3JnL2NvZGVtb25rZXlmYWN0b3J5L3Rlc3Qtc3VpdGUuc3ZnP2JyYW5jaD1tYXN0ZXIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgojZm9vPWJhcg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBpZ25vcmUgYWRkaXRpb25hbCBmaWxlcyBiZWNhdXNlIGF1dG8gZ2VuIGJ5IGdyYWRsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvKiovKi5pbWwKLmlkZWEvbW9kdWxlcy54bWwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdGVyPFRhc2s+KCJ0ZXN0RW52IikgewogICAgICAgIGRvTGFzdCB7CiAgICAgICAgICAgIHByaW50bG4ocHJvamVjdC5leHRyYVsic2lnbmluZy5rZXlJZCJdKQogICAgICAgIH0KICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci5pZGVhL2xpYnJhcmllcy8qKi8qLnhtbA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHNpZ25pbmdLZXlJZCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgojZm9vPWJhcg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJjb25maWciKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlZ2lzdGVyPFRhc2s+KCJ0ZXN0RW52IikgewogICAgICAgIGRvTGFzdCB7CiAgICAgICAgICAgIHByaW50bG4ocHJvamVjdC5leHRyYVsic2lnbmluZy5rZXlJZCJdKQogICAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YWwgZm9vQmFyOiBTdHJpbmc/IGJ5IHByb2plY3QKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNpZ25pbmdLZXlJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdGVyPFRhc2s+KCJ0ZXN0RW52IikgewogICAgICAgIHByaW50bG4oZm9vQmFyID86ICJlbXB0eSBmb28iKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJjb25maWciKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -307,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</last-search>
+      <last-search>libraries</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</last-pattern>
+      <last-pattern>libraries</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -317,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getName</entry>
         <entry>set</entry>
         <entry>setName</entry>
         <entry>mavenLocal</entry>
@@ -337,6 +330,7 @@
         <entry>out</entry>
         <entry>isEmpty</entry>
         <entry encoding="base64">XDxMb2dnaW5nVGVzdFNweU1hbmFnZXJcPg==</entry>
+        <entry>libraries</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
