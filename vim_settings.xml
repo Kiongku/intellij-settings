@@ -75,10 +75,10 @@
       <file name="$USER_HOME$/Development/projects/neo-project/core/settings.gradle.bak" timestamp="1532052875282">
         <mark key="[" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/projects/test-suite/.travis.yml" timestamp="1550656318584">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/Development/projects/test-suite/.travis.yml" timestamp="1551237599741">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Development/projects/test-suite/logging-test/src/main/kotlin/com/github/codemonkeyfactory/test/logging/junit/LoggingTestJunitException.kt" timestamp="1550738970815">
         <mark key="[" line="5" column="4" />
