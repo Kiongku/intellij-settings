@@ -166,7 +166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'test-suite:logging-test [publish]'</Description>
-          <Count>5</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test-suite:logging-test [testEnv]'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'test-suite:logging-test [publish]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
